@@ -1,47 +1,47 @@
 #separator:tab
-#html:false
+#html:true
 #columns:Front	Back
-市役所	しやくしょ, City hall
-警察署	けいさつしょ, Police station
-交番	こうばん, Police box
-消防署	しょうぼうしょ, Fire station
-大使館	たいしかん, embassy
-領事館	りょうじかん, Consulate
-裁判所	さいばんしょ, Courthouse
-教会	きょうかい, church
-工場	こうじょう, Factory
-ガソリンスタンド	がそりんすたんど, Gas station
-美容院	びよういん, Hair salon
-歯科医院	しかいいん, Dental clinic (also 歯医者さん)
-コインランドリー	こいんらんどりー, self-service laundry
-クリーニング屋	くりーにんぐや, Dry cleaner
-病院	びょういん, Hospital
-薬局	やっきょく, Pharmacy (also 薬屋)
-郵便局	ゆうびんきょく, Post office
-銀行	ぎんこう, Bank
-学校	がっこう, School
-パン屋	ぱんや, Bakery
-花屋	はなや, Flower shop
-スーパー	すーぱー, Supermarket
-本屋	ほんや, Bookstore
-魚屋	さかなや, Fish shop
-肉屋	にくや, Butcher
-八百屋	やおや, Greengrocer
-ケーキ屋	けーきや, Cake shop
-喫茶店	きっさてん, Cafe
-文房具屋	ぶんぼうぐや, Stationary store
-靴屋	くつや, Shoe store
-服屋	ふくや, Clothing store
-居酒屋	いざかや, Izakaya (Japanese bar)
-百貨店	ひゃっかてん, Department store
-不動産屋	ふどうさんや, Real estate agency
-100円ショップ	100えんしょっぷ, 100 yen shop
-酒屋	さかや, Liquor store
-リサイクルショップ	りさいくるしょっぷ, Secondhand shop
-眼鏡屋	めがねや, Optician
-家電量販店	かでんりょうはんてん, Electronics store
-ホームセンター	ほーむせんたー, Home improvement store
-ショッピングセンター	しょっぴんぐせんたー, Shopping mall
-図書館	としょかん, Library
-コンビニ	こんびに, Convenience store
-レストラン	れすとらん, Restaurant
+<ruby>市役所<rt>しやくしょ</rt></ruby>	City hall
+<ruby>警察署<rt>けいさつしょ</rt></ruby>	Police station
+<ruby>交番<rt>こうばん</rt></ruby>	Police box
+<ruby>消防署<rt>しょうぼうしょ</rt></ruby>	Fire station
+<ruby>大使館<rt>たいしかん</rt></ruby>	embassy
+<ruby>領事館<rt>りょうじかん</rt></ruby>	Consulate
+<ruby>裁判所<rt>さいばんしょ</rt></ruby>	Courthouse
+<ruby>教会<rt>きょうかい</rt></ruby>	church
+<ruby>工場<rt>こうじょう</rt></ruby>	Factory
+ガソリンスタンド	Gas station
+<ruby>美容院<rt>びよういん</rt></ruby>	Hair salon
+<ruby>歯科医院<rt>しかいいん</rt></ruby>	Dental clinic (also 歯医者さん)
+コインランドリー	self-service laundry
+<ruby>クリーニング屋<rt>くりーにんぐや</rt></ruby>	Dry cleaner
+<ruby>病院<rt>びょういん</rt></ruby>	Hospital
+<ruby>薬局<rt>やっきょく</rt></ruby>	Pharmacy (also 薬屋)
+<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>	Post office
+<ruby>銀行<rt>ぎんこう</rt></ruby>	Bank
+<ruby>学校<rt>がっこう</rt></ruby>	School
+<ruby>パン屋<rt>ぱんや</rt></ruby>	Bakery
+<ruby>花屋<rt>はなや</rt></ruby>	Flower shop
+スーパー	Supermarket
+<ruby>本屋<rt>ほんや</rt></ruby>	Bookstore
+<ruby>魚屋<rt>さかなや</rt></ruby>	Fish shop
+<ruby>肉屋<rt>にくや</rt></ruby>	Butcher
+<ruby>八百屋<rt>やおや</rt></ruby>	Greengrocer
+<ruby>ケーキ屋<rt>けーきや</rt></ruby>	Cake shop
+<ruby>喫茶店<rt>きっさてん</rt></ruby>	Cafe
+<ruby>文房具屋<rt>ぶんぼうぐや</rt></ruby>	Stationary store
+<ruby>靴屋<rt>くつや</rt></ruby>	Shoe store
+<ruby>服屋<rt>ふくや</rt></ruby>	Clothing store
+<ruby>居酒屋<rt>いざかや</rt></ruby>	Izakaya (Japanese bar)
+<ruby>百貨店<rt>ひゃっかてん</rt></ruby>	Department store
+<ruby>不動産屋<rt>ふどうさんや</rt></ruby>	Real estate agency
+<ruby>100円ショップ<rt>100えんしょっぷ</rt></ruby>	100 yen shop
+<ruby>酒屋<rt>さかや</rt></ruby>	Liquor store
+リサイクルショップ	Secondhand shop
+<ruby>眼鏡屋<rt>めがねや</rt></ruby>	Optician
+<ruby>家電量販店<rt>かでんりょうはんてん</rt></ruby>	Electronics store
+ホームセンター	Home improvement store
+ショッピングセンター	Shopping mall
+<ruby>図書館<rt>としょかん</rt></ruby>	Library
+コンビニ	Convenience store
+レストラン	Restaurant

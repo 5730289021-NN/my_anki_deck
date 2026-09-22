@@ -1,51 +1,51 @@
 #separator:tab
-#html:false
+#html:true
 #columns:Front	Back
-私	わたし, I
-あなた	あなた, You
-彼	かれ, He
-彼女	かのじょ, She
-人	ひと, Person
-あの人(方)	あのひと(かた), That person over there
-この人(方)	このひと(かた), This person
-その人(方)	そのひと(かた), That person
-大人	おとな, Adult
-男の人(方)	おとこのひと(かた), Man (Gentleman)
-女の人(方)	おんなのひと(かた), Woman (Lady)
-子供	こども, Child
-男の子	おとこのこ, Boy
-女の子	おんなのこ, Girl
-家族	かぞく, Family
-父	ちち, My father
-お父さん	おとうさん, Other's father
-母	はは, My mother
-お母さん	おかあさん, Other's mother
-兄	あに, My older brother
-お兄さん	おにいさん, Other's older brother
-姉	あね, My older sister
-お姉さん	おねえさん, Other's older sister
-弟	おとうと, My younger brother
-弟さん	おとうとさん, Other's younger brother
-妹	いもうと, My younger sister
-妹さん	いもうとさん, Other's younger sister
-祖父	そふ, My grandfather
-お爺さん	おじいさん, Other's grandfather
-祖母	そぼ, My grandmother
-お婆さん	おばあさん, Other's grandmother
-叔父	おじ, My uncle
-叔父さん	おじさん, Other's uncle
-叔母	おば, My aunt
-叔母さん	おばさん, Other's aunt
-従兄弟・従姉妹	いとこ, Cousin
-姪	めい, My niece
-姪御さん	めいごさん, Other's niece
-甥	おい, My nephew
-甥御さん	おいごさん, Other's nephew
-夫	おっと, My husband
-ご主人	ごしゅじん, Other's husband
-妻	つま, My wife
-奥さん	おくさん, Other's wife
-息子	むすこ, My son
-息子さん	むすこさん, Other's son
-娘	むすめ, My daughter
-娘さん	むすめさん, Other's daughter
+<ruby>私<rt>わたし</rt></ruby>	I
+あなた	You
+<ruby>彼<rt>かれ</rt></ruby>	He
+<ruby>彼女<rt>かのじょ</rt></ruby>	She
+<ruby>人<rt>ひと</rt></ruby>	Person
+<ruby>あの人(方)<rt>あのひと(かた)</rt></ruby>	That person over there
+<ruby>この人(方)<rt>このひと(かた)</rt></ruby>	This person
+<ruby>その人(方)<rt>そのひと(かた)</rt></ruby>	That person
+<ruby>大人<rt>おとな</rt></ruby>	Adult
+<ruby>男の人(方)<rt>おとこのひと(かた)</rt></ruby>	Man (Gentleman)
+<ruby>女の人(方)<rt>おんなのひと(かた)</rt></ruby>	Woman (Lady)
+<ruby>子供<rt>こども</rt></ruby>	Child
+<ruby>男の子<rt>おとこのこ</rt></ruby>	Boy
+<ruby>女の子<rt>おんなのこ</rt></ruby>	Girl
+<ruby>家族<rt>かぞく</rt></ruby>	Family
+<ruby>父<rt>ちち</rt></ruby>	My father
+<ruby>お父さん<rt>おとうさん</rt></ruby>	Other's father
+<ruby>母<rt>はは</rt></ruby>	My mother
+<ruby>お母さん<rt>おかあさん</rt></ruby>	Other's mother
+<ruby>兄<rt>あに</rt></ruby>	My older brother
+<ruby>お兄さん<rt>おにいさん</rt></ruby>	Other's older brother
+<ruby>姉<rt>あね</rt></ruby>	My older sister
+<ruby>お姉さん<rt>おねえさん</rt></ruby>	Other's older sister
+<ruby>弟<rt>おとうと</rt></ruby>	My younger brother
+<ruby>弟さん<rt>おとうとさん</rt></ruby>	Other's younger brother
+<ruby>妹<rt>いもうと</rt></ruby>	My younger sister
+<ruby>妹さん<rt>いもうとさん</rt></ruby>	Other's younger sister
+<ruby>祖父<rt>そふ</rt></ruby>	My grandfather
+<ruby>お爺さん<rt>おじいさん</rt></ruby>	Other's grandfather
+<ruby>祖母<rt>そぼ</rt></ruby>	My grandmother
+<ruby>お婆さん<rt>おばあさん</rt></ruby>	Other's grandmother
+<ruby>叔父<rt>おじ</rt></ruby>	My uncle
+<ruby>叔父さん<rt>おじさん</rt></ruby>	Other's uncle
+<ruby>叔母<rt>おば</rt></ruby>	My aunt
+<ruby>叔母さん<rt>おばさん</rt></ruby>	Other's aunt
+<ruby>従兄弟・従姉妹<rt>いとこ</rt></ruby>	Cousin
+<ruby>姪<rt>めい</rt></ruby>	My niece
+<ruby>姪御さん<rt>めいごさん</rt></ruby>	Other's niece
+<ruby>甥<rt>おい</rt></ruby>	My nephew
+<ruby>甥御さん<rt>おいごさん</rt></ruby>	Other's nephew
+<ruby>夫<rt>おっと</rt></ruby>	My husband
+<ruby>ご主人<rt>ごしゅじん</rt></ruby>	Other's husband
+<ruby>妻<rt>つま</rt></ruby>	My wife
+<ruby>奥さん<rt>おくさん</rt></ruby>	Other's wife
+<ruby>息子<rt>むすこ</rt></ruby>	My son
+<ruby>息子さん<rt>むすこさん</rt></ruby>	Other's son
+<ruby>娘<rt>むすめ</rt></ruby>	My daughter
+<ruby>娘さん<rt>むすめさん</rt></ruby>	Other's daughter

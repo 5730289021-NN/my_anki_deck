@@ -1,29 +1,29 @@
 #separator:tab
-#html:false
+#html:true
 #columns:Front	Back
-東	ひがし, East
-西	にし, West
-南	みなみ, South
-北	きた, North
-近い	ちかい, near
-遠い	とおい, far
-上	うえ, above / on
-下	した, under / below
-中	なか, inside
-外	そと, outside
-真ん中	まんなか, middle
-内側	うちがわ, inner
-外側	そとがわ, outer
-周り	まわり, around
-前	まえ, in front of
-後ろ	うしろ, behind
-右	みぎ, right
-左	ひだり, left
-隣	となり, next to;「隣」=2つのものや人が、同じカテゴリーで隣り合っているときに使う (Used when two people or things are in the same category and are next to each other.)
-横	よこ, beside;「横」＝左側または右側の位置 (The position on the left or right side.)
-間	あいだ, between
-そば	そば, near / close by;「そば」＝何かや誰かの近くの場所、方向は関係ない (A place close to something or someone. The direction does not matter.)
-ここ	ここ, here
-そこ	そこ, there
-あそこ	あそこ, over there
-どこ	どこ, where
+<ruby>東<rt>ひがし</rt></ruby>	East
+<ruby>西<rt>にし</rt></ruby>	West
+<ruby>南<rt>みなみ</rt></ruby>	South
+<ruby>北<rt>きた</rt></ruby>	North
+<ruby>近い<rt>ちかい</rt></ruby>	near
+<ruby>遠い<rt>とおい</rt></ruby>	far
+<ruby>上<rt>うえ</rt></ruby>	above / on
+<ruby>下<rt>した</rt></ruby>	under / below
+<ruby>中<rt>なか</rt></ruby>	inside
+<ruby>外<rt>そと</rt></ruby>	outside
+<ruby>真ん中<rt>まんなか</rt></ruby>	middle
+<ruby>内側<rt>うちがわ</rt></ruby>	inner
+<ruby>外側<rt>そとがわ</rt></ruby>	outer
+<ruby>周り<rt>まわり</rt></ruby>	around
+<ruby>前<rt>まえ</rt></ruby>	in front of
+<ruby>後ろ<rt>うしろ</rt></ruby>	behind
+<ruby>右<rt>みぎ</rt></ruby>	right
+<ruby>左<rt>ひだり</rt></ruby>	left
+<ruby>隣<rt>となり</rt></ruby>	next to;「隣」=2つのものや人が、同じカテゴリーで隣り合っているときに使う (Used when two people or things are in the same category and are next to each other.)
+<ruby>横<rt>よこ</rt></ruby>	beside;「横」＝左側または右側の位置 (The position on the left or right side.)
+<ruby>間<rt>あいだ</rt></ruby>	between
+そば	near / close by;「そば」＝何かや誰かの近くの場所、方向は関係ない (A place close to something or someone. The direction does not matter.)
+ここ	here
+そこ	there
+あそこ	over there
+どこ	where
