@@ -1,0 +1,14 @@
+# Generated/derived deck files — fully reproducible from the source files
+# via `python3 rebuild.py` (see README.md). Not tracked to avoid storing
+# duplicate data.
+Composite.txt
+Verbs/VerbAll.txt
+Verbs/Tiers/
+Adjectives/AdjectiveAll.txt
+Adjectives/Tiers/
+Kanji/Tiers/
+
+# OS / tooling cruft
+.DS_Store
+__pycache__/
+*.pyc
