@@ -1,124 +1,124 @@
 order	source_file	source_row	front	meaning
 1	Adjective-i.txt	20	いい	Good
-2	Adjective-i.txt	21	悪い	Bad
-3	Adjective-i.txt	11	大きい	Big
-4	Adjective-i.txt	12	小さい	Small
-5	Adjective-i.txt	6	高い	High/Expensive
-6	Adjective-i.txt	7	安い	Cheap
-7	Adjective-i.txt	17	忙しい	Busy
-8	Adjective-i.txt	18	新しい	New
-9	Adjective-i.txt	19	古い	Old
-10	Adjective-na.txt	13	好き	Like
-11	Adjective-na.txt	14	嫌い	Dislike
-12	Adjective-na.txt	15	上手	Good at
-13	Adjective-na.txt	16	下手	Not good at
-14	Adjective-na.txt	21	大丈夫	Fine/Ok
-15	Adjective-na.txt	2	元気	Energetic
+2	Adjective-i.txt	21	<ruby>悪い<rt>わるい</rt></ruby>	Bad
+3	Adjective-i.txt	11	<ruby>大きい<rt>おおきい</rt></ruby>	Big
+4	Adjective-i.txt	12	<ruby>小さい<rt>ちいさい</rt></ruby>	Small
+5	Adjective-i.txt	6	<ruby>高い<rt>たかい</rt></ruby>	High/Expensive
+6	Adjective-i.txt	7	<ruby>安い<rt>やすい</rt></ruby>	Cheap
+7	Adjective-i.txt	17	<ruby>忙しい<rt>いそがしい</rt></ruby>	Busy
+8	Adjective-i.txt	18	<ruby>新しい<rt>あたらしい</rt></ruby>	New
+9	Adjective-i.txt	19	<ruby>古い<rt>ふるい</rt></ruby>	Old
+10	Adjective-na.txt	13	<ruby>好き<rt>すき</rt></ruby>	Like
+11	Adjective-na.txt	14	<ruby>嫌い<rt>きらい</rt></ruby>	Dislike
+12	Adjective-na.txt	15	<ruby>上手<rt>じょうず</rt></ruby>	Good at
+13	Adjective-na.txt	16	<ruby>下手<rt>へた</rt></ruby>	Not good at
+14	Adjective-na.txt	21	<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>	Fine/Ok
+15	Adjective-na.txt	2	<ruby>元気<rt>げんき</rt></ruby>	Energetic
 16	Adjective-na.txt	4	きれい	Beautiful/Clean
-17	Adjective-i.txt	24	面白い	Fun
-18	Adjective-i.txt	25	楽しい	Interesting
-19	Adjective-na.txt	10	便利	Convenience
-20	Adjective-na.txt	20	大切	Important
-21	Adjective-i.txt	3	暑い	Hot
-22	Adjective-i.txt	4	寒い	Cold
-23	Adjective-i.txt	15	多い	A lot/Much
-24	Adjective-i.txt	16	少ない	A little
-25	Adjective-i.txt	13	早い	Fast/Early
-26	Adjective-i.txt	14	遅い	Slow
-27	Adjective-i.txt	30	近い	Near/Close
-28	Adjective-i.txt	31	遠い	Far
-29	Adjective-i.txt	9	長い	Long
-30	Adjective-i.txt	10	短い	Short
-31	Adjective-i.txt	36	重い	Heavy
-32	Adjective-i.txt	37	軽い	Light
-33	Adjective-i.txt	50	強い	Strong
-34	Adjective-i.txt	51	弱い	Weak
-35	Adjective-i.txt	22	難しい	Difficult
-36	Adjective-i.txt	42	明るい	Bright
-37	Adjective-i.txt	43	暗い	Dark
-38	Adjective-i.txt	41	若い	Young
-39	Adjective-i.txt	39	広い	Wide
-40	Adjective-i.txt	34	甘い	Sweet
-41	Adjective-i.txt	35	辛い	Spicy
-42	Adjective-na.txt	6	静か	Quiet
-43	Adjective-na.txt	3	有名	Famous
-44	Adjective-na.txt	9	親切	Kind
-45	Adjective-na.txt	18	簡単	Easy
-46	Adjective-na.txt	19	大変	Hard
-47	Adjective-na.txt	22	無理	Impossible
-48	Adjective-na.txt	24	同じ	Same
-49	Adjective-na.txt	25	心配	Worry
-50	Adjective-na.txt	28	十分	Enough
+17	Adjective-i.txt	24	<ruby>面白い<rt>おもしろい</rt></ruby>	Fun
+18	Adjective-i.txt	25	<ruby>楽しい<rt>たのしい</rt></ruby>	Interesting
+19	Adjective-na.txt	10	<ruby>便利<rt>べんり</rt></ruby>	Convenience
+20	Adjective-na.txt	20	<ruby>大切<rt>たいせつ</rt></ruby>	Important
+21	Adjective-i.txt	3	<ruby>暑い<rt>あつい</rt></ruby>	Hot
+22	Adjective-i.txt	4	<ruby>寒い<rt>さむい</rt></ruby>	Cold
+23	Adjective-i.txt	15	<ruby>多い<rt>おおい</rt></ruby>	A lot/Much
+24	Adjective-i.txt	16	<ruby>少ない<rt>すくない</rt></ruby>	A little
+25	Adjective-i.txt	13	<ruby>早い<rt>はやい</rt></ruby>	Fast/Early
+26	Adjective-i.txt	14	<ruby>遅い<rt>おそい</rt></ruby>	Slow
+27	Adjective-i.txt	30	<ruby>近い<rt>ちかい</rt></ruby>	Near/Close
+28	Adjective-i.txt	31	<ruby>遠い<rt>とおい</rt></ruby>	Far
+29	Adjective-i.txt	9	<ruby>長い<rt>ながい</rt></ruby>	Long
+30	Adjective-i.txt	10	<ruby>短い<rt>みじかい</rt></ruby>	Short
+31	Adjective-i.txt	36	<ruby>重い<rt>おもい</rt></ruby>	Heavy
+32	Adjective-i.txt	37	<ruby>軽い<rt>かるい</rt></ruby>	Light
+33	Adjective-i.txt	50	<ruby>強い<rt>つよい</rt></ruby>	Strong
+34	Adjective-i.txt	51	<ruby>弱い<rt>よわい</rt></ruby>	Weak
+35	Adjective-i.txt	22	<ruby>難しい<rt>むずかしい</rt></ruby>	Difficult
+36	Adjective-i.txt	42	<ruby>明るい<rt>あかるい</rt></ruby>	Bright
+37	Adjective-i.txt	43	<ruby>暗い<rt>くらい</rt></ruby>	Dark
+38	Adjective-i.txt	41	<ruby>若い<rt>わかい</rt></ruby>	Young
+39	Adjective-i.txt	39	<ruby>広い<rt>ひろい</rt></ruby>	Wide
+40	Adjective-i.txt	34	<ruby>甘い<rt>あまい</rt></ruby>	Sweet
+41	Adjective-i.txt	35	<ruby>辛い<rt>からい</rt></ruby>	Spicy
+42	Adjective-na.txt	6	<ruby>静か<rt>しずか</rt></ruby>	Quiet
+43	Adjective-na.txt	3	<ruby>有名<rt>ゆうめい</rt></ruby>	Famous
+44	Adjective-na.txt	9	<ruby>親切<rt>しんせつ</rt></ruby>	Kind
+45	Adjective-na.txt	18	<ruby>簡単<rt>かんたん</rt></ruby>	Easy
+46	Adjective-na.txt	19	<ruby>大変<rt>たいへん</rt></ruby>	Hard
+47	Adjective-na.txt	22	<ruby>無理<rt>むり</rt></ruby>	Impossible
+48	Adjective-na.txt	24	<ruby>同じ<rt>おなじ</rt></ruby>	Same
+49	Adjective-na.txt	25	<ruby>心配<rt>しんぱい</rt></ruby>	Worry
+50	Adjective-na.txt	28	<ruby>十分<rt>じゅうぶん</rt></ruby>	Enough
 51	Adjective-na.txt	29	だめ	Not good
-52	Adjective-na.txt	32	変	Strange
-53	Adjective-na.txt	33	幸せ	Happy
-54	Adjective-na.txt	34	楽	Easy work
-55	Adjective-na.txt	35	安全	Safe
-56	Adjective-na.txt	37	危険	Dangerous
-57	Adjective-na.txt	11	不便	Inconvenience
-58	Adjective-na.txt	12	素敵	Nice
-59	Adjective-na.txt	17	色々	Various
-60	Adjective-na.txt	26	真面目	Serious
-61	Adjective-i.txt	47	危ない	Dangerous
-62	Adjective-i.txt	48	痛い	Painful
-63	Adjective-i.txt	49	眠い	Sleepy
-64	Adjective-i.txt	5	冷たい	Cold (touch)
-65	Adjective-i.txt	40	狭い	Narrow
-66	Adjective-i.txt	38	欲しい／たい	Want
-67	Adjective-i.txt	46	頭がいい	Smart
-68	Adjective-i.txt	59	気分がいい	Feel good
-69	Adjective-i.txt	60	気分が悪い	Feel bad
-70	Adjective-i.txt	57	都合がいい	Convenient
-71	Adjective-i.txt	58	都合が悪い	Inconvenient
-72	Adjective-i.txt	52	調子がいい	Doing well
-73	Adjective-i.txt	53	調子が悪い	Not doing well
-74	Adjective-i.txt	68	気持ちがいい	Feel good
-75	Adjective-i.txt	69	気持ちが悪い	Feel bad
-76	Adjective-i.txt	54	体にいい	Healthy
-77	Adjective-i.txt	70	汚い	Dirty
-78	Adjective-i.txt	71	嬉しい	Happy
-79	Adjective-i.txt	56	悲しい	Sad
+52	Adjective-na.txt	32	<ruby>変<rt>へん</rt></ruby>	Strange
+53	Adjective-na.txt	33	<ruby>幸せ<rt>しあわせ</rt></ruby>	Happy
+54	Adjective-na.txt	34	<ruby>楽<rt>らく</rt></ruby>	Easy work
+55	Adjective-na.txt	35	<ruby>安全<rt>あんぜん</rt></ruby>	Safe
+56	Adjective-na.txt	37	<ruby>危険<rt>きけん</rt></ruby>	Dangerous
+57	Adjective-na.txt	11	<ruby>不便<rt>ふべん</rt></ruby>	Inconvenience
+58	Adjective-na.txt	12	<ruby>素敵<rt>すてき</rt></ruby>	Nice
+59	Adjective-na.txt	17	<ruby>色々<rt>いろいろ</rt></ruby>	Various
+60	Adjective-na.txt	26	<ruby>真面目<rt>まじめ</rt></ruby>	Serious
+61	Adjective-i.txt	47	<ruby>危ない<rt>あぶない</rt></ruby>	Dangerous
+62	Adjective-i.txt	48	<ruby>痛い<rt>いたい</rt></ruby>	Painful
+63	Adjective-i.txt	49	<ruby>眠い<rt>ねむい</rt></ruby>	Sleepy
+64	Adjective-i.txt	5	<ruby>冷たい<rt>つめたい</rt></ruby>	Cold (touch)
+65	Adjective-i.txt	40	<ruby>狭い<rt>せまい</rt></ruby>	Narrow
+66	Adjective-i.txt	38	<ruby>欲しい／たい<rt>ほしい</rt></ruby>	Want
+67	Adjective-i.txt	46	<ruby>頭がいい<rt>あたまがよい</rt></ruby>	Smart
+68	Adjective-i.txt	59	<ruby>気分がいい<rt>きぶんがよい</rt></ruby>	Feel good
+69	Adjective-i.txt	60	<ruby>気分が悪い<rt>きぶんがわるい</rt></ruby>	Feel bad
+70	Adjective-i.txt	57	<ruby>都合がいい<rt>つごうがよい</rt></ruby>	Convenient
+71	Adjective-i.txt	58	<ruby>都合が悪い<rt>つごうがわるい</rt></ruby>	Inconvenient
+72	Adjective-i.txt	52	<ruby>調子がいい<rt>ちょうしがよい</rt></ruby>	Doing well
+73	Adjective-i.txt	53	<ruby>調子が悪い<rt>ちょうしがわるい</rt></ruby>	Not doing well
+74	Adjective-i.txt	68	<ruby>気持ちがいい<rt>きもちがよい</rt></ruby>	Feel good
+75	Adjective-i.txt	69	<ruby>気持ちが悪い<rt>きもちがわるい</rt></ruby>	Feel bad
+76	Adjective-i.txt	54	<ruby>体にいい<rt>からだによい</rt></ruby>	Healthy
+77	Adjective-i.txt	70	<ruby>汚い<rt>きたない</rt></ruby>	Dirty
+78	Adjective-i.txt	71	<ruby>嬉しい<rt>うれしい</rt></ruby>	Happy
+79	Adjective-i.txt	56	<ruby>悲しい<rt>かなしい</rt></ruby>	Sad
 80	Adjective-i.txt	55	すごい	Great
-81	Adjective-i.txt	66	正しい	Correct
-82	Adjective-i.txt	67	美しい	Beautiful
+81	Adjective-i.txt	66	<ruby>正しい<rt>ただしい</rt></ruby>	Correct
+82	Adjective-i.txt	67	<ruby>美しい<rt>うつくしい</rt></ruby>	Beautiful
 83	Adjective-na.txt	5	にぎやか	Lively/good noise
 84	Adjective-na.txt	7	ハンサム	Handsome
 85	Adjective-na.txt	8	キュート	Cute
-86	Adjective-na.txt	23	無駄	Useless
-87	Adjective-na.txt	27	熱心	Enthusiastic
-88	Adjective-na.txt	30	楽しみ	Look forward to
-89	Adjective-na.txt	31	複雑	Complicated
-90	Adjective-na.txt	36	丁寧	Polite
+86	Adjective-na.txt	23	<ruby>無駄<rt>むだ</rt></ruby>	Useless
+87	Adjective-na.txt	27	<ruby>熱心<rt>ねっしん</rt></ruby>	Enthusiastic
+88	Adjective-na.txt	30	<ruby>楽しみ<rt>たのしみ</rt></ruby>	Look forward to
+89	Adjective-na.txt	31	<ruby>複雑<rt>ふくざつ</rt></ruby>	Complicated
+90	Adjective-na.txt	36	<ruby>丁寧<rt>ていねい</rt></ruby>	Polite
 91	Adjective-na.txt	38	いや	Not like/not want
-92	Adjective-na.txt	1	暇	Bored/nothing to do
-93	Adjective-i.txt	1	美味しい	Delicious
+92	Adjective-na.txt	1	<ruby>暇<rt>ひま</rt></ruby>	Bored/nothing to do
+93	Adjective-i.txt	1	<ruby>美味しい<rt>おいしい</rt></ruby>	Delicious
 94	Adjective-i.txt	2	かわいい	Cute/Pretty
-95	Adjective-i.txt	8	低い	Low
-96	Adjective-i.txt	23	易しい	Easy/Gentle
-97	Adjective-i.txt	26	白い	White
-98	Adjective-i.txt	27	赤い	Red
-99	Adjective-i.txt	28	黒い	Black
-100	Adjective-i.txt	29	青い	Blue
-101	Adjective-i.txt	32	暖かい	Warm
-102	Adjective-i.txt	33	涼しい	Cool
-103	Adjective-i.txt	44	背が高い	Tall
-104	Adjective-i.txt	45	背が低い	Short
-105	Adjective-i.txt	61	偉い	Great (person)
+95	Adjective-i.txt	8	<ruby>低い<rt>ひくい</rt></ruby>	Low
+96	Adjective-i.txt	23	<ruby>易しい<rt>やさしい</rt></ruby>	Easy/Gentle
+97	Adjective-i.txt	26	<ruby>白い<rt>しろい</rt></ruby>	White
+98	Adjective-i.txt	27	<ruby>赤い<rt>あかい</rt></ruby>	Red
+99	Adjective-i.txt	28	<ruby>黒い<rt>くろい</rt></ruby>	Black
+100	Adjective-i.txt	29	<ruby>青い<rt>あおい</rt></ruby>	Blue
+101	Adjective-i.txt	32	<ruby>暖かい<rt>あたたかい</rt></ruby>	Warm
+102	Adjective-i.txt	33	<ruby>涼しい<rt>すずしい</rt></ruby>	Cool
+103	Adjective-i.txt	44	<ruby>背が高い<rt>せがたかい</rt></ruby>	Tall
+104	Adjective-i.txt	45	<ruby>背が低い<rt>せがひくい</rt></ruby>	Short
+105	Adjective-i.txt	61	<ruby>偉い<rt>えらい</rt></ruby>	Great (person)
 106	Adjective-i.txt	62	ちょうどいい	Just right (size/time)
 107	Adjective-i.txt	63	うるさい	Noisy
 108	Adjective-i.txt	64	おかしい	Strange
-109	Adjective-i.txt	65	苦い	Bitter
-110	Adjective-i.txt	72	寂しい	Lonely
-111	Adjective-i.txt	73	恥ずかしい	Embarrassed
-112	Adjective-i.txt	74	固い	Hard
-113	Adjective-i.txt	75	柔らかい	Soft
-114	Adjective-i.txt	76	珍しい	Rare
+109	Adjective-i.txt	65	<ruby>苦い<rt>にがい</rt></ruby>	Bitter
+110	Adjective-i.txt	72	<ruby>寂しい<rt>さびしい</rt></ruby>	Lonely
+111	Adjective-i.txt	73	<ruby>恥ずかしい<rt>はずかしい</rt></ruby>	Embarrassed
+112	Adjective-i.txt	74	<ruby>固い<rt>かたい</rt></ruby>	Hard
+113	Adjective-i.txt	75	<ruby>柔らかい<rt>やわらかい</rt></ruby>	Soft
+114	Adjective-i.txt	76	<ruby>珍しい<rt>めずらしい</rt></ruby>	Rare
 115	Adjective-i.txt	77	うまい	Tasty
 116	Adjective-i.txt	78	まずい	Not tasty
-117	Adjective-i.txt	79	濃い	Strong flavor
-118	Adjective-i.txt	80	薄い	Little taste
-119	Adjective-i.txt	81	太い	Thick
-120	Adjective-i.txt	82	細い・薄い	Thin
+117	Adjective-i.txt	79	<ruby>濃い<rt>こい</rt></ruby>	Strong flavor
+118	Adjective-i.txt	80	<ruby>薄い<rt>うすい</rt></ruby>	Little taste
+119	Adjective-i.txt	81	<ruby>太い<rt>ふとい</rt></ruby>	Thick
+120	Adjective-i.txt	82	<ruby>細い・薄い<rt>ほそい</rt></ruby>	Thin
 121	Adjective-i.txt	83	ひどい	Awful
-122	Adjective-i.txt	84	怖い	Scary
-123	Adjective-i.txt	85	厳しい	Strict
+122	Adjective-i.txt	84	<ruby>怖い<rt>こわい</rt></ruby>	Scary
+123	Adjective-i.txt	85	<ruby>厳しい<rt>きびしい</rt></ruby>	Strict
