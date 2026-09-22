@@ -1,0 +1,126 @@
+order	source_file	source_row	front	meaning
+1	VerbG3.txt	4	する	Do
+2	VerbG2.txt	5	いる	Exist
+3	VerbG1.txt	1	行く	Go
+4	VerbG3.txt	1	来る	Come
+5	VerbG2.txt	4	見る	Look/Watch
+6	VerbG1.txt	57	言う	Say/Tell
+7	VerbG1.txt	56	思う	Think/Guess
+8	VerbG1.txt	12	分かる	Understand
+9	VerbG1.txt	18	知る	Know
+10	VerbG1.txt	54	なる	Become
+11	VerbG2.txt	2	食べる	Eat
+12	VerbG1.txt	4	飲む	Drink
+13	VerbG1.txt	2	帰る	Go back
+14	VerbG1.txt	3	聞く	Listen
+15	VerbG1.txt	5	話す	Speak
+16	VerbG1.txt	9	買う	Buy
+17	VerbG1.txt	34	使う	Use
+18	VerbG1.txt	38	入る	Come in/Enter
+19	VerbG2.txt	1	起きる	Wake up
+20	VerbG2.txt	3	寝る	Sleep
+21	VerbG1.txt	6	読む	Read
+22	VerbG1.txt	7	会う	Meet
+23	VerbG1.txt	8	書く	Write
+24	VerbG1.txt	10	取る	Take
+25	VerbG1.txt	11	待つ	Wait
+26	VerbG1.txt	14	聞く	Ask
+27	VerbG1.txt	15	乗る	Ride/Get on
+28	VerbG1.txt	19	住む	Live
+29	VerbG1.txt	21	働く	Work
+30	VerbG1.txt	22	休む	Rest/Absent
+31	VerbG1.txt	23	終わる	Finish
+32	VerbG1.txt	26	送る	Send
+33	VerbG1.txt	27	もらう	Get/receive
+34	VerbG1.txt	30	かかる	It takes/Cost
+35	VerbG1.txt	31	遊ぶ	Play/Go out
+36	VerbG1.txt	37	持つ	Hold
+37	VerbG1.txt	42	置く	Put
+38	VerbG1.txt	43	作る	Make
+39	VerbG1.txt	55	いる	Need
+40	VerbG1.txt	64	着く	Arrive
+41	VerbG2.txt	7	着る	Put on clothes
+42	VerbG2.txt	8	開ける	Open
+43	VerbG2.txt	9	教える	Teach
+44	VerbG2.txt	10	降りる	Get off
+45	VerbG2.txt	13	つける	Turn on
+46	VerbG2.txt	14	電話をかける	Make a call
+47	VerbG2.txt	15	忘れる	Forget
+48	VerbG2.txt	18	あげる	Give
+49	VerbG2.txt	19	疲れる	Get tired
+50	VerbG2.txt	20	出る	Leave
+51	VerbG2.txt	24	始める	Start
+52	VerbG2.txt	25	覚える	Memorize
+53	VerbG2.txt	28	調べる	Search/Look up
+54	VerbG2.txt	33	考える	Think
+55	VerbG3.txt	5	勉強する	Study
+56	VerbG3.txt	10	電話する	Make a call
+57	VerbG1.txt	16	歌う	Sing
+58	VerbG1.txt	20	はく	Put on (shoes)
+59	VerbG1.txt	25	切る	Cut
+60	VerbG1.txt	28	貸す	Lend/Rent
+61	VerbG1.txt	29	習う	Learn
+62	VerbG1.txt	32	消す	Turn off
+63	VerbG1.txt	33	立つ	Stand
+64	VerbG1.txt	35	座る	Sit
+65	VerbG1.txt	36	急ぐ	Hurry
+66	VerbG1.txt	39	手伝う	Help
+67	VerbG1.txt	40	呼ぶ	Call
+68	VerbG1.txt	41	降る	Fall
+69	VerbG1.txt	44	売る	Sell
+70	VerbG1.txt	45	思い出す	Remember
+71	VerbG1.txt	46	なくす	Lose
+72	VerbG1.txt	47	払う	Pay
+73	VerbG1.txt	48	返す	Return
+74	VerbG1.txt	49	脱ぐ	Take off
+75	VerbG1.txt	50	洗う	Wash
+76	VerbG1.txt	58	勝つ	Win
+77	VerbG1.txt	59	動く	Move
+78	VerbG1.txt	61	渡る	Cross
+79	VerbG1.txt	62	曲がる	Turn a corner
+80	VerbG1.txt	63	直す	Repair
+81	VerbG1.txt	66	探す	Look for
+82	VerbG1.txt	67	間に合う	In time
+83	VerbG2.txt	11	借りる	Borrow
+84	VerbG2.txt	12	閉める	Close
+85	VerbG2.txt	17	捨てる	Throw away
+86	VerbG2.txt	21	止める	Stop
+87	VerbG2.txt	22	見せる	Show
+88	VerbG2.txt	23	浴びる	Take a shower
+89	VerbG2.txt	26	集める	Collect
+90	VerbG2.txt	27	変える	Change
+91	VerbG2.txt	29	負ける	Lose
+92	VerbG2.txt	30	やめる	Quit
+93	VerbG2.txt	31	気をつける	Watch out
+94	VerbG2.txt	32	生まれる	Born
+95	VerbG2.txt	34	足りる	It's enough
+96	VerbG2.txt	35	遅れる	Be late
+97	VerbG3.txt	3	持ってくる	Bring a thing
+98	VerbG3.txt	6	料理する	Cook
+99	VerbG3.txt	7	運転する	Drive
+100	VerbG3.txt	8	洗濯する	Wash the clothes
+101	VerbG3.txt	9	掃除する	Clean up
+102	VerbG3.txt	11	宿題する	Do homework
+103	VerbG3.txt	13	買い物する	Do shopping
+104	VerbG3.txt	14	食事する	Have meal
+105	VerbG3.txt	17	心配する	Worry
+106	VerbG3.txt	19	練習する	Practice
+107	VerbG3.txt	21	紹介する	Introduce
+108	VerbG3.txt	23	準備する	Prepare
+109	VerbG1.txt	13	泳ぐ	Swim
+110	VerbG1.txt	17	かぶる	Put on a hat
+111	VerbG1.txt	24	吸う	Smoke
+112	VerbG1.txt	51	弾く	Play instrumental
+113	VerbG1.txt	52	登る	Climb
+114	VerbG1.txt	53	泊まる	Stay (at hotel)
+115	VerbG1.txt	60	役に立つ	Useful
+116	VerbG1.txt	65	年を取る	Get old
+117	VerbG2.txt	6	めがねをかける	Put on glasses
+118	VerbG3.txt	2	連れてくる	Take a person
+119	VerbG3.txt	12	テニスする	Play tennis
+120	VerbG3.txt	15	散歩する	Take a walk
+121	VerbG3.txt	16	研究する	Research
+122	VerbG3.txt	18	出張する	Do business trip
+123	VerbG3.txt	20	故障する	Break down
+124	VerbG3.txt	22	案内する	Guide
+125	VerbG2.txt	16	じろじろ見る	Stare at

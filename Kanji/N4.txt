@@ -1,0 +1,173 @@
+#separator:tab
+#html:true
+#columns:Front	Back
+言	い.う、こと / ゲン、ゴン<br><ruby>言います<rt>いいます</rt></ruby> to say<br><ruby>言葉<rt>ことば</rt></ruby> word/language<br><ruby>言語<rt>げんご</rt></ruby> language<br><ruby>方言<rt>ほうげん</rt></ruby> dialect
+手	て / シュ<br><ruby>手<rt>て</rt></ruby> hand<br><ruby>手紙<rt>てがみ</rt></ruby> letter<br><ruby>上手<rt>じょうず</rt></ruby> good at<br><ruby>苦手<rt>にがて</rt></ruby> weak at/dislike
+自	みずか.ら / ジ、シ<br><ruby>自分<rt>じぶん</rt></ruby> oneself<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>自由<rt>じゆう</rt></ruby> freedom<br><ruby>自動車<rt>じどうしゃ</rt></ruby> automobile
+者	もの / シャ<br><ruby>医者<rt>いしゃ</rt></ruby> doctor<br><ruby>若者<rt>わかもの</rt></ruby> young person<br><ruby>学者<rt>がくしゃ</rt></ruby> scholar<br><ruby>記者<rt>きしゃ</rt></ruby> journalist
+事	こと / ジ、ズ<br><ruby>仕事<rt>しごと</rt></ruby> job/work<br><ruby>大事<rt>だいじ</rt></ruby> important<br><ruby>食事<rt>しょくじ</rt></ruby> meal<br><ruby>事故<rt>じこ</rt></ruby> accident
+思	おも.う / シ<br><ruby>思います<rt>おもいます</rt></ruby> to think<br><ruby>思い出<rt>おもいで</rt></ruby> memory<br><ruby>思い出す<rt>おもいだす</rt></ruby> to remember<br><ruby>不思議<rt>ふしぎ</rt></ruby> mysterious
+会	あ.う / カイ、エ<br><ruby>会います<rt>あいます</rt></ruby> to meet<br><ruby>会社<rt>かいしゃ</rt></ruby> company<br><ruby>会話<rt>かいわ</rt></ruby> conversation<br><ruby>社会<rt>しゃかい</rt></ruby> society
+家	いえ、や / カ、ケ<br><ruby>家<rt>いえ</rt></ruby> house<br><ruby>家族<rt>かぞく</rt></ruby> family<br><ruby>作家<rt>さっか</rt></ruby> author<br><ruby>大家<rt>おおや</rt></ruby> landlord
+的	まと / テキ<br><ruby>目的<rt>もくてき</rt></ruby> purpose/goal<br><ruby>的<rt>まと</rt></ruby> target<br><ruby>一般的<rt>いっぱんてき</rt></ruby> general<br><ruby>個人的<rt>こじんてき</rt></ruby> personal
+方	かた / ホウ<br><ruby>方<rt>かた</rt></ruby> person (polite)<br><ruby>方法<rt>ほうほう</rt></ruby> method<br><ruby>両方<rt>りょうほう</rt></ruby> both<br><ruby>やり方<rt>やりかた</rt></ruby> way of doing
+地	チ、ジ<br><ruby>地図<rt>ちず</rt></ruby> map<br><ruby>地震<rt>じしん</rt></ruby> earthquake<br><ruby>地下<rt>ちか</rt></ruby> basement<br><ruby>地方<rt>ちほう</rt></ruby> region
+目	め / モク、ボク<br><ruby>目<rt>め</rt></ruby> eye<br><ruby>真面目<rt>まじめ</rt></ruby> serious<br><ruby>目的<rt>もくてき</rt></ruby> purpose<br><ruby>一番目<rt>いちばんめ</rt></ruby> the first (ordinal)
+場	ば / ジョウ<br><ruby>場所<rt>ばしょ</rt></ruby> place<br><ruby>会場<rt>かいじょう</rt></ruby> venue<br><ruby>工場<rt>こうじょう</rt></ruby> factory<br><ruby>市場<rt>いちば</rt></ruby> market
+代	か.わる、よ / ダイ、タイ<br><ruby>時代<rt>じだい</rt></ruby> era<br><ruby>代わりに<rt>かわりに</rt></ruby> instead of<br><ruby>二十代<rt>にじゅうだい</rt></ruby> one's twenties<br><ruby>世代<rt>せだい</rt></ruby> generation
+私	わたし、わたくし / シ<br><ruby>私<rt>わたし</rt></ruby> I<br><ruby>私たち<rt>わたしたち</rt></ruby> we<br><ruby>私立<rt>しりつ</rt></ruby> private (institution)
+立	た.つ / リツ、リュウ<br><ruby>立ちます<rt>たちます</rt></ruby> to stand<br><ruby>私立<rt>しりつ</rt></ruby> private<br><ruby>国立<rt>こくりつ</rt></ruby> national (institution)<br><ruby>立派<rt>りっぱ</rt></ruby> splendid
+物	もの / ブツ、モツ<br><ruby>食べ物<rt>たべもの</rt></ruby> food<br><ruby>飲み物<rt>のみもの</rt></ruby> drink<br><ruby>買い物<rt>かいもの</rt></ruby> shopping<br><ruby>動物<rt>どうぶつ</rt></ruby> animal
+田	た / デン<br><ruby>田んぼ<rt>たんぼ</rt></ruby> rice paddy<br><ruby>田舎<rt>いなか</rt></ruby> countryside
+体	からだ / タイ、テイ<br><ruby>体<rt>からだ</rt></ruby> body<br><ruby>体調<rt>たいちょう</rt></ruby> physical condition<br><ruby>体育<rt>たいいく</rt></ruby> physical education<br><ruby>全体<rt>ぜんたい</rt></ruby> the whole
+動	うご.く / ドウ<br><ruby>動きます<rt>うごきます</rt></ruby> to move<br><ruby>動物<rt>どうぶつ</rt></ruby> animal<br><ruby>運動<rt>うんどう</rt></ruby> exercise<br><ruby>自動車<rt>じどうしゃ</rt></ruby> automobile
+社	やしろ / シャ<br><ruby>会社<rt>かいしゃ</rt></ruby> company<br><ruby>社長<rt>しゃちょう</rt></ruby> company president<br><ruby>神社<rt>じんじゃ</rt></ruby> shrine<br><ruby>社会<rt>しゃかい</rt></ruby> society
+知	し.る / チ<br><ruby>知ります<rt>しります</rt></ruby> to know<br><ruby>知り合い<rt>しりあい</rt></ruby> acquaintance<br><ruby>知識<rt>ちしき</rt></ruby> knowledge<br><ruby>知らせる<rt>しらせる</rt></ruby> to inform
+理	リ<br><ruby>料理<rt>りょうり</rt></ruby> cooking<br><ruby>理由<rt>りゆう</rt></ruby> reason<br><ruby>無理<rt>むり</rt></ruby> impossible<br><ruby>理解<rt>りかい</rt></ruby> understanding
+同	おな.じ / ドウ<br><ruby>同じ<rt>おなじ</rt></ruby> same<br><ruby>同時に<rt>どうじに</rt></ruby> at the same time<br><ruby>同僚<rt>どうりょう</rt></ruby> coworker
+心	こころ / シン<br><ruby>心配<rt>しんぱい</rt></ruby> worry<br><ruby>心<rt>こころ</rt></ruby> heart/mind<br><ruby>安心<rt>あんしん</rt></ruby> relief<br><ruby>熱心<rt>ねっしん</rt></ruby> enthusiastic
+発	ハツ、ホツ<br><ruby>出発<rt>しゅっぱつ</rt></ruby> departure<br><ruby>発表<rt>はっぴょう</rt></ruby> presentation<br><ruby>発音<rt>はつおん</rt></ruby> pronunciation
+作	つく.る / サク、サ<br><ruby>作ります<rt>つくります</rt></ruby> to make<br><ruby>作文<rt>さくぶん</rt></ruby> composition<br><ruby>作家<rt>さっか</rt></ruby> author
+新	あたら.しい / シン<br><ruby>新しい<rt>あたらしい</rt></ruby> new<br><ruby>新聞<rt>しんぶん</rt></ruby> newspaper<br><ruby>新幹線<rt>しんかんせん</rt></ruby> bullet train<br><ruby>最新<rt>さいしん</rt></ruby> newest
+世	よ / セイ、セ<br><ruby>世界<rt>せかい</rt></ruby> world<br><ruby>世話<rt>せわ</rt></ruby> care/looking after<br><ruby>世紀<rt>せいき</rt></ruby> century
+度	たび / ド、ト<br><ruby>今度<rt>こんど</rt></ruby> this time/next time<br><ruby>一度<rt>いちど</rt></ruby> once<br><ruby>度<rt>ど</rt></ruby> degree<br><ruby>何度も<rt>なんども</rt></ruby> many times
+明	あか.るい / メイ、ミョウ<br><ruby>明るい<rt>あかるい</rt></ruby> bright<br><ruby>説明<rt>せつめい</rt></ruby> explanation<br><ruby>明日<rt>あした</rt></ruby> tomorrow
+力	ちから / リョク、リキ<br><ruby>力<rt>ちから</rt></ruby> power/strength<br><ruby>力持ち<rt>ちからもち</rt></ruby> strong person<br><ruby>努力<rt>どりょく</rt></ruby> effort
+意	イ<br><ruby>意味<rt>いみ</rt></ruby> meaning<br><ruby>用意<rt>ようい</rt></ruby> preparation<br><ruby>注意<rt>ちゅうい</rt></ruby> caution<br><ruby>意見<rt>いけん</rt></ruby> opinion
+用	もち.いる / ヨウ<br><ruby>用意<rt>ようい</rt></ruby> preparation<br><ruby>用事<rt>ようじ</rt></ruby> errand<br><ruby>使用<rt>しよう</rt></ruby> usage
+主	ぬし、おも / シュ<br><ruby>主人<rt>しゅじん</rt></ruby> husband/master<br><ruby>主に<rt>おもに</rt></ruby> mainly<br><ruby>主語<rt>しゅご</rt></ruby> subject (grammar)
+通	とお.る、かよ.う / ツウ、ツ<br><ruby>通ります<rt>とおります</rt></ruby> to pass through<br><ruby>交通<rt>こうつう</rt></ruby> traffic<br><ruby>普通<rt>ふつう</rt></ruby> normal/usual<br><ruby>通勤<rt>つうきん</rt></ruby> commuting
+文	ふみ / ブン、モン<br><ruby>文<rt>ぶん</rt></ruby> sentence<br><ruby>文化<rt>ぶんか</rt></ruby> culture<br><ruby>文章<rt>ぶんしょう</rt></ruby> text/writing<br><ruby>作文<rt>さくぶん</rt></ruby> composition
+屋	や / オク<br><ruby>部屋<rt>へや</rt></ruby> room<br><ruby>本屋<rt>ほんや</rt></ruby> bookstore<br><ruby>パン屋<rt>ぱんや</rt></ruby> bakery<br><ruby>屋上<rt>おくじょう</rt></ruby> rooftop
+業	わざ / ギョウ、ゴウ<br><ruby>授業<rt>じゅぎょう</rt></ruby> class/lesson<br><ruby>卒業<rt>そつぎょう</rt></ruby> graduation<br><ruby>工業<rt>こうぎょう</rt></ruby> industry
+持	も.つ / ジ<br><ruby>持ちます<rt>もちます</rt></ruby> to hold<br><ruby>気持ち<rt>きもち</rt></ruby> feeling<br><ruby>金持ち<rt>かねもち</rt></ruby> rich person<br><ruby>持って行く<rt>もっていく</rt></ruby> to take (something) along
+道	みち / ドウ、トウ<br><ruby>道<rt>みち</rt></ruby> road<br><ruby>北海道<rt>ほっかいどう</rt></ruby> Hokkaido<br><ruby>柔道<rt>じゅうどう</rt></ruby> judo<br><ruby>道具<rt>どうぐ</rt></ruby> tool
+身	み / シン<br><ruby>身長<rt>しんちょう</rt></ruby> height<br><ruby>自身<rt>じしん</rt></ruby> oneself<br><ruby>出身<rt>しゅっしん</rt></ruby> hometown/origin
+不	フ、ブ<br><ruby>不便<rt>ふべん</rt></ruby> inconvenient<br><ruby>不安<rt>ふあん</rt></ruby> anxiety<br><ruby>不満<rt>ふまん</rt></ruby> dissatisfaction<br><ruby>不思議<rt>ふしぎ</rt></ruby> mysterious
+口	くち / コウ、ク<br><ruby>口<rt>くち</rt></ruby> mouth<br><ruby>入り口<rt>いりぐち</rt></ruby> entrance<br><ruby>出口<rt>でぐち</rt></ruby> exit<br><ruby>人口<rt>じんこう</rt></ruby> population
+多	おお.い / タ<br><ruby>多い<rt>おおい</rt></ruby> a lot/many<br><ruby>多分<rt>たぶん</rt></ruby> probably<br><ruby>多く<rt>おおく</rt></ruby> many/much
+野	の / ヤ<br><ruby>野菜<rt>やさい</rt></ruby> vegetable<br><ruby>野球<rt>やきゅう</rt></ruby> baseball<br><ruby>分野<rt>ぶんや</rt></ruby> field (of study)
+考	かんが.える / コウ<br><ruby>考えます<rt>かんがえます</rt></ruby> to think<br><ruby>考え方<rt>かんがえかた</rt></ruby> way of thinking<br><ruby>参考<rt>さんこう</rt></ruby> reference
+開	あ.く、ひら.く / カイ<br><ruby>開けます<rt>あけます</rt></ruby> to open<br><ruby>開きます<rt>ひらきます</rt></ruby> to open (itself)<br><ruby>開始<rt>かいし</rt></ruby> start/commencement
+教	おし.える、おそ.わる / キョウ<br><ruby>教えます<rt>おしえます</rt></ruby> to teach<br><ruby>教室<rt>きょうしつ</rt></ruby> classroom<br><ruby>教科書<rt>きょうかしょ</rt></ruby> textbook
+近	ちか.い / キン<br><ruby>近い<rt>ちかい</rt></ruby> near<br><ruby>近く<rt>ちかく</rt></ruby> nearby<br><ruby>最近<rt>さいきん</rt></ruby> recently<br><ruby>近所<rt>きんじょ</rt></ruby> neighborhood
+以	イ<br><ruby>以上<rt>いじょう</rt></ruby> more than/above<br><ruby>以下<rt>いか</rt></ruby> less than/below<br><ruby>以前<rt>いぜん</rt></ruby> before/previously<br><ruby>以外<rt>いがい</rt></ruby> except
+問	と.う / モン<br><ruby>質問<rt>しつもん</rt></ruby> question<br><ruby>問題<rt>もんだい</rt></ruby> problem<br><ruby>訪問<rt>ほうもん</rt></ruby> visit
+正	ただ.しい / セイ、ショウ<br><ruby>正しい<rt>ただしい</rt></ruby> correct<br><ruby>正月<rt>しょうがつ</rt></ruby> New Year<br><ruby>正直<rt>しょうじき</rt></ruby> honest
+真	ま / シン<br><ruby>写真<rt>しゃしん</rt></ruby> photo<br><ruby>真面目<rt>まじめ</rt></ruby> serious<br><ruby>真ん中<rt>まんなか</rt></ruby> middle
+味	あじ / ミ<br><ruby>味<rt>あじ</rt></ruby> taste<br><ruby>趣味<rt>しゅみ</rt></ruby> hobby<br><ruby>意味<rt>いみ</rt></ruby> meaning<br><ruby>味方<rt>みかた</rt></ruby> ally
+界	カイ<br><ruby>世界<rt>せかい</rt></ruby> world<br><ruby>業界<rt>ぎょうかい</rt></ruby> industry
+無	な.い / ム、ブ<br><ruby>無理<rt>むり</rt></ruby> impossible<br><ruby>無駄<rt>むだ</rt></ruby> useless<br><ruby>無料<rt>むりょう</rt></ruby> free of charge<br><ruby>無事<rt>ぶじ</rt></ruby> safe and sound
+少	すく.ない、すこ.し / ショウ<br><ruby>少ない<rt>すくない</rt></ruby> a little<br><ruby>少し<rt>すこし</rt></ruby> a little bit<br><ruby>少年<rt>しょうねん</rt></ruby> boy (youth)<br><ruby>多少<rt>たしょう</rt></ruby> somewhat
+海	うみ / カイ<br><ruby>海<rt>うみ</rt></ruby> sea<br><ruby>海外<rt>かいがい</rt></ruby> overseas<br><ruby>海岸<rt>かいがん</rt></ruby> coast
+切	き.る / セツ、サイ<br><ruby>切ります<rt>きります</rt></ruby> to cut<br><ruby>大切<rt>たいせつ</rt></ruby> important<br><ruby>切符<rt>きっぷ</rt></ruby> ticket<br><ruby>親切<rt>しんせつ</rt></ruby> kind
+重	おも.い、かさ.ねる / ジュウ、チョウ<br><ruby>重い<rt>おもい</rt></ruby> heavy<br><ruby>重要<rt>じゅうよう</rt></ruby> important<br><ruby>体重<rt>たいじゅう</rt></ruby> body weight
+集	あつ.まる、あつ.める / シュウ<br><ruby>集めます<rt>あつめます</rt></ruby> to collect<br><ruby>集まります<rt>あつまります</rt></ruby> to gather<br><ruby>集合<rt>しゅうごう</rt></ruby> assembly (meeting point)
+員	イン<br><ruby>社員<rt>しゃいん</rt></ruby> company employee<br><ruby>店員<rt>てんいん</rt></ruby> store clerk<br><ruby>会社員<rt>かいしゃいん</rt></ruby> office worker
+公	おおやけ / コウ<br><ruby>公園<rt>こうえん</rt></ruby> park<br><ruby>公務員<rt>こうむいん</rt></ruby> civil servant
+画	ガ、カク<br><ruby>映画<rt>えいが</rt></ruby> movie<br><ruby>計画<rt>けいかく</rt></ruby> plan<br><ruby>漫画<rt>まんが</rt></ruby> comic/manga
+死	し.ぬ / シ<br><ruby>死にます<rt>しにます</rt></ruby> to die<br><ruby>死ぬ<rt>しぬ</rt></ruby> to die (dictionary form)
+安	やす.い / アン<br><ruby>安い<rt>やすい</rt></ruby> cheap<br><ruby>安全<rt>あんぜん</rt></ruby> safe<br><ruby>安心<rt>あんしん</rt></ruby> relief<br><ruby>不安<rt>ふあん</rt></ruby> anxiety
+親	おや、した.しい / シン<br><ruby>親<rt>おや</rt></ruby> parent<br><ruby>両親<rt>りょうしん</rt></ruby> parents<br><ruby>親切<rt>しんせつ</rt></ruby> kind<br><ruby>親友<rt>しんゆう</rt></ruby> close friend
+強	つよ.い / キョウ、ゴウ<br><ruby>強い<rt>つよい</rt></ruby> strong<br><ruby>勉強<rt>べんきょう</rt></ruby> study
+使	つか.う / シ<br><ruby>使います<rt>つかいます</rt></ruby> to use<br><ruby>大使館<rt>たいしかん</rt></ruby> embassy<br><ruby>使用<rt>しよう</rt></ruby> usage
+朝	あさ / チョウ<br><ruby>朝<rt>あさ</rt></ruby> morning<br><ruby>朝ごはん<rt>あさごはん</rt></ruby> breakfast<br><ruby>今朝<rt>けさ</rt></ruby> this morning<br><ruby>毎朝<rt>まいあさ</rt></ruby> every morning
+題	ダイ<br><ruby>宿題<rt>しゅくだい</rt></ruby> homework<br><ruby>問題<rt>もんだい</rt></ruby> problem<br><ruby>話題<rt>わだい</rt></ruby> topic<br><ruby>題名<rt>だいめい</rt></ruby> title
+仕	つか.える / シ<br><ruby>仕事<rt>しごと</rt></ruby> job/work<br><ruby>仕方<rt>しかた</rt></ruby> way of doing
+京	キョウ、ケイ<br><ruby>東京<rt>とうきょう</rt></ruby> Tokyo<br><ruby>京都<rt>きょうと</rt></ruby> Kyoto
+足	あし、た.りる / ソク<br><ruby>足<rt>あし</rt></ruby> foot/leg<br><ruby>足ります<rt>たります</rt></ruby> to be enough<br><ruby>満足<rt>まんぞく</rt></ruby> satisfaction<br><ruby>遠足<rt>えんそく</rt></ruby> school trip/excursion
+品	しな / ヒン<br><ruby>品物<rt>しなもの</rt></ruby> goods<br><ruby>商品<rt>しょうひん</rt></ruby> product<br><ruby>作品<rt>さくひん</rt></ruby> work (of art)<br><ruby>食品<rt>しょくひん</rt></ruby> food product
+着	き.る、つ.く / チャク、ジャク<br><ruby>着きます<rt>つきます</rt></ruby> to arrive<br><ruby>着ます<rt>きます</rt></ruby> to wear
+別	わか.れる / ベツ<br><ruby>特別<rt>とくべつ</rt></ruby> special<br><ruby>別れます<rt>わかれます</rt></ruby> to part/break up<br><ruby>別に<rt>べつに</rt></ruby> not particularly
+音	おと、ね / オン、イン<br><ruby>音<rt>おと</rt></ruby> sound<br><ruby>音楽<rt>おんがく</rt></ruby> music<br><ruby>発音<rt>はつおん</rt></ruby> pronunciation
+元	もと / ゲン、ガン<br><ruby>元気<rt>げんき</rt></ruby> energetic<br><ruby>元<rt>もと</rt></ruby> origin/former<br><ruby>地元<rt>じもと</rt></ruby> local area
+特	トク<br><ruby>特別<rt>とくべつ</rt></ruby> special<br><ruby>特に<rt>とくに</rt></ruby> especially
+風	かぜ / フウ、フ<br><ruby>風<rt>かぜ</rt></ruby> wind<br><ruby>風邪<rt>かぜ</rt></ruby> a cold (illness)<br><ruby>台風<rt>たいふう</rt></ruby> typhoon<br><ruby>風呂<rt>ふろ</rt></ruby> bath
+夜	よる、よ / ヤ<br><ruby>夜<rt>よる</rt></ruby> night<br><ruby>今夜<rt>こんや</rt></ruby> tonight<br><ruby>夜中<rt>よなか</rt></ruby> midnight
+空	そら、あ.く、から / クウ<br><ruby>空<rt>そら</rt></ruby> sky<br><ruby>空港<rt>くうこう</rt></ruby> airport<br><ruby>空気<rt>くうき</rt></ruby> air
+有	あ.る / ユウ、ウ<br><ruby>有名<rt>ゆうめい</rt></ruby> famous<br><ruby>あります<rt>あります</rt></ruby> to exist/have (things)<br><ruby>有料<rt>ゆうりょう</rt></ruby> paid/fee-charging
+起	お.きる、お.こす / キ<br><ruby>起きます<rt>おきます</rt></ruby> to wake up<br><ruby>起こる<rt>おこる</rt></ruby> to happen/occur<br><ruby>早起き<rt>はやおき</rt></ruby> early rising
+運	はこ.ぶ / ウン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>運動<rt>うんどう</rt></ruby> exercise<br><ruby>運<rt>うん</rt></ruby> luck<br><ruby>運ぶ<rt>はこぶ</rt></ruby> to carry
+料	リョウ<br><ruby>料理<rt>りょうり</rt></ruby> cooking<br><ruby>料金<rt>りょうきん</rt></ruby> fee<br><ruby>材料<rt>ざいりょう</rt></ruby> ingredients<br><ruby>無料<rt>むりょう</rt></ruby> free of charge
+楽	たの.しい / ガク、ラク<br><ruby>楽しい<rt>たのしい</rt></ruby> fun<br><ruby>音楽<rt>おんがく</rt></ruby> music<br><ruby>楽<rt>らく</rt></ruby> comfortable/easy
+色	いろ / シキ、ショク<br><ruby>色<rt>いろ</rt></ruby> color<br><ruby>色々<rt>いろいろ</rt></ruby> various<br><ruby>景色<rt>けしき</rt></ruby> scenery
+帰	かえ.る / キ<br><ruby>帰ります<rt>かえります</rt></ruby> to go back<br><ruby>帰国<rt>きこく</rt></ruby> returning to one's home country
+歩	ある.く、あゆ.む / ホ、ブ<br><ruby>歩きます<rt>あるきます</rt></ruby> to walk<br><ruby>散歩<rt>さんぽ</rt></ruby> walk/stroll
+悪	わる.い / アク、オ<br><ruby>悪い<rt>わるい</rt></ruby> bad<br><ruby>気分が悪い<rt>きぶんがわるい</rt></ruby> feel bad
+広	ひろ.い / コウ<br><ruby>広い<rt>ひろい</rt></ruby> wide<br><ruby>広場<rt>ひろば</rt></ruby> plaza/open square
+店	みせ / テン<br><ruby>店<rt>みせ</rt></ruby> shop<br><ruby>店員<rt>てんいん</rt></ruby> store clerk<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe<br><ruby>百貨店<rt>ひゃっかてん</rt></ruby> department store
+町	まち / チョウ<br><ruby>町<rt>まち</rt></ruby> town
+住	す.む / ジュウ<br><ruby>住みます<rt>すみます</rt></ruby> to live<br><ruby>住所<rt>じゅうしょ</rt></ruby> address
+売	う.る / バイ<br><ruby>売ります<rt>うります</rt></ruby> to sell<br><ruby>販売<rt>はんばい</rt></ruby> sales<br><ruby>売り場<rt>うりば</rt></ruby> sales floor/counter
+待	ま.つ / タイ<br><ruby>待ちます<rt>まちます</rt></ruby> to wait<br><ruby>期待<rt>きたい</rt></ruby> expectation
+古	ふる.い / コ<br><ruby>古い<rt>ふるい</rt></ruby> old<br><ruby>中古<rt>ちゅうこ</rt></ruby> secondhand
+始	はじ.める、はじ.まる / シ<br><ruby>始めます<rt>はじめます</rt></ruby> to start<br><ruby>始まります<rt>はじまります</rt></ruby> to begin (itself)<br><ruby>始め<rt>はじめ</rt></ruby> beginning
+終	お.わる / シュウ<br><ruby>終わります<rt>おわります</rt></ruby> to finish<br><ruby>最終<rt>さいしゅう</rt></ruby> final/last
+計	はか.る / ケイ<br><ruby>時計<rt>とけい</rt></ruby> clock/watch<br><ruby>計画<rt>けいかく</rt></ruby> plan<br><ruby>会計<rt>かいけい</rt></ruby> bill/accounting
+院	イン<br><ruby>病院<rt>びょういん</rt></ruby> hospital<br><ruby>美容院<rt>びよういん</rt></ruby> hair salon<br><ruby>大学院<rt>だいがくいん</rt></ruby> graduate school
+送	おく.る / ソウ<br><ruby>送ります<rt>おくります</rt></ruby> to send
+族	ゾク<br><ruby>家族<rt>かぞく</rt></ruby> family
+映	うつ.る、は.える / エイ<br><ruby>映画<rt>えいが</rt></ruby> movie<br><ruby>映る<rt>うつる</rt></ruby> to be reflected
+買	か.う / バイ<br><ruby>買います<rt>かいます</rt></ruby> to buy<br><ruby>買い物<rt>かいもの</rt></ruby> shopping
+病	や.む、やまい / ビョウ、ヘイ<br><ruby>病気<rt>びょうき</rt></ruby> sickness<br><ruby>病院<rt>びょういん</rt></ruby> hospital
+早	はや.い / ソウ、サッ<br><ruby>早い<rt>はやい</rt></ruby> fast/early<br><ruby>早く<rt>はやく</rt></ruby> quickly/early<br><ruby>早起き<rt>はやおき</rt></ruby> early rising
+質	シツ、シチ<br><ruby>質問<rt>しつもん</rt></ruby> question<br><ruby>品質<rt>ひんしつ</rt></ruby> quality
+台	ダイ、タイ<br><ruby>台所<rt>だいどころ</rt></ruby> kitchen<br><ruby>台風<rt>たいふう</rt></ruby> typhoon<br><ruby>一台<rt>いちだい</rt></ruby> one (counter for machines)
+室	むろ / シツ<br><ruby>教室<rt>きょうしつ</rt></ruby> classroom<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab<br><ruby>図書室<rt>としょしつ</rt></ruby> library room
+可	カ<br><ruby>可能<rt>かのう</rt></ruby> possible
+建	た.てる / ケン、コン<br><ruby>建物<rt>たてもの</rt></ruby> building<br><ruby>建てます<rt>たてます</rt></ruby> to build
+転	ころ.がる、ころ.ぶ / テン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>転校<rt>てんこう</rt></ruby> transferring school
+医	イ<br><ruby>医者<rt>いしゃ</rt></ruby> doctor<br><ruby>医学<rt>いがく</rt></ruby> medical science
+止	と.まる、と.める / シ<br><ruby>止めます<rt>とめます</rt></ruby> to stop (something)<br><ruby>止まります<rt>とまります</rt></ruby> to stop (itself)<br><ruby>中止<rt>ちゅうし</rt></ruby> cancellation
+字	あざ / ジ<br><ruby>漢字<rt>かんじ</rt></ruby> kanji<br><ruby>字<rt>じ</rt></ruby> character/letter<br><ruby>数字<rt>すうじ</rt></ruby> number/numeral
+工	コウ、ク<br><ruby>工場<rt>こうじょう</rt></ruby> factory<br><ruby>大工<rt>だいく</rt></ruby> carpenter
+急	いそ.ぐ / キュウ<br><ruby>急ぎます<rt>いそぎます</rt></ruby> to hurry<br><ruby>急に<rt>きゅうに</rt></ruby> suddenly<br><ruby>特急<rt>とっきゅう</rt></ruby> express (train)
+図	はか.る / ズ、ト<br><ruby>地図<rt>ちず</rt></ruby> map<br><ruby>図書館<rt>としょかん</rt></ruby> library
+黒	くろ、くろ.い / コク<br><ruby>黒い<rt>くろい</rt></ruby> black<br><ruby>黒板<rt>こくばん</rt></ruby> blackboard
+花	はな / カ<br><ruby>花<rt>はな</rt></ruby> flower<br><ruby>花見<rt>はなみ</rt></ruby> flower viewing<br><ruby>花火<rt>はなび</rt></ruby> fireworks
+英	エイ<br><ruby>英語<rt>えいご</rt></ruby> English language
+走	はし.る / ソウ<br><ruby>走ります<rt>はしります</rt></ruby> to run
+青	あお、あお.い / セイ、ショウ<br><ruby>青い<rt>あおい</rt></ruby> blue
+答	こた.える / トウ<br><ruby>答え<rt>こたえ</rt></ruby> answer<br><ruby>答えます<rt>こたえます</rt></ruby> to answer
+紙	かみ / シ<br><ruby>紙<rt>かみ</rt></ruby> paper<br><ruby>手紙<rt>てがみ</rt></ruby> letter
+歌	うた、うた.う / カ<br><ruby>歌<rt>うた</rt></ruby> song<br><ruby>歌います<rt>うたいます</rt></ruby> to sing
+注	そそ.ぐ / チュウ<br><ruby>注意<rt>ちゅうい</rt></ruby> caution<br><ruby>注文<rt>ちゅうもん</rt></ruby> order (request)
+赤	あか、あか.い / セキ、シャク<br><ruby>赤い<rt>あかい</rt></ruby> red<br><ruby>赤ちゃん<rt>あかちゃん</rt></ruby> baby
+春	はる / シュン<br><ruby>春<rt>はる</rt></ruby> spring (season)
+館	やかた / カン<br><ruby>図書館<rt>としょかん</rt></ruby> library<br><ruby>大使館<rt>たいしかん</rt></ruby> embassy<br><ruby>美術館<rt>びじゅつかん</rt></ruby> art museum
+旅	たび / リョ<br><ruby>旅行<rt>りょこう</rt></ruby> travel
+験	ケン、ゲン<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>経験<rt>けいけん</rt></ruby> experience
+写	うつ.す / シャ<br><ruby>写真<rt>しゃしん</rt></ruby> photo
+去	さ.る / キョ、コ<br><ruby>去年<rt>きょねん</rt></ruby> last year
+研	と.ぐ / ケン<br><ruby>研究します<rt>けんきゅうします</rt></ruby> to research<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab
+飲	の.む / イン<br><ruby>飲みます<rt>のみます</rt></ruby> to drink<br><ruby>飲み物<rt>のみもの</rt></ruby> drink
+肉	ニク<br><ruby>肉<rt>にく</rt></ruby> meat<br><ruby>肉屋<rt>にくや</rt></ruby> butcher
+服	フク<br><ruby>服<rt>ふく</rt></ruby> clothes<br><ruby>洋服<rt>ようふく</rt></ruby> (Western-style) clothes<br><ruby>服屋<rt>ふくや</rt></ruby> clothing store
+銀	ギン<br><ruby>銀行<rt>ぎんこう</rt></ruby> bank
+茶	チャ、サ<br><ruby>お茶<rt>おちゃ</rt></ruby> tea<br><ruby>紅茶<rt>こうちゃ</rt></ruby> black tea<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe
+究	きわ.める / キュウ<br><ruby>研究<rt>けんきゅう</rt></ruby> research
+洋	ヨウ<br><ruby>洋服<rt>ようふく</rt></ruby> Western clothes<br><ruby>西洋<rt>せいよう</rt></ruby> the West
+兄	あに / キョウ、ケイ<br><ruby>お兄さん<rt>おにいさん</rt></ruby> older brother
+秋	あき / シュウ<br><ruby>秋<rt>あき</rt></ruby> autumn (season)
+堂	ドウ<br><ruby>食堂<rt>しょくどう</rt></ruby> dining hall/cafeteria
+週	シュウ<br><ruby>今週<rt>こんしゅう</rt></ruby> this week<br><ruby>来週<rt>らいしゅう</rt></ruby> next week<br><ruby>先週<rt>せんしゅう</rt></ruby> last week<br><ruby>週末<rt>しゅうまつ</rt></ruby> weekend
+習	なら.う / シュウ<br><ruby>習います<rt>ならいます</rt></ruby> to learn<br><ruby>練習します<rt>れんしゅうします</rt></ruby> to practice
+試	こころ.みる、ため.す / シ<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>試します<rt>ためします</rt></ruby> to try (something)
+夏	なつ / カ、ゲ<br><ruby>夏<rt>なつ</rt></ruby> summer<br><ruby>夏休み<rt>なつやすみ</rt></ruby> summer vacation
+弟	おとうと / テイ、ダイ<br><ruby>弟<rt>おとうと</rt></ruby> younger brother
+鳥	とり / チョウ<br><ruby>鳥<rt>とり</rt></ruby> bird<br><ruby>焼き鳥<rt>やきとり</rt></ruby> grilled chicken skewers
+犬	いぬ / ケン<br><ruby>犬<rt>いぬ</rt></ruby> dog
+夕	ゆう / セキ<br><ruby>夕方<rt>ゆうがた</rt></ruby> evening<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner
+魚	さかな、うお / ギョ<br><ruby>魚<rt>さかな</rt></ruby> fish<br><ruby>魚屋<rt>さかなや</rt></ruby> fish shop
+借	か.りる / シャク<br><ruby>借ります<rt>かります</rt></ruby> to borrow
+飯	めし / ハン<br><ruby>ご飯<rt>ごはん</rt></ruby> rice/meal<br><ruby>朝ご飯<rt>あさごはん</rt></ruby> breakfast<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner
+駅	エキ<br><ruby>駅<rt>えき</rt></ruby> (train) station
+昼	ひる / チュウ<br><ruby>昼<rt>ひる</rt></ruby> noon/daytime<br><ruby>昼ご飯<rt>ひるごはん</rt></ruby> lunch<br><ruby>昼休み<rt>ひるやすみ</rt></ruby> lunch break
+冬	ふゆ / トウ<br><ruby>冬<rt>ふゆ</rt></ruby> winter
+姉	あね / シ<br><ruby>姉<rt>あね</rt></ruby> older sister
+曜	ヨウ<br><ruby>曜日<rt>ようび</rt></ruby> day of the week<br><ruby>何曜日<rt>なんようび</rt></ruby> what day of the week
+漢	カン<br><ruby>漢字<rt>かんじ</rt></ruby> kanji (Chinese character)
+牛	うし / ギュウ<br><ruby>牛肉<rt>ぎゅうにく</rt></ruby> beef<br><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> milk
+妹	いもうと / マイ<br><ruby>妹<rt>いもうと</rt></ruby> younger sister
+貸	か.す / タイ<br><ruby>貸します<rt>かします</rt></ruby> to lend
+勉	ベン<br><ruby>勉強します<rt>べんきょうします</rt></ruby> to study

@@ -1,0 +1,672 @@
+#separator:tab
+#html:true
+#columns:Front	Back	Tags	Deck
+します	します, する, しない, して／した, できる, しよう, Do; 宿題をします。(I do homework.)	verb	Japanese::Verbs::Tier1_Essential
+います	います, いる, いない, いて／た, いられます, いよう, Exist; 部屋に猫がいます。(There is a cat in the room.)	verb	Japanese::Verbs::Tier1_Essential
+行きます	いきます, いく, いかない, いって／た, いけます, いこう, Go; 学校に行きます。(I go to school.)	verb	Japanese::Verbs::Tier1_Essential
+来ます	きます, くる, こない, きて／きた, こられる, こよう, Come; 友達が来ます。(My friend comes.)	verb	Japanese::Verbs::Tier1_Essential
+見ます	みます, みる, みない, みて／た, みられます, みよう, Look/Watch; テレビを見ます。(I watch TV.)	verb	Japanese::Verbs::Tier1_Essential
+言います	いいます, いう, いわない, いって／た, いえます, いおう, Say/Tell; 名前を言います。(I say my name.)	verb	Japanese::Verbs::Tier1_Essential
+思います	おもいます, おもう, おもわない, おもって／た, おもえます, おもおう, Think/Guess; そう思います。(I think so.)	verb	Japanese::Verbs::Tier1_Essential
+分かります	わかります, わかる, わからない, わかって／た, ×, ×, Understand; 日本語が分かります。(I understand Japanese.)	verb	Japanese::Verbs::Tier1_Essential
+知ります	しります, しる, しらない, しって／た, ×, しろう, Know; 彼女の名前を知りません。(I don't know her name.)	verb	Japanese::Verbs::Tier1_Essential
+なります	なります, なる, ならない, なって／た, なれます, なろう, Become; 医者になります。(I will become a doctor.)	verb	Japanese::Verbs::Tier1_Essential
+食べます	たべます, たべる, たべない, たべて／た, たべられます, たべよう, Eat; ご飯を食べます。(I eat a meal.)	verb	Japanese::Verbs::Tier1_Essential
+飲みます	のみます, のむ, のまない, のんで／た, のめます, のもう, Drink; 水を飲みます。(I drink water.)	verb	Japanese::Verbs::Tier1_Essential
+帰ります	かえります, かえる, かえらない, かえって／た, かえれます, かえろう, Go back; 家に帰ります。(I go back home.)	verb	Japanese::Verbs::Tier1_Essential
+聞きます	ききます, きく, きかない, きいて／た, きけます, きこう, Listen; 音楽を聞きます。(I listen to music.)	verb	Japanese::Verbs::Tier1_Essential
+話します	はなします, はなす, はなさない, はなして／た, はなせます, はなそう, Speak; 日本語を話します。(I speak Japanese.)	verb	Japanese::Verbs::Tier1_Essential
+買います	かいます, かう, かわない, かって／た, かえます, かおう, Buy; 服を買います。(I buy clothes.)	verb	Japanese::Verbs::Tier1_Essential
+使います	つかいます, つかう, つかわない, つかって／た, つかえます, つかおう, Use; パソコンを使います。(I use a computer.)	verb	Japanese::Verbs::Tier1_Essential
+入ります	はいります, はいる, はいらない, はいって／た, はいれます, はいろう, Come in/Enter; 部屋に入ります。(I enter the room.)	verb	Japanese::Verbs::Tier1_Essential
+起きます	おきます, おきる, おきない, おきて／た, おきられます, おきよう, Wake up; 朝6時に起きます。(I wake up at 6 in the morning.)	verb	Japanese::Verbs::Tier1_Essential
+寝ます	ねます, ねる, ねない, ねて／た, ねられます, ねよう, Sleep; 11時に寝ます。(I sleep at 11.)	verb	Japanese::Verbs::Tier1_Essential
+読みます	よみます, よむ, よまない, よんで／た, よめます, よもう, Read; 本を読みます。(I read a book.)	verb	Japanese::Verbs::Tier1_Essential
+会います	あいます, あう, あわない, あって／た, あえます, あおう, Meet; 友達に会います。(I meet a friend.)	verb	Japanese::Verbs::Tier1_Essential
+書きます	かきます, かく, かかない, かいて／た, かけます, かこう, Write; 手紙を書きます。(I write a letter.)	verb	Japanese::Verbs::Tier1_Essential
+取ります	とります, とる, とらない, とって／た, とれます, とろう, Take; メモを取ります。(I take notes.)	verb	Japanese::Verbs::Tier1_Essential
+待ちます	まちます, まつ, またない, まって／た, まてます, まとう, Wait; バスを待ちます。(I wait for the bus.)	verb	Japanese::Verbs::Tier1_Essential
+聞きます	ききます, きく, きかない, きいて／た, きけます, きこう, Ask; 道を聞きます。(I ask for directions.)	verb	Japanese::Verbs::Tier1_Essential
+乗ります	のります, のる, のらない, のって／た, のれます, のろう, Ride/Get on; 電車に乗ります。(I get on the train.)	verb	Japanese::Verbs::Tier1_Essential
+住みます	すみます, すむ, すまない, すんで／た, すめます, すもう, Live; 東京に住みます。(I live in Tokyo.)	verb	Japanese::Verbs::Tier1_Essential
+働きます	はたらきます, はたらく, はたらかない, はたらいて／た, はたらけます, はたらこう, Work; 会社で働きます。(I work at a company.)	verb	Japanese::Verbs::Tier1_Essential
+休みます	やすみます, やすむ, やすまない, やすんで／だ, やすめます, やすもう, Rest/Absent; 今日は休みます。(I'll take the day off today.)	verb	Japanese::Verbs::Tier1_Essential
+終わります	おわります, おわる, おわらない, おわって／た, おわれます, おわろう, Finish; 仕事が終わります。(Work finishes.)	verb	Japanese::Verbs::Tier1_Essential
+送ります	おくります, おくる, おくらない, おくって／た, おくれます, おくろう, Send; メールを送ります。(I send an email.)	verb	Japanese::Verbs::Tier1_Essential
+もらいます	もらいます, もらう, もらわない, もらって／た, もらえます, もらおう, Get/receive; プレゼントをもらいます。(I receive a present.)	verb	Japanese::Verbs::Tier1_Essential
+かかります	かかります, かかる, かからない, かかって／た, ×, ×, It takes/Cost; 一時間かかります。(It takes one hour.)	verb	Japanese::Verbs::Tier1_Essential
+遊びます	あそびます, あそぶ, あそばない, あそんで／だ, あそべます, あそぼう, Play/Go out; 公園で遊びます。(I play in the park.)	verb	Japanese::Verbs::Tier1_Essential
+持ちます	もちます, もつ, もたない, もって／た, もてます, もとう, Hold; かばんを持ちます。(I hold the bag.)	verb	Japanese::Verbs::Tier1_Essential
+置きます	おきます, おく, おかない, おいて／た, おけます, おこう, Put; 机の上に置きます。(I put it on the desk.)	verb	Japanese::Verbs::Tier1_Essential
+作ります	つくります, つくる, つくらない, つくって／た, つくれます, つくろう, Make; 料理を作ります。(I make food.)	verb	Japanese::Verbs::Tier1_Essential
+いります	いります, いる, いらない, ×, ×, ×, Need; お金がいります。(I need money.)	verb	Japanese::Verbs::Tier1_Essential
+着きます	つきます, つく, つかない, ついて／た, つけます, つこう, Arrive; 駅に着きます。(I arrive at the station.)	verb	Japanese::Verbs::Tier1_Essential
+着ます	きます, きる, きない, きて／た, きられます, きよう, Put on clothes; 服を着ます。(I put on clothes.)	verb	Japanese::Verbs::Tier1_Essential
+開けます	あけます, あける, あけない, あけて／た, あけられます, あけよう, Open; 窓を開けます。(I open the window.)	verb	Japanese::Verbs::Tier1_Essential
+教えます	おしえます, おしえる, おしえない, おしえて／た, おしえられます, おしえよう, Teach; 日本語を教えます。(I teach Japanese.)	verb	Japanese::Verbs::Tier2_Common
+降ります	おります, おりる, おりない, おりて／た, おりられます, おりよう, Get off; バスを降ります。(I get off the bus.)	verb	Japanese::Verbs::Tier2_Common
+つけます	つけます, つける, つけない, つけて／た, つけられます, つけよう, Turn on; 電気をつけます。(I turn on the light.)	verb	Japanese::Verbs::Tier2_Common
+電話をかけます	でんわをかけます, かける, かけない, かけて／た, かけられます, かけよう, Make a call; 友達に電話をかけます。(I make a call to my friend.)	verb	Japanese::Verbs::Tier2_Common
+忘れます	わすれます, わすれる, わすれない, わすれて／た, わすれられます, わすれよう, Forget; 宿題を忘れます。(I forget my homework.)	verb	Japanese::Verbs::Tier2_Common
+あげます	あげます, あげる, あげない, あげて／た, あげられます, あげよう, Give; 友達にプレゼントをあげます。(I give a present to my friend.)	verb	Japanese::Verbs::Tier2_Common
+疲れます	つかれます, つかれる, つかれない, つかれて／た, つかれられます, つかれよう, Get tired; 仕事で疲れます。(I get tired from work.)	verb	Japanese::Verbs::Tier2_Common
+出ます	でます, でる, でない, でて／た, でられます, でよう, Leave; 家を出ます。(I leave the house.)	verb	Japanese::Verbs::Tier2_Common
+始めます	はじめます, はじめる, はじめない, はじめて／た, はじめられます, はじめよう, Start; 仕事を始めます。(I start work.)	verb	Japanese::Verbs::Tier2_Common
+覚えます	おぼえます, おぼえる, おぼえない, おぼえて／た, おぼえられます, おぼえよう, Memorize; 単語を覚えます。(I memorize vocabulary.)	verb	Japanese::Verbs::Tier2_Common
+調べます	しらべます, しらべる, しらべない, しらべて／た, しらべられます, しらべよう, Search/Look up; 言葉の意味を調べます。(I look up the meaning of a word.)	verb	Japanese::Verbs::Tier2_Common
+考えます	かんがえます, かんがえる, かんがえない, かんがえて／た, かんがえられます, かんがえよう, Think; 将来のことを考えます。(I think about the future.)	verb	Japanese::Verbs::Tier2_Common
+勉強します	べんきょうします, する, しない, して／した, できる, しよう, Study; 日本語を勉強します。(I study Japanese.)	verb	Japanese::Verbs::Tier2_Common
+電話します	でんわします, する, しない, して／した, できる, しよう, Make a call; 母に電話します。(I call my mother.)	verb	Japanese::Verbs::Tier2_Common
+歌います	うたいます, うたう, うたわない, うたって／た, うたえます, うたおう, Sing; カラオケで歌います。(I sing at karaoke.)	verb	Japanese::Verbs::Tier2_Common
+はきます	はきます, はく, はかない, はいて／た, はけます, はこう, Put on (shoes); 靴をはきます。(I put on shoes.)	verb	Japanese::Verbs::Tier2_Common
+切ります	きります, きる, きらない, きって／た, きれます, きろう, Cut; 紙を切ります。(I cut the paper.)	verb	Japanese::Verbs::Tier2_Common
+貸します	かします, かす, かさない, かして／た, かせます, かそう, Lend/Rent; 本を貸します。(I lend a book.)	verb	Japanese::Verbs::Tier2_Common
+習います	ならいます, ならう, ならわない, ならって／た, ならえます, ならおう, Learn; 日本語を習います。(I learn Japanese.)	verb	Japanese::Verbs::Tier2_Common
+消します	けします, けす, けさない, けして／た, けせます, けそう, Turn off; 電気を消します。(I turn off the light.)	verb	Japanese::Verbs::Tier2_Common
+立ちます	たちます, たつ, たたない, たって／た, たてます, たとう, Stand; ここに立ちます。(I stand here.)	verb	Japanese::Verbs::Tier2_Common
+座ります	すわります, すわる, すわない, すわって／た, すわれます, すわろう, Sit; いすに座ります。(I sit on the chair.)	verb	Japanese::Verbs::Tier2_Common
+急ぎます	いそぎます, いそぐ, いそがない, いそいで／だ, いそげます, いそごう, Hurry; 駅まで急ぎます。(I hurry to the station.)	verb	Japanese::Verbs::Tier2_Common
+手伝います	てつだいます, てつだう, てつだわない, てつだって／た, てつだえます, てつだおう, Help; 母を手伝います。(I help my mother.)	verb	Japanese::Verbs::Tier2_Common
+呼びます	よびます, よぶ, よばない, よんで／だ, よべます, よぼう, Call; 名前を呼びます。(I call out a name.)	verb	Japanese::Verbs::Tier2_Common
+降ります	ふります, ふる, ふらない, ふって／た, ×, ×, Fall; 雨が降ります。(It rains.)	verb	Japanese::Verbs::Tier2_Common
+売ります	うります, うる, うらない, うって／た, うれます, うろう, Sell; 車を売ります。(I sell the car.)	verb	Japanese::Verbs::Tier2_Common
+思い出します	おもいだします, おもいだす, おもいださない, おもいだして／た, おもいだせます, おもいだそう, Remember; 昔のことを思い出します。(I remember the past.)	verb	Japanese::Verbs::Tier2_Common
+なくします	なくします, なくす, なくさない, なくして／た, ×, ×, Lose; 鍵をなくしました。(I lost my key.)	verb	Japanese::Verbs::Tier2_Common
+払います	はらいます, はらう, はらわない, はらって／た, はらえます, はらおう, Pay; お金を払います。(I pay money.)	verb	Japanese::Verbs::Tier2_Common
+返します	かえします, かえす, かえさない, かえして／た, かせます, かえそう, Return; 本を返します。(I return the book.)	verb	Japanese::Verbs::Tier2_Common
+脱ぎます	ぬぎます, ぬぐ, ぬがない, ぬいで／だ, ぬげます, ぬごう, Take off; 靴を脱ぎます。(I take off my shoes.)	verb	Japanese::Verbs::Tier2_Common
+洗います	あらいます, あらう, あらわない, あらって／た, あらえます, あらおう, Wash; 手を洗います。(I wash my hands.)	verb	Japanese::Verbs::Tier2_Common
+勝ちます	かちます, かつ, かたない, かって／た, かてます, かとう, Win; 試合に勝ちます。(I win the match.)	verb	Japanese::Verbs::Tier2_Common
+動きます	うごきます, うごく, うごかない, うごいて／た, うごけます, うごこう, Move; 車が動きます。(The car moves.)	verb	Japanese::Verbs::Tier2_Common
+渡ります	わたります, わたる, わたらない, わたって／た, わたれます, わたろう, Cross; 道を渡ります。(I cross the street.)	verb	Japanese::Verbs::Tier2_Common
+曲がります	まがります, まがる, まがらない, まがって／た, まがれます, まがろう, Turn a corner; 右に曲がります。(I turn right.)	verb	Japanese::Verbs::Tier2_Common
+直します	なおします, なおす, なおさない, なおして／た, なおせます, なおそう, Repair; 時計を直します。(I fix the clock.)	verb	Japanese::Verbs::Tier2_Common
+探します	さがします, さがす, さがさない, さがして／た, さがせます, さがそう, Look for; 仕事を探します。(I look for a job.)	verb	Japanese::Verbs::Tier2_Common
+間に合います	まにあいます, まにあう, まにあわない, まにあって／た, まにあえます, まにあおう, In time; 電車に間に合います。(I make it in time for the train.)	verb	Japanese::Verbs::Tier2_Common
+借ります	かります, かりる, かりない, かりて／た, かりられます, かりよう, Borrow; 本を借ります。(I borrow a book.)	verb	Japanese::Verbs::Tier2_Common
+閉めます	しめます, しめる, しめない, しめて／た, しめられます, しめよう, Close; ドアを閉めます。(I close the door.)	verb	Japanese::Verbs::Tier2_Common
+捨てます	すてます, すてる, すてない, すてて／た, すてられます, すてよう, Throw away; ゴミを捨てます。(I throw away the trash.)	verb	Japanese::Verbs::Tier3_LessCommon
+止めます	とめます, とめる, とめない, とめて／た, とめられます, とめよう, Stop; 車を止めます。(I stop the car.)	verb	Japanese::Verbs::Tier3_LessCommon
+見せます	みせます, みせる, みせない, みせて／た, みせられます, みせよう, Show; 写真を見せます。(I show a photo.)	verb	Japanese::Verbs::Tier3_LessCommon
+浴びます	あびます, あびる, あびない, あびて／た, あびられます, あびよう, Take a shower; シャワーを浴びます。(I take a shower.)	verb	Japanese::Verbs::Tier3_LessCommon
+集めます	あつめます, あつめる, あつめない, あつめて／た, あつめられます, あつめよう, Collect; 切手を集めます。(I collect stamps.)	verb	Japanese::Verbs::Tier3_LessCommon
+変えます	かえます, かえる, かえない, かえて／た, かえられます, かえよう, Change; 予定を変えます。(I change the plan.)	verb	Japanese::Verbs::Tier3_LessCommon
+負けます	まけます, まける, まけない, まけて／た, まけられます, まけよう, Lose; 試合に負けます。(I lose the match.)	verb	Japanese::Verbs::Tier3_LessCommon
+やめます	やめます, やめる, やめない, やめて／た, やめられます, やめよう, Quit; 仕事をやめます。(I quit my job.)	verb	Japanese::Verbs::Tier3_LessCommon
+気をつけます	きをつけます, きをつける, きをつけない, きをつけて／た, きをつけられます, きをつけよう, Watch out; 車に気をつけます。(I watch out for cars.)	verb	Japanese::Verbs::Tier3_LessCommon
+生まれます	うまれます, うまれる, うまれない, うまれて／た, うまれられます, うまれよう, Born; 東京で生まれました。(I was born in Tokyo.)	verb	Japanese::Verbs::Tier3_LessCommon
+足ります	たります, たりる, たりない, たりて／た, ×, ×, It's enough; お金が足ります。(The money is enough.)	verb	Japanese::Verbs::Tier3_LessCommon
+遅れます	おくれます, おくれる, おくれない, おくれて／た, おくれられます, おくれよう, Be late; 電車が遅れます。(The train is late.)	verb	Japanese::Verbs::Tier3_LessCommon
+持ってきます	もってきます, もってくる, もってこない, もってきて／た, もってこられます, もってこよう, Bring a thing; 傘を持ってきます。(I bring an umbrella.)	verb	Japanese::Verbs::Tier3_LessCommon
+料理します	りょうりします, する, しない, して／した, できる, しよう, Cook; 晩ご飯を料理します。(I cook dinner.)	verb	Japanese::Verbs::Tier3_LessCommon
+運転します	うんてんします, する, しない, して／した, できる, しよう, Drive; 車を運転します。(I drive a car.)	verb	Japanese::Verbs::Tier3_LessCommon
+洗濯します	せんたくします, する, しない, して／した, できる, しよう, Wash the clothes; 週末に洗濯します。(I do laundry on weekends.)	verb	Japanese::Verbs::Tier3_LessCommon
+掃除します	そうじします, する, しない, して／した, できる, しよう, Clean up; 部屋を掃除します。(I clean the room.)	verb	Japanese::Verbs::Tier3_LessCommon
+宿題します	しゅくだいします, する, しない, して／した, できる, しよう, Do homework; 毎日宿題します。(I do homework every day.)	verb	Japanese::Verbs::Tier3_LessCommon
+買い物します	かいものします, する, しない, して／した, できる, しよう, Do shopping; スーパーで買い物します。(I shop at the supermarket.)	verb	Japanese::Verbs::Tier3_LessCommon
+食事します	しょくじします, する, しない, して／した, できる, しよう, Have meal; レストランで食事します。(I have a meal at a restaurant.)	verb	Japanese::Verbs::Tier3_LessCommon
+心配します	しんぱいします, する, しない, して／した, できる, しよう, Worry; 将来を心配します。(I worry about the future.)	verb	Japanese::Verbs::Tier3_LessCommon
+練習します	れんしゅうします, する, しない, して／した, できる, しよう, Practice; ピアノを練習します。(I practice the piano.)	verb	Japanese::Verbs::Tier3_LessCommon
+紹介します	しょうかいします, する, しない, して／した, できる, しよう, Introduce; 友達を紹介します。(I introduce a friend.)	verb	Japanese::Verbs::Tier3_LessCommon
+準備します	じゅんびします, する, しない, して／した, できる, しよう, Prepare; 晩ご飯を準備します。(I prepare dinner.)	verb	Japanese::Verbs::Tier3_LessCommon
+泳ぎます	およぎます, およぐ, およがない, およいで／た, およげます, およごう, Swim; プールで泳ぎます。(I swim in the pool.)	verb	Japanese::Verbs::Tier3_LessCommon
+かぶります	かぶります, かぶる, かぶらない, かぶって／た, かぶれます, かぶろう, Put on a hat; 帽子をかぶります。(I put on a hat.)	verb	Japanese::Verbs::Tier3_LessCommon
+吸います	すいます, すう, すわない, すって／た, すえます, すおう, Smoke; タバコを吸います。(I smoke.)	verb	Japanese::Verbs::Tier3_LessCommon
+弾きます	ひきます, ひく, ひかない, ひいて／た, ひけます, ひこう, Play instrumental; ピアノを弾きます。(I play the piano.)	verb	Japanese::Verbs::Tier3_LessCommon
+登ります	のぼります, のぼる, のぼらない, のぼって／た, のぼれます, のぼろう, Climb; 山に登ります。(I climb the mountain.)	verb	Japanese::Verbs::Tier3_LessCommon
+泊まります	とまります, とまる, とまらない, とまって／た, とまれます, とまろう, Stay (at hotel); ホテルに泊まります。(I stay at a hotel.)	verb	Japanese::Verbs::Tier3_LessCommon
+役に立ちます	やくにたちます, やくにたつ, やくにたたない, やくにたって／た, やくにたてます, やくにたとう, Useful; この本は役に立ちます。(This book is useful.)	verb	Japanese::Verbs::Tier3_LessCommon
+年を取ります	としをとります, としをとる, としをとらない, としをとって／た, としをとれます, としをとろう, Get old; 毎年年を取ります。(I get older every year.)	verb	Japanese::Verbs::Tier3_LessCommon
+めがねをかけます	めがねをかけます, かける, かけない, かけて／た, かけられます, かけよう, Put on glasses; 本を読むとき、めがねをかけます。(I put on glasses when I read a book.)	verb	Japanese::Verbs::Tier3_LessCommon
+連れてきます	つれてきます, つれてくる, つれてこない, つれてきて／た, つれてこられます, つれてこよう, Take a person; 子供を連れてきます。(I bring my child along.)	verb	Japanese::Verbs::Tier3_LessCommon
+テニスします	テニスします, する, しない, して／した, できる, しよう, Play tennis; 友達とテニスします。(I play tennis with a friend.)	verb	Japanese::Verbs::Tier3_LessCommon
+散歩します	さんぽします, する, しない, して／した, できる, しよう, Take a walk; 公園を散歩します。(I take a walk in the park.)	verb	Japanese::Verbs::Tier3_LessCommon
+研究します	けんきゅうします, する, しない, して／した, できる, しよう, Research; ロボットを研究します。(I research robots.)	verb	Japanese::Verbs::Tier3_LessCommon
+出張します	しゅっちょうします, する, しない, して／した, できる, しよう, Do business trip; 大阪に出張します。(I go on a business trip to Osaka.)	verb	Japanese::Verbs::Tier3_LessCommon
+故障します	こしょうします, する, しない, して／した, できる, しよう, Break down; 車が故障します。(The car breaks down.)	verb	Japanese::Verbs::Tier3_LessCommon
+案内します	あんないします, する, しない, して／した, できる, しよう, Guide; 道を案内します。(I show the way.)	verb	Japanese::Verbs::Tier3_LessCommon
+じろじろ見ます	じろじろみます, みる, みない, みて／た, みられます, みよう, Stare at; 知らない人をじろじろ見ます。(I stare at strangers.)	verb	Japanese::Verbs::Tier3_LessCommon
+いい	いいです, よくない, よくて, よかった, よくなかった, Good; 天気がいいです。(The weather is good.)	adjective	Japanese::Adjectives::Tier1_Essential
+悪い	わるいです, わるくない, わるくて, わるかった, わるくなかった, Bad; 天気が悪いです。(The weather is bad.)	adjective	Japanese::Adjectives::Tier1_Essential
+大きい	おおきいです, おおきくない, おおきくて, おおきかった, おおきくなかった, Big; この家は大きいです。(This house is big.)	adjective	Japanese::Adjectives::Tier1_Essential
+小さい	ちいさいです, ちいさくない, ちいさくて, ちいさかった, ちいさくなかった, Small; この部屋は小さいです。(This room is small.)	adjective	Japanese::Adjectives::Tier1_Essential
+高い	たかいです, たかくない, たかくて, たかかった, たかくなかった, High/Expensive; このかばんは高いです。(This bag is expensive.)	adjective	Japanese::Adjectives::Tier1_Essential
+安い	やすいです, やすくない, やすくて, やすかった, やすくなかった, Cheap; この店は安いです。(This shop is cheap.)	adjective	Japanese::Adjectives::Tier1_Essential
+忙しい	いそがしいです, いそがしくない, いそがしくて, いそがしかった, いそがしくなかった, Busy; 今週は忙しいです。(I'm busy this week.)	adjective	Japanese::Adjectives::Tier1_Essential
+新しい	あたらしいです, あたらしくない, あたらしくて, あたらしかった, あたらしくなかった, New; この車は新しいです。(This car is new.)	adjective	Japanese::Adjectives::Tier1_Essential
+古い	ふるいです, ふるくない, ふるくて, ふるかった, ふるくなかった, Old; この建物は古いです。(This building is old.)	adjective	Japanese::Adjectives::Tier1_Essential
+好き	すきです, すきじゃない, すきで, すきだった, すきじゃなかった, Like; 私は寿司が好きです。(I like sushi.)	adjective	Japanese::Adjectives::Tier1_Essential
+嫌い	きらいです, きらいじゃない, きらいで, きらいだった, きらいじゃなかった, Dislike; 私は虫が嫌いです。(I dislike bugs.)	adjective	Japanese::Adjectives::Tier1_Essential
+上手	じょうずです, じょうずじゃない, じょうずで, じょうずだった, じょうずじゃなかった, Good at; 彼はピアノが上手です。(He is good at piano.)	adjective	Japanese::Adjectives::Tier1_Essential
+下手	へたです, へたじゃない, へたで, へただった, へたじゃなかった, Not good at; 私は料理が下手です。(I'm bad at cooking.)	adjective	Japanese::Adjectives::Tier1_Essential
+大丈夫	だいじょうぶです, だいじょうぶじゃない, だいじょうぶで, だいじょうぶだった, だいじょうぶじゃなかった, Fine/Ok; 大丈夫です。(I'm fine.)	adjective	Japanese::Adjectives::Tier1_Essential
+元気	げんきです, げんきじゃない, げんきで, げんきだった, げんきじゃなかった, Energetic; 彼は元気です。(He is energetic.)	adjective	Japanese::Adjectives::Tier1_Essential
+きれい	きれいです, きれいじゃない, きれいで, きれいだった, きれいじゃなかった, Beautiful/Clean; この部屋はきれいです。(This room is clean.)	adjective	Japanese::Adjectives::Tier1_Essential
+面白い	おもしろいです, おもしろくない, おもしろくて, おもしろかった, おもしろくなかった, Fun; この映画は面白いです。(This movie is fun.)	adjective	Japanese::Adjectives::Tier1_Essential
+楽しい	たのしいです, たのしくない, たのしくて, たのしかった, たのしくなかった, Interesting; 旅行は楽しいです。(Traveling is fun.)	adjective	Japanese::Adjectives::Tier1_Essential
+便利	べんりです, べんりじゃない, べんりで, べんりだった, べんりじゃなかった, Convenience; このアプリは便利です。(This app is convenient.)	adjective	Japanese::Adjectives::Tier1_Essential
+大切	たいせつです, たいせつじゃない, たいせつで, たいせつだった, たいせつじゃなかった, Important; 家族が大切です。(Family is important.)	adjective	Japanese::Adjectives::Tier1_Essential
+暑い	あついです, あつくない, あつくて, あつかった, あつくなかった, Hot; 今日は暑いです。(Today is hot.)	adjective	Japanese::Adjectives::Tier1_Essential
+寒い	さむいです, さむくない, さむくて, さむかった, さむくなかった, Cold; 冬は寒いです。(Winter is cold.)	adjective	Japanese::Adjectives::Tier1_Essential
+多い	おおいです, おおくない, おおくて, おおかった, おおくなかった, A lot/Much; 学生が多いです。(There are many students.)	adjective	Japanese::Adjectives::Tier1_Essential
+少ない	すくないです, すくなくない, すくなくて, すくなかった, すくなくなかった, A little; 時間が少ないです。(There is little time.)	adjective	Japanese::Adjectives::Tier1_Essential
+早い	はやいです, はやくない, はやくて, はやかった, はやくなかった, Fast/Early; 朝が早いです。(The morning is early.)	adjective	Japanese::Adjectives::Tier1_Essential
+遅い	おそいです, おそくない, おそくて, おそかった, おそくなかった, Slow; 電車が遅いです。(The train is slow.)	adjective	Japanese::Adjectives::Tier1_Essential
+近い	ちかいです, ちかくない, ちかくて, ちかかった, ちかくなかった, Near/Close; 駅は近いです。(The station is close.)	adjective	Japanese::Adjectives::Tier1_Essential
+遠い	とおいです, とおくない, とおくて, とおかった, とおくなかった, Far; 学校は遠いです。(The school is far.)	adjective	Japanese::Adjectives::Tier1_Essential
+長い	ながいです, ながくない, ながくて, ながかった, ながくなかった, Long; 髪が長いです。(My hair is long.)	adjective	Japanese::Adjectives::Tier1_Essential
+短い	みじかいです, みじかくない, みじかくて, みじかかった, みじかくなかった, Short; スカートが短いです。(The skirt is short.)	adjective	Japanese::Adjectives::Tier1_Essential
+重い	おもいです, おもくない, おもくて, おもかった, おもくなかった, Heavy; このかばんは重いです。(This bag is heavy.)	adjective	Japanese::Adjectives::Tier1_Essential
+軽い	かるいです, かるくない, かるくて, かるかった, かるくなかった, Light; このかばんは軽いです。(This bag is light.)	adjective	Japanese::Adjectives::Tier1_Essential
+強い	つよいです, つよくない, つよくて, つよかった, つよくなかった, Strong; 彼は強いです。(He is strong.)	adjective	Japanese::Adjectives::Tier1_Essential
+弱い	よわいです, よわくない, よわくて, よわかった, よわくなかった, Weak; 私は数学が弱いです。(I'm weak at math.)	adjective	Japanese::Adjectives::Tier1_Essential
+難しい	むずかしいです, むずかしくない, むずかしくて, むずかしかった, むずかしくなかった, Difficult; 日本語は難しいです。(Japanese is difficult.)	adjective	Japanese::Adjectives::Tier1_Essential
+明るい	あかるいです, あかるくない, あかるくて, あかるかった, あかるくなかった, Bright; この部屋は明るいです。(This room is bright.)	adjective	Japanese::Adjectives::Tier1_Essential
+暗い	くらいです, くらくない, くらくて, くらかった, くらくなかった, Dark; 夜は暗いです。(Night is dark.)	adjective	Japanese::Adjectives::Tier1_Essential
+若い	わかいです, わかくない, わかくて, わかかった, わかくなかった, Young; 彼は若いです。(He is young.)	adjective	Japanese::Adjectives::Tier1_Essential
+広い	ひろいです, ひろくない, ひろくて, ひろかった, ひろくなかった, Wide; 部屋が広いです。(The room is spacious.)	adjective	Japanese::Adjectives::Tier1_Essential
+甘い	あまいです, あまくない, あまくて, あまかった, あまくなかった, Sweet; このケーキは甘いです。(This cake is sweet.)	adjective	Japanese::Adjectives::Tier1_Essential
+辛い	からいです, からくない, からくて, からかった, からくなかった, Spicy; カレーが辛いです。(The curry is spicy.)	adjective	Japanese::Adjectives::Tier1_Essential
+静か	しずかです, しずかじゃない, しずかで, しずかだった, しずかじゃなかった, Quiet; 図書館は静かです。(The library is quiet.)	adjective	Japanese::Adjectives::Tier2_Common
+有名	ゆうめいです, ゆうめいじゃない, ゆうめいで, ゆうめいだった, ゆうめいじゃなかった, Famous; この店は有名です。(This shop is famous.)	adjective	Japanese::Adjectives::Tier2_Common
+親切	しんせつです, しんせつじゃない, しんせつで, しんせつだった, しんせつじゃなかった, Kind; 彼女は親切です。(She is kind.)	adjective	Japanese::Adjectives::Tier2_Common
+簡単	かんたんです, かんたんじゃない, かんたんで, かんたんだった, かんたんじゃなかった, Easy; この問題は簡単です。(This question is easy.)	adjective	Japanese::Adjectives::Tier2_Common
+大変	たいへんです, たいへんじゃない, たいへんで, たいへんだった, たいへんじゃなかった, Hard; 仕事が大変です。(Work is tough.)	adjective	Japanese::Adjectives::Tier2_Common
+無理	むりです, むりじゃない, むりで, むりだった, むりじゃなかった, Impossible; 今日は無理です。(Today is impossible for me.)	adjective	Japanese::Adjectives::Tier2_Common
+同じ	おなじです, おなじじゃない, おなじで, おなじだった, おなじじゃなかった, Same; 私たちは同じクラスです。(We are in the same class.)	adjective	Japanese::Adjectives::Tier2_Common
+心配	しんぱいです, しんぱいじゃない, しんぱいで, しんぱいだった, しんぱいじゃなかった, Worry; 天気が心配です。(I'm worried about the weather.)	adjective	Japanese::Adjectives::Tier2_Common
+十分	じゅうぶんです, じゅうぶんじゃない, じゅうぶんで, じゅうぶんだった, じゅうぶんじゃなかった, Enough; これで十分です。(This is enough.)	adjective	Japanese::Adjectives::Tier2_Common
+だめ	だめです, だめじゃない, だめで, だめだった, だめじゃなかった, Not good; それはだめです。(That's no good.)	adjective	Japanese::Adjectives::Tier2_Common
+変	へんです, へんじゃない, へんで, へんだった, へんじゃなかった, Strange; その音は変です。(That sound is strange.)	adjective	Japanese::Adjectives::Tier2_Common
+幸せ	しあわせです, しあわせじゃない, しあわせで, しあわせだった, しあわせじゃなかった, Happy; 今、幸せです。(I'm happy now.)	adjective	Japanese::Adjectives::Tier2_Common
+楽	らくです, らくじゃない, らくで, らくだった, らくじゃなかった, Easy work; この仕事は楽です。(This job is easy/comfortable.)	adjective	Japanese::Adjectives::Tier2_Common
+安全	あんぜんです, あんぜんじゃない, あんぜんで, あんぜんだった, あんぜんじゃなかった, Safe; この道は安全です。(This road is safe.)	adjective	Japanese::Adjectives::Tier2_Common
+危険	きけんです, きけんじゃない, きけんで, きけんだった, きけんじゃなかった, Dangerous; この場所は危険です。(This place is dangerous.)	adjective	Japanese::Adjectives::Tier2_Common
+不便	ふべんです, ふべんじゃない, ふべんで, ふべんだった, ふべんじゃなかった, Inconvenience; ここは不便です。(This place is inconvenient.)	adjective	Japanese::Adjectives::Tier2_Common
+素敵	すてきです, すてきじゃない, すてきで, すてきだった, すてきじゃなかった, Nice; その服は素敵です。(Those clothes are nice.)	adjective	Japanese::Adjectives::Tier2_Common
+色々	いろいろです, いろいろじゃない, いろいろで, いろいろだった, いろいろじゃなかった, Various; メニューは色々です。(The menu has various options.)	adjective	Japanese::Adjectives::Tier2_Common
+真面目	まじめです, まじめじゃない, まじめで, まじめだった, まじめじゃなかった, Serious; 彼は真面目です。(He is serious/diligent.)	adjective	Japanese::Adjectives::Tier2_Common
+危ない	あぶないです, あぶなくない, あぶなくて, あぶなかった, あぶなくなかった, Dangerous; この道は危ないです。(This road is dangerous.)	adjective	Japanese::Adjectives::Tier2_Common
+痛い	いたいです, いたくない, いたくて, いたかった, いたくなかった, Painful; 頭が痛いです。(My head hurts.)	adjective	Japanese::Adjectives::Tier2_Common
+眠い	ねむいです, ねむくない, ねむくて, ねむかった, ねむくなかった, Sleepy; 今、眠いです。(I'm sleepy now.)	adjective	Japanese::Adjectives::Tier2_Common
+冷たい	つめたいです, つめたくない, つめたくて, つめたかった, つめたくなかった, Cold (touch); この水は冷たいです。(This water is cold.)	adjective	Japanese::Adjectives::Tier2_Common
+狭い	せまいです, せまくない, せまくて, せまかった, せまくなかった, Narrow; 道が狭いです。(The road is narrow.)	adjective	Japanese::Adjectives::Tier2_Common
+欲しい／たい	ほしいです, ほしくない, ほしくて, ほしかった, ほしくなかった, Want; 新しい靴が欲しいです。(I want new shoes.)	adjective	Japanese::Adjectives::Tier2_Common
+頭がいい	あたまがいいです, あたまがよくない, あたまがよくて, あたまがよかった, あたまがよくなかった, Smart; 彼女は頭がいいです。(She is smart.)	adjective	Japanese::Adjectives::Tier2_Common
+気分がいい	きぶんがいいです, きぶんがよくない, きぶんがよくて, きぶんがよかった, きぶんがよくなかった, Feel good; 今、気分がいいです。(I feel good now.)	adjective	Japanese::Adjectives::Tier2_Common
+気分が悪い	きぶんがわるいです, きぶんがわるくない, きぶんがわるくて, きぶんがわるかった, きぶんがわるくなかった, Feel bad; 今、気分が悪いです。(I feel sick now.)	adjective	Japanese::Adjectives::Tier2_Common
+都合がいい	つごうがいいです, つごうがよくない, つごうがよくて, つごうがよかった, つごうがよくなかった, Convenient; 明日は都合がいいです。(Tomorrow works for me.)	adjective	Japanese::Adjectives::Tier2_Common
+都合が悪い	つごうがわるいです, つごうがわるくない, つごうがわるくて, つごうがわるかった, つごうがわるくなかった, Inconvenient; 今週は都合が悪いです。(This week doesn't work for me.)	adjective	Japanese::Adjectives::Tier2_Common
+調子がいい	ちょうしがいいです, ちょうしがよくない, ちょうしがよくて, ちょうしがよかった, ちょうしがよくなかった, Doing well; 今日は調子がいいです。(I'm feeling good today.)	adjective	Japanese::Adjectives::Tier2_Common
+調子が悪い	ちょうしがわるいです, ちょうしがわるくない, ちょうしがわるくて, ちょうしがわるかった, ちょうしがわるくなかった, Not doing well; 今日は調子が悪いです。(I'm not feeling well today.)	adjective	Japanese::Adjectives::Tier2_Common
+気持ちがいい	きもちがいいです, きもちがよくない, きもちがよくて, きもちがよかった, きもちがよくなかった, Feel good; 風が気持ちがいいです。(The breeze feels good.)	adjective	Japanese::Adjectives::Tier2_Common
+気持ちが悪い	きもちがわるいです, きもちがわるくない, きもちがわるくて, きもちがわるかった, きもちがわるくなかった, Feel bad; 気持ちが悪いです。(I feel sick/nauseous.)	adjective	Japanese::Adjectives::Tier2_Common
+体にいい	からだにいいです, からだによくない, からだによくて, からだによかった, からだによくなかった, Healthy; 野菜は体にいいです。(Vegetables are good for your health.)	adjective	Japanese::Adjectives::Tier2_Common
+汚い	きたないです, きたなくない, きたなくて, きたなかった, きたなくなかった, Dirty; この部屋は汚いです。(This room is dirty.)	adjective	Japanese::Adjectives::Tier2_Common
+嬉しい	うれしいです, うれしくない, うれしくて, うれしかった, うれしくなかった, Happy; 会えて嬉しいです。(I'm happy to meet you.)	adjective	Japanese::Adjectives::Tier2_Common
+悲しい	かなしいです, かなしくない, かなしくて, かなしかった, かなしくなかった, Sad; その話は悲しいです。(That story is sad.)	adjective	Japanese::Adjectives::Tier2_Common
+すごい	すごいです, すごくない, すごくて, すごかった, すごくなかった, Great; その景色はすごいです。(That view is amazing.)	adjective	Japanese::Adjectives::Tier2_Common
+正しい	ただしいです, ただしくない, ただしくて, ただしかった, ただしくなかった, Correct; あなたの答えは正しいです。(Your answer is correct.)	adjective	Japanese::Adjectives::Tier2_Common
+美しい	うつくしいです, うつくしくない, うつくしくて, うつくしかった, うつくしくなかった, Beautiful; その景色は美しいです。(That view is beautiful.)	adjective	Japanese::Adjectives::Tier2_Common
+にぎやか	にぎやかです, にぎやかじゃない, にぎやかで, にぎやかだった, にぎやかじゃなかった, Lively/good noise; この街はにぎやかです。(This town is lively.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+ハンサム	ハンサムです, ハンサムじゃない, ハンサムで, ハンサムだった, ハンサムじゃなかった, Handsome; 彼はハンサムです。(He is handsome.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+キュート	キュートです, キュートじゃない, キュートで, キュートだった, キュートじゃなかった, Cute; その犬はキュートです。(That dog is cute.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+無駄	むだです, むだじゃない, むだで, むだだった, むだじゃなかった, Useless; その努力は無駄です。(That effort is wasted.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+熱心	ねっしんです, ねっしんじゃない, ねっしんで, ねっしんだった, ねっしんじゃなかった, Enthusiastic; 彼女は勉強に熱心です。(She is enthusiastic about studying.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+楽しみ	たのしみです, たのしみじゃない, たのしみで, たのしみだった, たのしみじゃなかった, Look forward to; 旅行が楽しみです。(I'm looking forward to the trip.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+複雑	ふくざつです, ふくざつじゃない, ふくざつで, ふくざつだった, ふくざつじゃなかった, Complicated; この問題は複雑です。(This problem is complicated.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+丁寧	ていねいです, ていねいじゃない, ていねいで, ていねいだった, ていねいじゃなかった, Polite; 彼女は丁寧です。(She is polite/courteous.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+いや	いやです, いやじゃない, いやで, いやだった, いやじゃなかった, Not like/not want; 行くのはいやです。(I don't want to go.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+暇	ひまです, ひまじゃない, ひまで, ひまだった, ひまじゃなかった, Bored/nothing to do; 今日は暇です。(I'm free today.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+美味しい	おいしいです, おいしくない, おいしくて, おいしかった, おいしくなかった, Delicious; このラーメンはおいしいです。(This ramen is delicious.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+かわいい	かわいいです, かわいくない, かわいくて, かわいかった, かわいくなかった, Cute/Pretty; この犬はかわいいです。(This dog is cute.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+低い	ひくいです, ひくくない, ひくくて, ひくかった, ひくくなかった, Low; 天井が低いです。(The ceiling is low.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+易しい	やさしいです, やさしくない, やさしくて, やさしかった, やさしくなかった, Easy/Gentle; この問題は易しいです。(This question is easy.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+白い	しろいです, しろくない, しろくて, しろかった, しろくなかった, White; 雪は白いです。(Snow is white.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+赤い	あかいです, あかくない, あかくて, あかかった, あかくなかった, Red; りんごは赤いです。(The apple is red.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+黒い	くろいです, くろくない, くろくて, くろかった, くろくなかった, Black; 猫は黒いです。(The cat is black.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+青い	あおいです, あおくない, あおくて, あおかった, あおくなかった, Blue; 空は青いです。(The sky is blue.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+暖かい	あたたかいです, あたたかくない, あたたかくて, あたたかかった, あたたかくなかった, Warm; 今日は暖かいです。(Today is warm.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+涼しい	すずしいです, すずしくない, すずしくて, すずしかった, すずしくなかった, Cool; 秋は涼しいです。(Autumn is cool.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+背が高い	せがたかいです, せがたかくない, せがたかくて, せがたかかった, せがたかくなかった, Tall; 兄は背が高いです。(My brother is tall.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+背が低い	せがひくいです, せがひくくない, せがひくくて, せがひくかった, せがひくくなかった, Short; 妹は背が低いです。(My sister is short.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+偉い	えらいです, えらくない, えらくて, えらかった, えらくなかった, Great (person); あの先生は偉いです。(That teacher is admirable.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+ちょうどいい	ちょうどいいです, ちょうどよくない, ちょうどよくて, ちょうどよかった, ちょうどよくなかった, Just right (size/time); このサイズはちょうどいいです。(This size is just right.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+うるさい	うるさいです, うるさくない, うるさくて, うるさかった, うるさくなかった, Noisy; この道はうるさいです。(This street is noisy.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+おかしい	おかしいです, おかしくない, おかしくて, おかしかった, おかしくなかった, Strange; その話はおかしいです。(That story is strange.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+苦い	にがいです, にがくない, にがくて, にがかった, にがくなかった, Bitter; この薬は苦いです。(This medicine is bitter.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+寂しい	さびしいです, さびしくない, さびしくて, さびしかった, さびしくなかった, Lonely; 一人で寂しいです。(I feel lonely by myself.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+恥ずかしい	はずかしいです, はずかしくない, はずかしくて, はずかしかった, はずかしくなかった, Embarrassed; 恥ずかしいです。(I'm embarrassed.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+固い	かたいです, かたくない, かたくて, かたかった, かたくなかった, Hard; このパンは固いです。(This bread is hard.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+柔らかい	やわらかいです, やわらかくない, やわらかくて, やわらかかった, やわらかくなかった, Soft; このソファは柔らかいです。(This sofa is soft.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+珍しい	めずらしいです, めずらしくない, めずらしくて, めずらしかった, めずらしくなかった, Rare; この花は珍しいです。(This flower is rare.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+うまい	うまいです, うまくない, うまくて, うまかった, うまくなかった, Tasty; この料理はうまいです。(This dish is delicious.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+まずい	まずいです, まずくない, まずくて, まずかった, まずくなかった, Not tasty; この料理はまずいです。(This dish tastes bad.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+濃い	こいです, こくない, こくて, こかった, こくなかった, Strong flavor; このコーヒーは濃いです。(This coffee is strong.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+薄い	うすいです, うすくない, うすくて, うすかった, うすくなかった, Little taste; このスープは薄いです。(This soup is bland.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+太い	ふといです, ふとくない, ふとくて, ふとかった, ふとくなかった, Thick; この木は太いです。(This tree is thick.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+細い・薄い	ほそいです, ほそくない, ほそくて, ほそかった, ほそくなかった, Thin; この紐は細いです。(This string is thin.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+ひどい	ひどいです, ひどくない, ひどくて, ひどかった, ひどくなかった, Awful; その事故はひどいです。(That accident is terrible.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+怖い	こわいです, こわくない, こわくて, こわかった, こわくなかった, Scary; この映画は怖いです。(This movie is scary.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+厳しい	きびしいです, きびしくない, きびしくて, きびしかった, きびしくなかった, Strict; 先生は厳しいです。(The teacher is strict.)	adjective	Japanese::Adjectives::Tier3_LessCommon
+人	ひと / ジン、ニン<br><ruby>日本人<rt>にほんじん</rt></ruby> Japanese person<br><ruby>外国人<rt>がいこくじん</rt></ruby> foreigner<br><ruby>一人<rt>ひとり</rt></ruby> one person/alone<br><ruby>人<rt>ひと</rt></ruby> person	kanji-n5	Japanese::Kanji::N5::Tier1
+一	ひと.つ / イチ、イツ<br><ruby>一<rt>いち</rt></ruby> one<br><ruby>一人<rt>ひとり</rt></ruby> one person<br><ruby>一月<rt>いちがつ</rt></ruby> January<br><ruby>一時<rt>いちじ</rt></ruby> one o'clock	kanji-n5	Japanese::Kanji::N5::Tier1
+日	ひ、-び、-か / ニチ、ジツ<br><ruby>日曜日<rt>にちようび</rt></ruby> Sunday<br><ruby>今日<rt>きょう</rt></ruby> today<br><ruby>誕生日<rt>たんじょうび</rt></ruby> birthday<br><ruby>毎日<rt>まいにち</rt></ruby> every day	kanji-n5	Japanese::Kanji::N5::Tier1
+大	おお.きい、おお- / ダイ、タイ<br><ruby>大きい<rt>おおきい</rt></ruby> big<br><ruby>大学<rt>だいがく</rt></ruby> university<br><ruby>大丈夫<rt>だいじょうぶ</rt></ruby> fine/ok<br><ruby>大好き<rt>だいすき</rt></ruby> love/like a lot	kanji-n5	Japanese::Kanji::N5::Tier1
+年	とし / ネン<br><ruby>今年<rt>ことし</rt></ruby> this year<br><ruby>来年<rt>らいねん</rt></ruby> next year<br><ruby>去年<rt>きょねん</rt></ruby> last year<br><ruby>年<rt>とし</rt></ruby> year/age	kanji-n5	Japanese::Kanji::N5::Tier1
+出	で.る、だ.す / シュツ、スイ<br><ruby>出ます<rt>でます</rt></ruby> to leave/go out<br><ruby>出口<rt>でぐち</rt></ruby> exit<br><ruby>出張<rt>しゅっちょう</rt></ruby> business trip<br><ruby>思い出す<rt>おもいだす</rt></ruby> to remember	kanji-n5	Japanese::Kanji::N5::Tier1
+本	もと / ホン<br><ruby>本<rt>ほん</rt></ruby> book<br><ruby>日本<rt>にほん</rt></ruby> Japan<br><ruby>本当<rt>ほんとう</rt></ruby> really/true<br><ruby>本屋<rt>ほんや</rt></ruby> bookstore	kanji-n5	Japanese::Kanji::N5::Tier1
+中	なか / チュウ<br><ruby>中<rt>なか</rt></ruby> inside<br><ruby>中国<rt>ちゅうごく</rt></ruby> China<br><ruby>中学校<rt>ちゅうがっこう</rt></ruby> middle school<br><ruby>一日中<rt>いちにちじゅう</rt></ruby> all day	kanji-n5	Japanese::Kanji::N5::Tier1
+子	こ / シ、ス<br><ruby>子供<rt>こども</rt></ruby> child<br><ruby>女の子<rt>おんなのこ</rt></ruby> girl<br><ruby>男の子<rt>おとこのこ</rt></ruby> boy<br><ruby>息子<rt>むすこ</rt></ruby> son	kanji-n5	Japanese::Kanji::N5::Tier1
+見	み.る、み.える / ケン<br><ruby>見ます<rt>みます</rt></ruby> to see/watch<br><ruby>見せます<rt>みせます</rt></ruby> to show<br><ruby>花見<rt>はなみ</rt></ruby> flower viewing<br><ruby>見える<rt>みえる</rt></ruby> to be visible	kanji-n5	Japanese::Kanji::N5::Tier1
+国	くに / コク<br><ruby>外国<rt>がいこく</rt></ruby> foreign country<br><ruby>国<rt>くに</rt></ruby> country<br><ruby>中国<rt>ちゅうごく</rt></ruby> China<br><ruby>外国人<rt>がいこくじん</rt></ruby> foreigner	kanji-n5	Japanese::Kanji::N5::Tier1
+上	うえ、あ.げる、あ.がる、のぼ.る / ジョウ<br><ruby>上<rt>うえ</rt></ruby> above/on<br><ruby>上手<rt>じょうず</rt></ruby> good at<br><ruby>上がる<rt>あがる</rt></ruby> to rise<br><ruby>屋上<rt>おくじょう</rt></ruby> rooftop	kanji-n5	Japanese::Kanji::N5::Tier1
+分	わ.ける、わ.かる / ブン、フン、ブ<br><ruby>自分<rt>じぶん</rt></ruby> oneself<br><ruby>半分<rt>はんぶん</rt></ruby> half<br><ruby>十分<rt>じゅっぷん／じゅうぶん</rt></ruby> ten minutes / enough<br><ruby>分かります<rt>わかります</rt></ruby> to understand	kanji-n5	Japanese::Kanji::N5::Tier1
+生	い.きる、う.まれる、は.える / セイ、ショウ<br><ruby>学生<rt>がくせい</rt></ruby> student<br><ruby>先生<rt>せんせい</rt></ruby> teacher<br><ruby>誕生日<rt>たんじょうび</rt></ruby> birthday<br><ruby>生まれます<rt>うまれます</rt></ruby> to be born	kanji-n5	Japanese::Kanji::N5::Tier1
+行	い.く、おこな.う / コウ、ギョウ、アン<br><ruby>行きます<rt>いきます</rt></ruby> to go<br><ruby>旅行<rt>りょこう</rt></ruby> travel<br><ruby>銀行<rt>ぎんこう</rt></ruby> bank<br><ruby>行く<rt>いく</rt></ruby> to go	kanji-n5	Japanese::Kanji::N5::Tier1
+二	ふた、ふた.つ / ニ<br><ruby>二人<rt>ふたり</rt></ruby> two people<br><ruby>二<rt>に</rt></ruby> two<br><ruby>二月<rt>にがつ</rt></ruby> February<br><ruby>二階<rt>にかい</rt></ruby> second floor	kanji-n5	Japanese::Kanji::N5::Tier1
+間	あいだ、ま / カン、ケン<br><ruby>時間<rt>じかん</rt></ruby> time<br><ruby>間<rt>あいだ</rt></ruby> between<br><ruby>一週間<rt>いっしゅうかん</rt></ruby> one week<br><ruby>人間<rt>にんげん</rt></ruby> human being	kanji-n5	Japanese::Kanji::N5::Tier1
+時	とき / ジ<br><ruby>時間<rt>じかん</rt></ruby> time<br><ruby>何時<rt>なんじ</rt></ruby> what time<br><ruby>時々<rt>ときどき</rt></ruby> sometimes<br><ruby>一時<rt>いちじ</rt></ruby> one o'clock	kanji-n5	Japanese::Kanji::N5::Tier1
+気	キ、ケ<br><ruby>元気<rt>げんき</rt></ruby> energetic<br><ruby>天気<rt>てんき</rt></ruby> weather<br><ruby>気をつけます<rt>きをつけます</rt></ruby> to watch out<br><ruby>病気<rt>びょうき</rt></ruby> sickness	kanji-n5	Japanese::Kanji::N5::Tier1
+十	とお、と / ジュウ、ジッ<br><ruby>十<rt>じゅう</rt></ruby> ten<br><ruby>十日<rt>とおか</rt></ruby> the 10th day/ten days<br><ruby>十分<rt>じゅうぶん</rt></ruby> enough<br><ruby>三十<rt>さんじゅう</rt></ruby> thirty	kanji-n5	Japanese::Kanji::N5::Tier1
+女	おんな、め / ジョ、ニョ<br><ruby>女の子<rt>おんなのこ</rt></ruby> girl<br><ruby>女の人<rt>おんなのひと</rt></ruby> woman<br><ruby>彼女<rt>かのじょ</rt></ruby> she/girlfriend<br><ruby>女性<rt>じょせい</rt></ruby> female/woman	kanji-n5	Japanese::Kanji::N5::Tier1
+三	み、みっ.つ / サン<br><ruby>三人<rt>さんにん</rt></ruby> three people<br><ruby>三<rt>さん</rt></ruby> three<br><ruby>三月<rt>さんがつ</rt></ruby> March<br><ruby>三時<rt>さんじ</rt></ruby> three o'clock	kanji-n5	Japanese::Kanji::N5::Tier1
+前	まえ / ゼン<br><ruby>名前<rt>なまえ</rt></ruby> name<br><ruby>前<rt>まえ</rt></ruby> before/in front of<br><ruby>午前<rt>ごぜん</rt></ruby> morning/AM<br><ruby>この前<rt>このまえ</rt></ruby> the other day	kanji-n5	Japanese::Kanji::N5::Tier1
+入	い.る、はい.る / ニュウ<br><ruby>入ります<rt>はいります</rt></ruby> to enter<br><ruby>入り口<rt>いりぐち</rt></ruby> entrance<br><ruby>入れます<rt>いれます</rt></ruby> to put in<br><ruby>入学<rt>にゅうがく</rt></ruby> school enrollment	kanji-n5	Japanese::Kanji::N5::Tier1
+小	ちい.さい、こ- / ショウ<br><ruby>小さい<rt>ちいさい</rt></ruby> small<br><ruby>小学校<rt>しょうがっこう</rt></ruby> elementary school<br><ruby>小説<rt>しょうせつ</rt></ruby> novel<br><ruby>小さな<rt>ちいさな</rt></ruby> small (attributive)	kanji-n5	Japanese::Kanji::N5::Tier1
+後	あと、うし.ろ、のち / ゴ、コウ<br><ruby>後ろ<rt>うしろ</rt></ruby> behind<br><ruby>午後<rt>ごご</rt></ruby> afternoon<br><ruby>後で<rt>あとで</rt></ruby> later<br><ruby>最後<rt>さいご</rt></ruby> the last/final	kanji-n5	Japanese::Kanji::N5::Tier1
+長	なが.い / チョウ<br><ruby>長い<rt>ながい</rt></ruby> long<br><ruby>社長<rt>しゃちょう</rt></ruby> company president<br><ruby>校長<rt>こうちょう</rt></ruby> principal<br><ruby>長さ<rt>ながさ</rt></ruby> length	kanji-n5	Japanese::Kanji::N5::Tier1
+下	した、さ.げる、くだ.る / カ、ゲ<br><ruby>下<rt>した</rt></ruby> under/below<br><ruby>下手<rt>へた</rt></ruby> not good at<br><ruby>地下<rt>ちか</rt></ruby> basement<br><ruby>下さい<rt>ください</rt></ruby> please give me	kanji-n5	Japanese::Kanji::N5::Tier1
+学	まな.ぶ / ガク<br><ruby>学校<rt>がっこう</rt></ruby> school<br><ruby>学生<rt>がくせい</rt></ruby> student<br><ruby>大学<rt>だいがく</rt></ruby> university<br><ruby>留学<rt>りゅうがく</rt></ruby> studying abroad	kanji-n5	Japanese::Kanji::N5::Tier1
+月	つき / ゲツ、ガツ<br><ruby>今月<rt>こんげつ</rt></ruby> this month<br><ruby>一月<rt>いちがつ</rt></ruby> January<br><ruby>月曜日<rt>げつようび</rt></ruby> Monday<br><ruby>来月<rt>らいげつ</rt></ruby> next month	kanji-n5	Japanese::Kanji::N5::Tier1
+何	なに、なん / カ<br><ruby>何<rt>なに／なん</rt></ruby> what<br><ruby>何時<rt>なんじ</rt></ruby> what time<br><ruby>何か<rt>なにか</rt></ruby> something<br><ruby>何人<rt>なんにん</rt></ruby> how many people	kanji-n5	Japanese::Kanji::N5::Tier1
+来	く.る、きた.る / ライ<br><ruby>来ます<rt>きます</rt></ruby> to come<br><ruby>来年<rt>らいねん</rt></ruby> next year<br><ruby>来月<rt>らいげつ</rt></ruby> next month<br><ruby>未来<rt>みらい</rt></ruby> future	kanji-n5	Japanese::Kanji::N5::Tier1
+話	はな.す、はなし / ワ<br><ruby>電話<rt>でんわ</rt></ruby> telephone<br><ruby>話します<rt>はなします</rt></ruby> to speak<br><ruby>会話<rt>かいわ</rt></ruby> conversation<br><ruby>昔話<rt>むかしばなし</rt></ruby> old tale	kanji-n5	Japanese::Kanji::N5::Tier1
+山	やま / サン<br><ruby>山<rt>やま</rt></ruby> mountain<br><ruby>富士山<rt>ふじさん</rt></ruby> Mt. Fuji<br><ruby>登山<rt>とざん</rt></ruby> mountain climbing<br><ruby>火山<rt>かざん</rt></ruby> volcano	kanji-n5	Japanese::Kanji::N5::Tier1
+高	たか.い / コウ<br><ruby>高い<rt>たかい</rt></ruby> high/expensive<br><ruby>高校<rt>こうこう</rt></ruby> high school<br><ruby>高校生<rt>こうこうせい</rt></ruby> high school student<br><ruby>背が高い<rt>せがたかい</rt></ruby> tall	kanji-n5	Japanese::Kanji::N5::Tier1
+今	いま / コン、キン<br><ruby>今日<rt>きょう</rt></ruby> today<br><ruby>今<rt>いま</rt></ruby> now<br><ruby>今年<rt>ことし</rt></ruby> this year<br><ruby>今週<rt>こんしゅう</rt></ruby> this week	kanji-n5	Japanese::Kanji::N5::Tier1
+書	か.く / ショ<br><ruby>辞書<rt>じしょ</rt></ruby> dictionary<br><ruby>書きます<rt>かきます</rt></ruby> to write<br><ruby>図書館<rt>としょかん</rt></ruby> library<br><ruby>教科書<rt>きょうかしょ</rt></ruby> textbook	kanji-n5	Japanese::Kanji::N5::Tier1
+五	いつ.つ / ゴ<br><ruby>五人<rt>ごにん</rt></ruby> five people<br><ruby>五<rt>ご</rt></ruby> five<br><ruby>五月<rt>ごがつ</rt></ruby> May<br><ruby>五時<rt>ごじ</rt></ruby> five o'clock	kanji-n5	Japanese::Kanji::N5::Tier1
+名	な / メイ、ミョウ<br><ruby>有名<rt>ゆうめい</rt></ruby> famous<br><ruby>名前<rt>なまえ</rt></ruby> name<br><ruby>名字<rt>みょうじ</rt></ruby> surname<br><ruby>名刺<rt>めいし</rt></ruby> business card	kanji-n5	Japanese::Kanji::N5::Tier1
+金	かね / キン、コン<br><ruby>お金<rt>おかね</rt></ruby> money<br><ruby>金曜日<rt>きんようび</rt></ruby> Friday<br><ruby>金<rt>きん</rt></ruby> gold<br><ruby>料金<rt>りょうきん</rt></ruby> fee/charge	kanji-n5	Japanese::Kanji::N5::Tier1
+男	おとこ / ダン、ナン<br><ruby>男の人<rt>おとこのひと</rt></ruby> man<br><ruby>男の子<rt>おとこのこ</rt></ruby> boy<br><ruby>男性<rt>だんせい</rt></ruby> male/man<br><ruby>長男<rt>ちょうなん</rt></ruby> eldest son	kanji-n5	Japanese::Kanji::N5::Tier2
+外	そと、ほか、はず.す / ガイ、ゲ<br><ruby>外国<rt>がいこく</rt></ruby> foreign country<br><ruby>外<rt>そと</rt></ruby> outside<br><ruby>外国人<rt>がいこくじん</rt></ruby> foreigner<br><ruby>外食<rt>がいしょく</rt></ruby> eating out	kanji-n5	Japanese::Kanji::N5::Tier2
+四	よ、よ.つ、よん / シ<br><ruby>四人<rt>よにん</rt></ruby> four people<br><ruby>四<rt>し／よん</rt></ruby> four<br><ruby>四月<rt>しがつ</rt></ruby> April<br><ruby>四時<rt>よじ</rt></ruby> four o'clock	kanji-n5	Japanese::Kanji::N5::Tier2
+先	さき / セン<br><ruby>先生<rt>せんせい</rt></ruby> teacher<br><ruby>先週<rt>せんしゅう</rt></ruby> last week<br><ruby>先月<rt>せんげつ</rt></ruby> last month<br><ruby>先に<rt>さきに</rt></ruby> ahead/first	kanji-n5	Japanese::Kanji::N5::Tier2
+川	かわ / セン<br><ruby>川<rt>かわ</rt></ruby> river<br><ruby>小川<rt>おがわ</rt></ruby> stream	kanji-n5	Japanese::Kanji::N5::Tier2
+東	ひがし / トウ<br><ruby>東京<rt>とうきょう</rt></ruby> Tokyo<br><ruby>東<rt>ひがし</rt></ruby> east<br><ruby>東口<rt>ひがしぐち</rt></ruby> east exit	kanji-n5	Japanese::Kanji::N5::Tier2
+聞	き.く / ブン、モン<br><ruby>聞きます<rt>ききます</rt></ruby> to listen/ask<br><ruby>新聞<rt>しんぶん</rt></ruby> newspaper<br><ruby>聞こえます<rt>きこえます</rt></ruby> to be audible	kanji-n5	Japanese::Kanji::N5::Tier2
+語	かた.る / ゴ<br><ruby>日本語<rt>にほんご</rt></ruby> Japanese language<br><ruby>英語<rt>えいご</rt></ruby> English language<br><ruby>単語<rt>たんご</rt></ruby> vocabulary word<br><ruby>語学<rt>ごがく</rt></ruby> language study	kanji-n5	Japanese::Kanji::N5::Tier2
+九	ここの.つ / キュウ、ク<br><ruby>九時<rt>くじ</rt></ruby> nine o'clock<br><ruby>九<rt>きゅう／く</rt></ruby> nine<br><ruby>九月<rt>くがつ</rt></ruby> September<br><ruby>九人<rt>きゅうにん</rt></ruby> nine people	kanji-n5	Japanese::Kanji::N5::Tier2
+食	た.べる / ショク<br><ruby>食べます<rt>たべます</rt></ruby> to eat<br><ruby>食事<rt>しょくじ</rt></ruby> meal<br><ruby>食堂<rt>しょくどう</rt></ruby> dining hall/cafeteria<br><ruby>朝食<rt>ちょうしょく</rt></ruby> breakfast	kanji-n5	Japanese::Kanji::N5::Tier2
+八	や.つ / ハチ<br><ruby>八時<rt>はちじ</rt></ruby> eight o'clock<br><ruby>八<rt>はち</rt></ruby> eight<br><ruby>八月<rt>はちがつ</rt></ruby> August<br><ruby>八人<rt>はちにん</rt></ruby> eight people	kanji-n5	Japanese::Kanji::N5::Tier2
+水	みず / スイ<br><ruby>水<rt>みず</rt></ruby> water<br><ruby>水曜日<rt>すいようび</rt></ruby> Wednesday<br><ruby>水泳<rt>すいえい</rt></ruby> swimming	kanji-n5	Japanese::Kanji::N5::Tier2
+天	あめ、あま- / テン<br><ruby>天気<rt>てんき</rt></ruby> weather<br><ruby>天ぷら<rt>てんぷら</rt></ruby> tempura<br><ruby>天国<rt>てんごく</rt></ruby> heaven	kanji-n5	Japanese::Kanji::N5::Tier2
+木	き / ボク、モク<br><ruby>木<rt>き</rt></ruby> tree<br><ruby>木曜日<rt>もくようび</rt></ruby> Thursday	kanji-n5	Japanese::Kanji::N5::Tier2
+六	む.つ / ロク<br><ruby>六時<rt>ろくじ</rt></ruby> six o'clock<br><ruby>六<rt>ろく</rt></ruby> six<br><ruby>六月<rt>ろくがつ</rt></ruby> June<br><ruby>六人<rt>ろくにん</rt></ruby> six people	kanji-n5	Japanese::Kanji::N5::Tier2
+万	よろず / マン、バン<br><ruby>一万円<rt>いちまんえん</rt></ruby> ten thousand yen<br><ruby>万<rt>まん</rt></ruby> ten thousand<br><ruby>万年筆<rt>まんねんひつ</rt></ruby> fountain pen<br><ruby>百万<rt>ひゃくまん</rt></ruby> one million	kanji-n5	Japanese::Kanji::N5::Tier2
+白	しろ、しろ.い / ハク、ビャク<br><ruby>白い<rt>しろい</rt></ruby> white<br><ruby>白<rt>しろ</rt></ruby> white (color)<br><ruby>面白い<rt>おもしろい</rt></ruby> interesting	kanji-n5	Japanese::Kanji::N5::Tier2
+七	なな、なな.つ / シチ<br><ruby>七時<rt>しちじ</rt></ruby> seven o'clock<br><ruby>七<rt>しち／なな</rt></ruby> seven<br><ruby>七月<rt>しちがつ</rt></ruby> July<br><ruby>七人<rt>しちにん</rt></ruby> seven people	kanji-n5	Japanese::Kanji::N5::Tier2
+円	まる.い / エン<br><ruby>百円<rt>ひゃくえん</rt></ruby> hundred yen<br><ruby>円<rt>えん</rt></ruby> yen<br><ruby>千円<rt>せんえん</rt></ruby> a thousand yen<br><ruby>五百円<rt>ごひゃくえん</rt></ruby> 500 yen	kanji-n5	Japanese::Kanji::N5::Tier2
+電	デン<br><ruby>電車<rt>でんしゃ</rt></ruby> train<br><ruby>電話<rt>でんわ</rt></ruby> telephone<br><ruby>電気<rt>でんき</rt></ruby> electricity/light<br><ruby>電子レンジ<rt>でんしレンジ</rt></ruby> microwave	kanji-n5	Japanese::Kanji::N5::Tier2
+父	ちち / フ<br><ruby>お父さん<rt>おとうさん</rt></ruby> father<br><ruby>父<rt>ちち</rt></ruby> my father<br><ruby>祖父<rt>そふ</rt></ruby> grandfather<br><ruby>父の日<rt>ちちのひ</rt></ruby> Father's Day	kanji-n5	Japanese::Kanji::N5::Tier2
+北	きた / ホク<br><ruby>北<rt>きた</rt></ruby> north<br><ruby>北海道<rt>ほっかいどう</rt></ruby> Hokkaido<br><ruby>東北<rt>とうほく</rt></ruby> Tohoku (region)<br><ruby>北口<rt>きたぐち</rt></ruby> north exit	kanji-n5	Japanese::Kanji::N5::Tier2
+車	くるま / シャ<br><ruby>車<rt>くるま</rt></ruby> car<br><ruby>電車<rt>でんしゃ</rt></ruby> train<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby> parking lot	kanji-n5	Japanese::Kanji::N5::Tier2
+母	はは / ボ<br><ruby>お母さん<rt>おかあさん</rt></ruby> mother<br><ruby>母<rt>はは</rt></ruby> my mother<br><ruby>祖母<rt>そぼ</rt></ruby> grandmother<br><ruby>母の日<rt>ははのひ</rt></ruby> Mother's Day	kanji-n5	Japanese::Kanji::N5::Tier2
+半	なか.ば / ハン<br><ruby>半分<rt>はんぶん</rt></ruby> half<br><ruby>一時半<rt>いちじはん</rt></ruby> half past one<br><ruby>半年<rt>はんとし</rt></ruby> half a year<br><ruby>前半<rt>ぜんはん</rt></ruby> first half	kanji-n5	Japanese::Kanji::N5::Tier2
+百	ヒャク<br><ruby>百<rt>ひゃく</rt></ruby> hundred<br><ruby>百円<rt>ひゃくえん</rt></ruby> hundred yen<br><ruby>三百<rt>さんびゃく</rt></ruby> three hundred<br><ruby>百貨店<rt>ひゃっかてん</rt></ruby> department store	kanji-n5	Japanese::Kanji::N5::Tier2
+土	つち / ド、ト<br><ruby>土曜日<rt>どようび</rt></ruby> Saturday<br><ruby>土<rt>つち</rt></ruby> soil/earth<br><ruby>土地<rt>とち</rt></ruby> land<br><ruby>土産<rt>みやげ</rt></ruby> souvenir	kanji-n5	Japanese::Kanji::N5::Tier2
+西	にし / セイ、サイ<br><ruby>西<rt>にし</rt></ruby> west<br><ruby>西口<rt>にしぐち</rt></ruby> west exit<br><ruby>関西<rt>かんさい</rt></ruby> Kansai (region)<br><ruby>西洋<rt>せいよう</rt></ruby> the West/Occident	kanji-n5	Japanese::Kanji::N5::Tier2
+読	よ.む / ドク、トウ<br><ruby>読みます<rt>よみます</rt></ruby> to read<br><ruby>読書<rt>どくしょ</rt></ruby> reading<br><ruby>読み方<rt>よみかた</rt></ruby> how to read	kanji-n5	Japanese::Kanji::N5::Tier2
+千	ち / セン<br><ruby>千円<rt>せんえん</rt></ruby> a thousand yen<br><ruby>千<rt>せん</rt></ruby> thousand<br><ruby>三千<rt>さんぜん</rt></ruby> three thousand	kanji-n5	Japanese::Kanji::N5::Tier2
+校	コウ<br><ruby>学校<rt>がっこう</rt></ruby> school<br><ruby>高校<rt>こうこう</rt></ruby> high school<br><ruby>校長<rt>こうちょう</rt></ruby> principal<br><ruby>転校<rt>てんこう</rt></ruby> transferring school	kanji-n5	Japanese::Kanji::N5::Tier2
+右	みぎ / ウ、ユウ<br><ruby>右<rt>みぎ</rt></ruby> right<br><ruby>右手<rt>みぎて</rt></ruby> right hand<br><ruby>右側<rt>みぎがわ</rt></ruby> right side<br><ruby>右折<rt>うせつ</rt></ruby> turning right	kanji-n5	Japanese::Kanji::N5::Tier2
+南	みなみ / ナン<br><ruby>南<rt>みなみ</rt></ruby> south<br><ruby>南口<rt>みなみぐち</rt></ruby> south exit<br><ruby>南米<rt>なんべい</rt></ruby> South America	kanji-n5	Japanese::Kanji::N5::Tier2
+左	ひだり / サ<br><ruby>左<rt>ひだり</rt></ruby> left<br><ruby>左手<rt>ひだりて</rt></ruby> left hand<br><ruby>左側<rt>ひだりがわ</rt></ruby> left side<br><ruby>左折<rt>させつ</rt></ruby> turning left	kanji-n5	Japanese::Kanji::N5::Tier2
+友	とも / ユウ<br><ruby>友達<rt>ともだち</rt></ruby> friend<br><ruby>親友<rt>しんゆう</rt></ruby> close friend<br><ruby>友人<rt>ゆうじん</rt></ruby> friend (formal)	kanji-n5	Japanese::Kanji::N5::Tier2
+火	ひ / カ<br><ruby>火曜日<rt>かようび</rt></ruby> Tuesday<br><ruby>火<rt>ひ</rt></ruby> fire<br><ruby>花火<rt>はなび</rt></ruby> fireworks<br><ruby>火事<rt>かじ</rt></ruby> fire (disaster)	kanji-n5	Japanese::Kanji::N5::Tier2
+毎	マイ<br><ruby>毎日<rt>まいにち</rt></ruby> every day<br><ruby>毎週<rt>まいしゅう</rt></ruby> every week<br><ruby>毎月<rt>まいつき</rt></ruby> every month<br><ruby>毎年<rt>まいとし／まいねん</rt></ruby> every year	kanji-n5	Japanese::Kanji::N5::Tier2
+雨	あめ、あま / ウ<br><ruby>雨<rt>あめ</rt></ruby> rain<br><ruby>大雨<rt>おおあめ</rt></ruby> heavy rain<br><ruby>梅雨<rt>つゆ</rt></ruby> rainy season	kanji-n5	Japanese::Kanji::N5::Tier2
+休	やす.む / キュウ<br><ruby>休みます<rt>やすみます</rt></ruby> to rest<br><ruby>休み<rt>やすみ</rt></ruby> holiday/rest<br><ruby>夏休み<rt>なつやすみ</rt></ruby> summer vacation<br><ruby>休憩<rt>きゅうけい</rt></ruby> break	kanji-n5	Japanese::Kanji::N5::Tier2
+午	ゴ<br><ruby>午前<rt>ごぜん</rt></ruby> morning/AM<br><ruby>午後<rt>ごご</rt></ruby> afternoon/PM<br><ruby>正午<rt>しょうご</rt></ruby> noon	kanji-n5	Japanese::Kanji::N5::Tier2
+言	い.う、こと / ゲン、ゴン<br><ruby>言います<rt>いいます</rt></ruby> to say<br><ruby>言葉<rt>ことば</rt></ruby> word/language<br><ruby>言語<rt>げんご</rt></ruby> language<br><ruby>方言<rt>ほうげん</rt></ruby> dialect	kanji-n4	Japanese::Kanji::N4::Tier1
+手	て / シュ<br><ruby>手<rt>て</rt></ruby> hand<br><ruby>手紙<rt>てがみ</rt></ruby> letter<br><ruby>上手<rt>じょうず</rt></ruby> good at<br><ruby>苦手<rt>にがて</rt></ruby> weak at/dislike	kanji-n4	Japanese::Kanji::N4::Tier1
+自	みずか.ら / ジ、シ<br><ruby>自分<rt>じぶん</rt></ruby> oneself<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>自由<rt>じゆう</rt></ruby> freedom<br><ruby>自動車<rt>じどうしゃ</rt></ruby> automobile	kanji-n4	Japanese::Kanji::N4::Tier1
+者	もの / シャ<br><ruby>医者<rt>いしゃ</rt></ruby> doctor<br><ruby>若者<rt>わかもの</rt></ruby> young person<br><ruby>学者<rt>がくしゃ</rt></ruby> scholar<br><ruby>記者<rt>きしゃ</rt></ruby> journalist	kanji-n4	Japanese::Kanji::N4::Tier1
+事	こと / ジ、ズ<br><ruby>仕事<rt>しごと</rt></ruby> job/work<br><ruby>大事<rt>だいじ</rt></ruby> important<br><ruby>食事<rt>しょくじ</rt></ruby> meal<br><ruby>事故<rt>じこ</rt></ruby> accident	kanji-n4	Japanese::Kanji::N4::Tier1
+思	おも.う / シ<br><ruby>思います<rt>おもいます</rt></ruby> to think<br><ruby>思い出<rt>おもいで</rt></ruby> memory<br><ruby>思い出す<rt>おもいだす</rt></ruby> to remember<br><ruby>不思議<rt>ふしぎ</rt></ruby> mysterious	kanji-n4	Japanese::Kanji::N4::Tier1
+会	あ.う / カイ、エ<br><ruby>会います<rt>あいます</rt></ruby> to meet<br><ruby>会社<rt>かいしゃ</rt></ruby> company<br><ruby>会話<rt>かいわ</rt></ruby> conversation<br><ruby>社会<rt>しゃかい</rt></ruby> society	kanji-n4	Japanese::Kanji::N4::Tier1
+家	いえ、や / カ、ケ<br><ruby>家<rt>いえ</rt></ruby> house<br><ruby>家族<rt>かぞく</rt></ruby> family<br><ruby>作家<rt>さっか</rt></ruby> author<br><ruby>大家<rt>おおや</rt></ruby> landlord	kanji-n4	Japanese::Kanji::N4::Tier1
+的	まと / テキ<br><ruby>目的<rt>もくてき</rt></ruby> purpose/goal<br><ruby>的<rt>まと</rt></ruby> target<br><ruby>一般的<rt>いっぱんてき</rt></ruby> general<br><ruby>個人的<rt>こじんてき</rt></ruby> personal	kanji-n4	Japanese::Kanji::N4::Tier1
+方	かた / ホウ<br><ruby>方<rt>かた</rt></ruby> person (polite)<br><ruby>方法<rt>ほうほう</rt></ruby> method<br><ruby>両方<rt>りょうほう</rt></ruby> both<br><ruby>やり方<rt>やりかた</rt></ruby> way of doing	kanji-n4	Japanese::Kanji::N4::Tier1
+地	チ、ジ<br><ruby>地図<rt>ちず</rt></ruby> map<br><ruby>地震<rt>じしん</rt></ruby> earthquake<br><ruby>地下<rt>ちか</rt></ruby> basement<br><ruby>地方<rt>ちほう</rt></ruby> region	kanji-n4	Japanese::Kanji::N4::Tier1
+目	め / モク、ボク<br><ruby>目<rt>め</rt></ruby> eye<br><ruby>真面目<rt>まじめ</rt></ruby> serious<br><ruby>目的<rt>もくてき</rt></ruby> purpose<br><ruby>一番目<rt>いちばんめ</rt></ruby> the first (ordinal)	kanji-n4	Japanese::Kanji::N4::Tier1
+場	ば / ジョウ<br><ruby>場所<rt>ばしょ</rt></ruby> place<br><ruby>会場<rt>かいじょう</rt></ruby> venue<br><ruby>工場<rt>こうじょう</rt></ruby> factory<br><ruby>市場<rt>いちば</rt></ruby> market	kanji-n4	Japanese::Kanji::N4::Tier1
+代	か.わる、よ / ダイ、タイ<br><ruby>時代<rt>じだい</rt></ruby> era<br><ruby>代わりに<rt>かわりに</rt></ruby> instead of<br><ruby>二十代<rt>にじゅうだい</rt></ruby> one's twenties<br><ruby>世代<rt>せだい</rt></ruby> generation	kanji-n4	Japanese::Kanji::N4::Tier1
+私	わたし、わたくし / シ<br><ruby>私<rt>わたし</rt></ruby> I<br><ruby>私たち<rt>わたしたち</rt></ruby> we<br><ruby>私立<rt>しりつ</rt></ruby> private (institution)	kanji-n4	Japanese::Kanji::N4::Tier1
+立	た.つ / リツ、リュウ<br><ruby>立ちます<rt>たちます</rt></ruby> to stand<br><ruby>私立<rt>しりつ</rt></ruby> private<br><ruby>国立<rt>こくりつ</rt></ruby> national (institution)<br><ruby>立派<rt>りっぱ</rt></ruby> splendid	kanji-n4	Japanese::Kanji::N4::Tier1
+物	もの / ブツ、モツ<br><ruby>食べ物<rt>たべもの</rt></ruby> food<br><ruby>飲み物<rt>のみもの</rt></ruby> drink<br><ruby>買い物<rt>かいもの</rt></ruby> shopping<br><ruby>動物<rt>どうぶつ</rt></ruby> animal	kanji-n4	Japanese::Kanji::N4::Tier1
+田	た / デン<br><ruby>田んぼ<rt>たんぼ</rt></ruby> rice paddy<br><ruby>田舎<rt>いなか</rt></ruby> countryside	kanji-n4	Japanese::Kanji::N4::Tier1
+体	からだ / タイ、テイ<br><ruby>体<rt>からだ</rt></ruby> body<br><ruby>体調<rt>たいちょう</rt></ruby> physical condition<br><ruby>体育<rt>たいいく</rt></ruby> physical education<br><ruby>全体<rt>ぜんたい</rt></ruby> the whole	kanji-n4	Japanese::Kanji::N4::Tier1
+動	うご.く / ドウ<br><ruby>動きます<rt>うごきます</rt></ruby> to move<br><ruby>動物<rt>どうぶつ</rt></ruby> animal<br><ruby>運動<rt>うんどう</rt></ruby> exercise<br><ruby>自動車<rt>じどうしゃ</rt></ruby> automobile	kanji-n4	Japanese::Kanji::N4::Tier1
+社	やしろ / シャ<br><ruby>会社<rt>かいしゃ</rt></ruby> company<br><ruby>社長<rt>しゃちょう</rt></ruby> company president<br><ruby>神社<rt>じんじゃ</rt></ruby> shrine<br><ruby>社会<rt>しゃかい</rt></ruby> society	kanji-n4	Japanese::Kanji::N4::Tier1
+知	し.る / チ<br><ruby>知ります<rt>しります</rt></ruby> to know<br><ruby>知り合い<rt>しりあい</rt></ruby> acquaintance<br><ruby>知識<rt>ちしき</rt></ruby> knowledge<br><ruby>知らせる<rt>しらせる</rt></ruby> to inform	kanji-n4	Japanese::Kanji::N4::Tier1
+理	リ<br><ruby>料理<rt>りょうり</rt></ruby> cooking<br><ruby>理由<rt>りゆう</rt></ruby> reason<br><ruby>無理<rt>むり</rt></ruby> impossible<br><ruby>理解<rt>りかい</rt></ruby> understanding	kanji-n4	Japanese::Kanji::N4::Tier1
+同	おな.じ / ドウ<br><ruby>同じ<rt>おなじ</rt></ruby> same<br><ruby>同時に<rt>どうじに</rt></ruby> at the same time<br><ruby>同僚<rt>どうりょう</rt></ruby> coworker	kanji-n4	Japanese::Kanji::N4::Tier1
+心	こころ / シン<br><ruby>心配<rt>しんぱい</rt></ruby> worry<br><ruby>心<rt>こころ</rt></ruby> heart/mind<br><ruby>安心<rt>あんしん</rt></ruby> relief<br><ruby>熱心<rt>ねっしん</rt></ruby> enthusiastic	kanji-n4	Japanese::Kanji::N4::Tier1
+発	ハツ、ホツ<br><ruby>出発<rt>しゅっぱつ</rt></ruby> departure<br><ruby>発表<rt>はっぴょう</rt></ruby> presentation<br><ruby>発音<rt>はつおん</rt></ruby> pronunciation	kanji-n4	Japanese::Kanji::N4::Tier1
+作	つく.る / サク、サ<br><ruby>作ります<rt>つくります</rt></ruby> to make<br><ruby>作文<rt>さくぶん</rt></ruby> composition<br><ruby>作家<rt>さっか</rt></ruby> author	kanji-n4	Japanese::Kanji::N4::Tier1
+新	あたら.しい / シン<br><ruby>新しい<rt>あたらしい</rt></ruby> new<br><ruby>新聞<rt>しんぶん</rt></ruby> newspaper<br><ruby>新幹線<rt>しんかんせん</rt></ruby> bullet train<br><ruby>最新<rt>さいしん</rt></ruby> newest	kanji-n4	Japanese::Kanji::N4::Tier1
+世	よ / セイ、セ<br><ruby>世界<rt>せかい</rt></ruby> world<br><ruby>世話<rt>せわ</rt></ruby> care/looking after<br><ruby>世紀<rt>せいき</rt></ruby> century	kanji-n4	Japanese::Kanji::N4::Tier1
+度	たび / ド、ト<br><ruby>今度<rt>こんど</rt></ruby> this time/next time<br><ruby>一度<rt>いちど</rt></ruby> once<br><ruby>度<rt>ど</rt></ruby> degree<br><ruby>何度も<rt>なんども</rt></ruby> many times	kanji-n4	Japanese::Kanji::N4::Tier1
+明	あか.るい / メイ、ミョウ<br><ruby>明るい<rt>あかるい</rt></ruby> bright<br><ruby>説明<rt>せつめい</rt></ruby> explanation<br><ruby>明日<rt>あした</rt></ruby> tomorrow	kanji-n4	Japanese::Kanji::N4::Tier1
+力	ちから / リョク、リキ<br><ruby>力<rt>ちから</rt></ruby> power/strength<br><ruby>力持ち<rt>ちからもち</rt></ruby> strong person<br><ruby>努力<rt>どりょく</rt></ruby> effort	kanji-n4	Japanese::Kanji::N4::Tier1
+意	イ<br><ruby>意味<rt>いみ</rt></ruby> meaning<br><ruby>用意<rt>ようい</rt></ruby> preparation<br><ruby>注意<rt>ちゅうい</rt></ruby> caution<br><ruby>意見<rt>いけん</rt></ruby> opinion	kanji-n4	Japanese::Kanji::N4::Tier1
+用	もち.いる / ヨウ<br><ruby>用意<rt>ようい</rt></ruby> preparation<br><ruby>用事<rt>ようじ</rt></ruby> errand<br><ruby>使用<rt>しよう</rt></ruby> usage	kanji-n4	Japanese::Kanji::N4::Tier1
+主	ぬし、おも / シュ<br><ruby>主人<rt>しゅじん</rt></ruby> husband/master<br><ruby>主に<rt>おもに</rt></ruby> mainly<br><ruby>主語<rt>しゅご</rt></ruby> subject (grammar)	kanji-n4	Japanese::Kanji::N4::Tier1
+通	とお.る、かよ.う / ツウ、ツ<br><ruby>通ります<rt>とおります</rt></ruby> to pass through<br><ruby>交通<rt>こうつう</rt></ruby> traffic<br><ruby>普通<rt>ふつう</rt></ruby> normal/usual<br><ruby>通勤<rt>つうきん</rt></ruby> commuting	kanji-n4	Japanese::Kanji::N4::Tier1
+文	ふみ / ブン、モン<br><ruby>文<rt>ぶん</rt></ruby> sentence<br><ruby>文化<rt>ぶんか</rt></ruby> culture<br><ruby>文章<rt>ぶんしょう</rt></ruby> text/writing<br><ruby>作文<rt>さくぶん</rt></ruby> composition	kanji-n4	Japanese::Kanji::N4::Tier1
+屋	や / オク<br><ruby>部屋<rt>へや</rt></ruby> room<br><ruby>本屋<rt>ほんや</rt></ruby> bookstore<br><ruby>パン屋<rt>ぱんや</rt></ruby> bakery<br><ruby>屋上<rt>おくじょう</rt></ruby> rooftop	kanji-n4	Japanese::Kanji::N4::Tier1
+業	わざ / ギョウ、ゴウ<br><ruby>授業<rt>じゅぎょう</rt></ruby> class/lesson<br><ruby>卒業<rt>そつぎょう</rt></ruby> graduation<br><ruby>工業<rt>こうぎょう</rt></ruby> industry	kanji-n4	Japanese::Kanji::N4::Tier1
+持	も.つ / ジ<br><ruby>持ちます<rt>もちます</rt></ruby> to hold<br><ruby>気持ち<rt>きもち</rt></ruby> feeling<br><ruby>金持ち<rt>かねもち</rt></ruby> rich person<br><ruby>持って行く<rt>もっていく</rt></ruby> to take (something) along	kanji-n4	Japanese::Kanji::N4::Tier1
+道	みち / ドウ、トウ<br><ruby>道<rt>みち</rt></ruby> road<br><ruby>北海道<rt>ほっかいどう</rt></ruby> Hokkaido<br><ruby>柔道<rt>じゅうどう</rt></ruby> judo<br><ruby>道具<rt>どうぐ</rt></ruby> tool	kanji-n4	Japanese::Kanji::N4::Tier1
+身	み / シン<br><ruby>身長<rt>しんちょう</rt></ruby> height<br><ruby>自身<rt>じしん</rt></ruby> oneself<br><ruby>出身<rt>しゅっしん</rt></ruby> hometown/origin	kanji-n4	Japanese::Kanji::N4::Tier1
+不	フ、ブ<br><ruby>不便<rt>ふべん</rt></ruby> inconvenient<br><ruby>不安<rt>ふあん</rt></ruby> anxiety<br><ruby>不満<rt>ふまん</rt></ruby> dissatisfaction<br><ruby>不思議<rt>ふしぎ</rt></ruby> mysterious	kanji-n4	Japanese::Kanji::N4::Tier1
+口	くち / コウ、ク<br><ruby>口<rt>くち</rt></ruby> mouth<br><ruby>入り口<rt>いりぐち</rt></ruby> entrance<br><ruby>出口<rt>でぐち</rt></ruby> exit<br><ruby>人口<rt>じんこう</rt></ruby> population	kanji-n4	Japanese::Kanji::N4::Tier2
+多	おお.い / タ<br><ruby>多い<rt>おおい</rt></ruby> a lot/many<br><ruby>多分<rt>たぶん</rt></ruby> probably<br><ruby>多く<rt>おおく</rt></ruby> many/much	kanji-n4	Japanese::Kanji::N4::Tier2
+野	の / ヤ<br><ruby>野菜<rt>やさい</rt></ruby> vegetable<br><ruby>野球<rt>やきゅう</rt></ruby> baseball<br><ruby>分野<rt>ぶんや</rt></ruby> field (of study)	kanji-n4	Japanese::Kanji::N4::Tier2
+考	かんが.える / コウ<br><ruby>考えます<rt>かんがえます</rt></ruby> to think<br><ruby>考え方<rt>かんがえかた</rt></ruby> way of thinking<br><ruby>参考<rt>さんこう</rt></ruby> reference	kanji-n4	Japanese::Kanji::N4::Tier2
+開	あ.く、ひら.く / カイ<br><ruby>開けます<rt>あけます</rt></ruby> to open<br><ruby>開きます<rt>ひらきます</rt></ruby> to open (itself)<br><ruby>開始<rt>かいし</rt></ruby> start/commencement	kanji-n4	Japanese::Kanji::N4::Tier2
+教	おし.える、おそ.わる / キョウ<br><ruby>教えます<rt>おしえます</rt></ruby> to teach<br><ruby>教室<rt>きょうしつ</rt></ruby> classroom<br><ruby>教科書<rt>きょうかしょ</rt></ruby> textbook	kanji-n4	Japanese::Kanji::N4::Tier2
+近	ちか.い / キン<br><ruby>近い<rt>ちかい</rt></ruby> near<br><ruby>近く<rt>ちかく</rt></ruby> nearby<br><ruby>最近<rt>さいきん</rt></ruby> recently<br><ruby>近所<rt>きんじょ</rt></ruby> neighborhood	kanji-n4	Japanese::Kanji::N4::Tier2
+以	イ<br><ruby>以上<rt>いじょう</rt></ruby> more than/above<br><ruby>以下<rt>いか</rt></ruby> less than/below<br><ruby>以前<rt>いぜん</rt></ruby> before/previously<br><ruby>以外<rt>いがい</rt></ruby> except	kanji-n4	Japanese::Kanji::N4::Tier2
+問	と.う / モン<br><ruby>質問<rt>しつもん</rt></ruby> question<br><ruby>問題<rt>もんだい</rt></ruby> problem<br><ruby>訪問<rt>ほうもん</rt></ruby> visit	kanji-n4	Japanese::Kanji::N4::Tier2
+正	ただ.しい / セイ、ショウ<br><ruby>正しい<rt>ただしい</rt></ruby> correct<br><ruby>正月<rt>しょうがつ</rt></ruby> New Year<br><ruby>正直<rt>しょうじき</rt></ruby> honest	kanji-n4	Japanese::Kanji::N4::Tier2
+真	ま / シン<br><ruby>写真<rt>しゃしん</rt></ruby> photo<br><ruby>真面目<rt>まじめ</rt></ruby> serious<br><ruby>真ん中<rt>まんなか</rt></ruby> middle	kanji-n4	Japanese::Kanji::N4::Tier2
+味	あじ / ミ<br><ruby>味<rt>あじ</rt></ruby> taste<br><ruby>趣味<rt>しゅみ</rt></ruby> hobby<br><ruby>意味<rt>いみ</rt></ruby> meaning<br><ruby>味方<rt>みかた</rt></ruby> ally	kanji-n4	Japanese::Kanji::N4::Tier2
+界	カイ<br><ruby>世界<rt>せかい</rt></ruby> world<br><ruby>業界<rt>ぎょうかい</rt></ruby> industry	kanji-n4	Japanese::Kanji::N4::Tier2
+無	な.い / ム、ブ<br><ruby>無理<rt>むり</rt></ruby> impossible<br><ruby>無駄<rt>むだ</rt></ruby> useless<br><ruby>無料<rt>むりょう</rt></ruby> free of charge<br><ruby>無事<rt>ぶじ</rt></ruby> safe and sound	kanji-n4	Japanese::Kanji::N4::Tier2
+少	すく.ない、すこ.し / ショウ<br><ruby>少ない<rt>すくない</rt></ruby> a little<br><ruby>少し<rt>すこし</rt></ruby> a little bit<br><ruby>少年<rt>しょうねん</rt></ruby> boy (youth)<br><ruby>多少<rt>たしょう</rt></ruby> somewhat	kanji-n4	Japanese::Kanji::N4::Tier2
+海	うみ / カイ<br><ruby>海<rt>うみ</rt></ruby> sea<br><ruby>海外<rt>かいがい</rt></ruby> overseas<br><ruby>海岸<rt>かいがん</rt></ruby> coast	kanji-n4	Japanese::Kanji::N4::Tier2
+切	き.る / セツ、サイ<br><ruby>切ります<rt>きります</rt></ruby> to cut<br><ruby>大切<rt>たいせつ</rt></ruby> important<br><ruby>切符<rt>きっぷ</rt></ruby> ticket<br><ruby>親切<rt>しんせつ</rt></ruby> kind	kanji-n4	Japanese::Kanji::N4::Tier2
+重	おも.い、かさ.ねる / ジュウ、チョウ<br><ruby>重い<rt>おもい</rt></ruby> heavy<br><ruby>重要<rt>じゅうよう</rt></ruby> important<br><ruby>体重<rt>たいじゅう</rt></ruby> body weight	kanji-n4	Japanese::Kanji::N4::Tier2
+集	あつ.まる、あつ.める / シュウ<br><ruby>集めます<rt>あつめます</rt></ruby> to collect<br><ruby>集まります<rt>あつまります</rt></ruby> to gather<br><ruby>集合<rt>しゅうごう</rt></ruby> assembly (meeting point)	kanji-n4	Japanese::Kanji::N4::Tier2
+員	イン<br><ruby>社員<rt>しゃいん</rt></ruby> company employee<br><ruby>店員<rt>てんいん</rt></ruby> store clerk<br><ruby>会社員<rt>かいしゃいん</rt></ruby> office worker	kanji-n4	Japanese::Kanji::N4::Tier2
+公	おおやけ / コウ<br><ruby>公園<rt>こうえん</rt></ruby> park<br><ruby>公務員<rt>こうむいん</rt></ruby> civil servant	kanji-n4	Japanese::Kanji::N4::Tier2
+画	ガ、カク<br><ruby>映画<rt>えいが</rt></ruby> movie<br><ruby>計画<rt>けいかく</rt></ruby> plan<br><ruby>漫画<rt>まんが</rt></ruby> comic/manga	kanji-n4	Japanese::Kanji::N4::Tier2
+死	し.ぬ / シ<br><ruby>死にます<rt>しにます</rt></ruby> to die<br><ruby>死ぬ<rt>しぬ</rt></ruby> to die (dictionary form)	kanji-n4	Japanese::Kanji::N4::Tier2
+安	やす.い / アン<br><ruby>安い<rt>やすい</rt></ruby> cheap<br><ruby>安全<rt>あんぜん</rt></ruby> safe<br><ruby>安心<rt>あんしん</rt></ruby> relief<br><ruby>不安<rt>ふあん</rt></ruby> anxiety	kanji-n4	Japanese::Kanji::N4::Tier2
+親	おや、した.しい / シン<br><ruby>親<rt>おや</rt></ruby> parent<br><ruby>両親<rt>りょうしん</rt></ruby> parents<br><ruby>親切<rt>しんせつ</rt></ruby> kind<br><ruby>親友<rt>しんゆう</rt></ruby> close friend	kanji-n4	Japanese::Kanji::N4::Tier2
+強	つよ.い / キョウ、ゴウ<br><ruby>強い<rt>つよい</rt></ruby> strong<br><ruby>勉強<rt>べんきょう</rt></ruby> study	kanji-n4	Japanese::Kanji::N4::Tier2
+使	つか.う / シ<br><ruby>使います<rt>つかいます</rt></ruby> to use<br><ruby>大使館<rt>たいしかん</rt></ruby> embassy<br><ruby>使用<rt>しよう</rt></ruby> usage	kanji-n4	Japanese::Kanji::N4::Tier2
+朝	あさ / チョウ<br><ruby>朝<rt>あさ</rt></ruby> morning<br><ruby>朝ごはん<rt>あさごはん</rt></ruby> breakfast<br><ruby>今朝<rt>けさ</rt></ruby> this morning<br><ruby>毎朝<rt>まいあさ</rt></ruby> every morning	kanji-n4	Japanese::Kanji::N4::Tier2
+題	ダイ<br><ruby>宿題<rt>しゅくだい</rt></ruby> homework<br><ruby>問題<rt>もんだい</rt></ruby> problem<br><ruby>話題<rt>わだい</rt></ruby> topic<br><ruby>題名<rt>だいめい</rt></ruby> title	kanji-n4	Japanese::Kanji::N4::Tier2
+仕	つか.える / シ<br><ruby>仕事<rt>しごと</rt></ruby> job/work<br><ruby>仕方<rt>しかた</rt></ruby> way of doing	kanji-n4	Japanese::Kanji::N4::Tier2
+京	キョウ、ケイ<br><ruby>東京<rt>とうきょう</rt></ruby> Tokyo<br><ruby>京都<rt>きょうと</rt></ruby> Kyoto	kanji-n4	Japanese::Kanji::N4::Tier2
+足	あし、た.りる / ソク<br><ruby>足<rt>あし</rt></ruby> foot/leg<br><ruby>足ります<rt>たります</rt></ruby> to be enough<br><ruby>満足<rt>まんぞく</rt></ruby> satisfaction<br><ruby>遠足<rt>えんそく</rt></ruby> school trip/excursion	kanji-n4	Japanese::Kanji::N4::Tier2
+品	しな / ヒン<br><ruby>品物<rt>しなもの</rt></ruby> goods<br><ruby>商品<rt>しょうひん</rt></ruby> product<br><ruby>作品<rt>さくひん</rt></ruby> work (of art)<br><ruby>食品<rt>しょくひん</rt></ruby> food product	kanji-n4	Japanese::Kanji::N4::Tier2
+着	き.る、つ.く / チャク、ジャク<br><ruby>着きます<rt>つきます</rt></ruby> to arrive<br><ruby>着ます<rt>きます</rt></ruby> to wear	kanji-n4	Japanese::Kanji::N4::Tier2
+別	わか.れる / ベツ<br><ruby>特別<rt>とくべつ</rt></ruby> special<br><ruby>別れます<rt>わかれます</rt></ruby> to part/break up<br><ruby>別に<rt>べつに</rt></ruby> not particularly	kanji-n4	Japanese::Kanji::N4::Tier2
+音	おと、ね / オン、イン<br><ruby>音<rt>おと</rt></ruby> sound<br><ruby>音楽<rt>おんがく</rt></ruby> music<br><ruby>発音<rt>はつおん</rt></ruby> pronunciation	kanji-n4	Japanese::Kanji::N4::Tier2
+元	もと / ゲン、ガン<br><ruby>元気<rt>げんき</rt></ruby> energetic<br><ruby>元<rt>もと</rt></ruby> origin/former<br><ruby>地元<rt>じもと</rt></ruby> local area	kanji-n4	Japanese::Kanji::N4::Tier2
+特	トク<br><ruby>特別<rt>とくべつ</rt></ruby> special<br><ruby>特に<rt>とくに</rt></ruby> especially	kanji-n4	Japanese::Kanji::N4::Tier2
+風	かぜ / フウ、フ<br><ruby>風<rt>かぜ</rt></ruby> wind<br><ruby>風邪<rt>かぜ</rt></ruby> a cold (illness)<br><ruby>台風<rt>たいふう</rt></ruby> typhoon<br><ruby>風呂<rt>ふろ</rt></ruby> bath	kanji-n4	Japanese::Kanji::N4::Tier2
+夜	よる、よ / ヤ<br><ruby>夜<rt>よる</rt></ruby> night<br><ruby>今夜<rt>こんや</rt></ruby> tonight<br><ruby>夜中<rt>よなか</rt></ruby> midnight	kanji-n4	Japanese::Kanji::N4::Tier2
+空	そら、あ.く、から / クウ<br><ruby>空<rt>そら</rt></ruby> sky<br><ruby>空港<rt>くうこう</rt></ruby> airport<br><ruby>空気<rt>くうき</rt></ruby> air	kanji-n4	Japanese::Kanji::N4::Tier2
+有	あ.る / ユウ、ウ<br><ruby>有名<rt>ゆうめい</rt></ruby> famous<br><ruby>あります<rt>あります</rt></ruby> to exist/have (things)<br><ruby>有料<rt>ゆうりょう</rt></ruby> paid/fee-charging	kanji-n4	Japanese::Kanji::N4::Tier2
+起	お.きる、お.こす / キ<br><ruby>起きます<rt>おきます</rt></ruby> to wake up<br><ruby>起こる<rt>おこる</rt></ruby> to happen/occur<br><ruby>早起き<rt>はやおき</rt></ruby> early rising	kanji-n4	Japanese::Kanji::N4::Tier2
+運	はこ.ぶ / ウン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>運動<rt>うんどう</rt></ruby> exercise<br><ruby>運<rt>うん</rt></ruby> luck<br><ruby>運ぶ<rt>はこぶ</rt></ruby> to carry	kanji-n4	Japanese::Kanji::N4::Tier3
+料	リョウ<br><ruby>料理<rt>りょうり</rt></ruby> cooking<br><ruby>料金<rt>りょうきん</rt></ruby> fee<br><ruby>材料<rt>ざいりょう</rt></ruby> ingredients<br><ruby>無料<rt>むりょう</rt></ruby> free of charge	kanji-n4	Japanese::Kanji::N4::Tier3
+楽	たの.しい / ガク、ラク<br><ruby>楽しい<rt>たのしい</rt></ruby> fun<br><ruby>音楽<rt>おんがく</rt></ruby> music<br><ruby>楽<rt>らく</rt></ruby> comfortable/easy	kanji-n4	Japanese::Kanji::N4::Tier3
+色	いろ / シキ、ショク<br><ruby>色<rt>いろ</rt></ruby> color<br><ruby>色々<rt>いろいろ</rt></ruby> various<br><ruby>景色<rt>けしき</rt></ruby> scenery	kanji-n4	Japanese::Kanji::N4::Tier3
+帰	かえ.る / キ<br><ruby>帰ります<rt>かえります</rt></ruby> to go back<br><ruby>帰国<rt>きこく</rt></ruby> returning to one's home country	kanji-n4	Japanese::Kanji::N4::Tier3
+歩	ある.く、あゆ.む / ホ、ブ<br><ruby>歩きます<rt>あるきます</rt></ruby> to walk<br><ruby>散歩<rt>さんぽ</rt></ruby> walk/stroll	kanji-n4	Japanese::Kanji::N4::Tier3
+悪	わる.い / アク、オ<br><ruby>悪い<rt>わるい</rt></ruby> bad<br><ruby>気分が悪い<rt>きぶんがわるい</rt></ruby> feel bad	kanji-n4	Japanese::Kanji::N4::Tier3
+広	ひろ.い / コウ<br><ruby>広い<rt>ひろい</rt></ruby> wide<br><ruby>広場<rt>ひろば</rt></ruby> plaza/open square	kanji-n4	Japanese::Kanji::N4::Tier3
+店	みせ / テン<br><ruby>店<rt>みせ</rt></ruby> shop<br><ruby>店員<rt>てんいん</rt></ruby> store clerk<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe<br><ruby>百貨店<rt>ひゃっかてん</rt></ruby> department store	kanji-n4	Japanese::Kanji::N4::Tier3
+町	まち / チョウ<br><ruby>町<rt>まち</rt></ruby> town	kanji-n4	Japanese::Kanji::N4::Tier3
+住	す.む / ジュウ<br><ruby>住みます<rt>すみます</rt></ruby> to live<br><ruby>住所<rt>じゅうしょ</rt></ruby> address	kanji-n4	Japanese::Kanji::N4::Tier3
+売	う.る / バイ<br><ruby>売ります<rt>うります</rt></ruby> to sell<br><ruby>販売<rt>はんばい</rt></ruby> sales<br><ruby>売り場<rt>うりば</rt></ruby> sales floor/counter	kanji-n4	Japanese::Kanji::N4::Tier3
+待	ま.つ / タイ<br><ruby>待ちます<rt>まちます</rt></ruby> to wait<br><ruby>期待<rt>きたい</rt></ruby> expectation	kanji-n4	Japanese::Kanji::N4::Tier3
+古	ふる.い / コ<br><ruby>古い<rt>ふるい</rt></ruby> old<br><ruby>中古<rt>ちゅうこ</rt></ruby> secondhand	kanji-n4	Japanese::Kanji::N4::Tier3
+始	はじ.める、はじ.まる / シ<br><ruby>始めます<rt>はじめます</rt></ruby> to start<br><ruby>始まります<rt>はじまります</rt></ruby> to begin (itself)<br><ruby>始め<rt>はじめ</rt></ruby> beginning	kanji-n4	Japanese::Kanji::N4::Tier3
+終	お.わる / シュウ<br><ruby>終わります<rt>おわります</rt></ruby> to finish<br><ruby>最終<rt>さいしゅう</rt></ruby> final/last	kanji-n4	Japanese::Kanji::N4::Tier3
+計	はか.る / ケイ<br><ruby>時計<rt>とけい</rt></ruby> clock/watch<br><ruby>計画<rt>けいかく</rt></ruby> plan<br><ruby>会計<rt>かいけい</rt></ruby> bill/accounting	kanji-n4	Japanese::Kanji::N4::Tier3
+院	イン<br><ruby>病院<rt>びょういん</rt></ruby> hospital<br><ruby>美容院<rt>びよういん</rt></ruby> hair salon<br><ruby>大学院<rt>だいがくいん</rt></ruby> graduate school	kanji-n4	Japanese::Kanji::N4::Tier3
+送	おく.る / ソウ<br><ruby>送ります<rt>おくります</rt></ruby> to send	kanji-n4	Japanese::Kanji::N4::Tier3
+族	ゾク<br><ruby>家族<rt>かぞく</rt></ruby> family	kanji-n4	Japanese::Kanji::N4::Tier3
+映	うつ.る、は.える / エイ<br><ruby>映画<rt>えいが</rt></ruby> movie<br><ruby>映る<rt>うつる</rt></ruby> to be reflected	kanji-n4	Japanese::Kanji::N4::Tier3
+買	か.う / バイ<br><ruby>買います<rt>かいます</rt></ruby> to buy<br><ruby>買い物<rt>かいもの</rt></ruby> shopping	kanji-n4	Japanese::Kanji::N4::Tier3
+病	や.む、やまい / ビョウ、ヘイ<br><ruby>病気<rt>びょうき</rt></ruby> sickness<br><ruby>病院<rt>びょういん</rt></ruby> hospital	kanji-n4	Japanese::Kanji::N4::Tier3
+早	はや.い / ソウ、サッ<br><ruby>早い<rt>はやい</rt></ruby> fast/early<br><ruby>早く<rt>はやく</rt></ruby> quickly/early<br><ruby>早起き<rt>はやおき</rt></ruby> early rising	kanji-n4	Japanese::Kanji::N4::Tier3
+質	シツ、シチ<br><ruby>質問<rt>しつもん</rt></ruby> question<br><ruby>品質<rt>ひんしつ</rt></ruby> quality	kanji-n4	Japanese::Kanji::N4::Tier3
+台	ダイ、タイ<br><ruby>台所<rt>だいどころ</rt></ruby> kitchen<br><ruby>台風<rt>たいふう</rt></ruby> typhoon<br><ruby>一台<rt>いちだい</rt></ruby> one (counter for machines)	kanji-n4	Japanese::Kanji::N4::Tier3
+室	むろ / シツ<br><ruby>教室<rt>きょうしつ</rt></ruby> classroom<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab<br><ruby>図書室<rt>としょしつ</rt></ruby> library room	kanji-n4	Japanese::Kanji::N4::Tier3
+可	カ<br><ruby>可能<rt>かのう</rt></ruby> possible	kanji-n4	Japanese::Kanji::N4::Tier3
+建	た.てる / ケン、コン<br><ruby>建物<rt>たてもの</rt></ruby> building<br><ruby>建てます<rt>たてます</rt></ruby> to build	kanji-n4	Japanese::Kanji::N4::Tier3
+転	ころ.がる、ころ.ぶ / テン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>転校<rt>てんこう</rt></ruby> transferring school	kanji-n4	Japanese::Kanji::N4::Tier3
+医	イ<br><ruby>医者<rt>いしゃ</rt></ruby> doctor<br><ruby>医学<rt>いがく</rt></ruby> medical science	kanji-n4	Japanese::Kanji::N4::Tier3
+止	と.まる、と.める / シ<br><ruby>止めます<rt>とめます</rt></ruby> to stop (something)<br><ruby>止まります<rt>とまります</rt></ruby> to stop (itself)<br><ruby>中止<rt>ちゅうし</rt></ruby> cancellation	kanji-n4	Japanese::Kanji::N4::Tier3
+字	あざ / ジ<br><ruby>漢字<rt>かんじ</rt></ruby> kanji<br><ruby>字<rt>じ</rt></ruby> character/letter<br><ruby>数字<rt>すうじ</rt></ruby> number/numeral	kanji-n4	Japanese::Kanji::N4::Tier3
+工	コウ、ク<br><ruby>工場<rt>こうじょう</rt></ruby> factory<br><ruby>大工<rt>だいく</rt></ruby> carpenter	kanji-n4	Japanese::Kanji::N4::Tier3
+急	いそ.ぐ / キュウ<br><ruby>急ぎます<rt>いそぎます</rt></ruby> to hurry<br><ruby>急に<rt>きゅうに</rt></ruby> suddenly<br><ruby>特急<rt>とっきゅう</rt></ruby> express (train)	kanji-n4	Japanese::Kanji::N4::Tier3
+図	はか.る / ズ、ト<br><ruby>地図<rt>ちず</rt></ruby> map<br><ruby>図書館<rt>としょかん</rt></ruby> library	kanji-n4	Japanese::Kanji::N4::Tier3
+黒	くろ、くろ.い / コク<br><ruby>黒い<rt>くろい</rt></ruby> black<br><ruby>黒板<rt>こくばん</rt></ruby> blackboard	kanji-n4	Japanese::Kanji::N4::Tier3
+花	はな / カ<br><ruby>花<rt>はな</rt></ruby> flower<br><ruby>花見<rt>はなみ</rt></ruby> flower viewing<br><ruby>花火<rt>はなび</rt></ruby> fireworks	kanji-n4	Japanese::Kanji::N4::Tier3
+英	エイ<br><ruby>英語<rt>えいご</rt></ruby> English language	kanji-n4	Japanese::Kanji::N4::Tier3
+走	はし.る / ソウ<br><ruby>走ります<rt>はしります</rt></ruby> to run	kanji-n4	Japanese::Kanji::N4::Tier3
+青	あお、あお.い / セイ、ショウ<br><ruby>青い<rt>あおい</rt></ruby> blue	kanji-n4	Japanese::Kanji::N4::Tier3
+答	こた.える / トウ<br><ruby>答え<rt>こたえ</rt></ruby> answer<br><ruby>答えます<rt>こたえます</rt></ruby> to answer	kanji-n4	Japanese::Kanji::N4::Tier3
+紙	かみ / シ<br><ruby>紙<rt>かみ</rt></ruby> paper<br><ruby>手紙<rt>てがみ</rt></ruby> letter	kanji-n4	Japanese::Kanji::N4::Tier4
+歌	うた、うた.う / カ<br><ruby>歌<rt>うた</rt></ruby> song<br><ruby>歌います<rt>うたいます</rt></ruby> to sing	kanji-n4	Japanese::Kanji::N4::Tier4
+注	そそ.ぐ / チュウ<br><ruby>注意<rt>ちゅうい</rt></ruby> caution<br><ruby>注文<rt>ちゅうもん</rt></ruby> order (request)	kanji-n4	Japanese::Kanji::N4::Tier4
+赤	あか、あか.い / セキ、シャク<br><ruby>赤い<rt>あかい</rt></ruby> red<br><ruby>赤ちゃん<rt>あかちゃん</rt></ruby> baby	kanji-n4	Japanese::Kanji::N4::Tier4
+春	はる / シュン<br><ruby>春<rt>はる</rt></ruby> spring (season)	kanji-n4	Japanese::Kanji::N4::Tier4
+館	やかた / カン<br><ruby>図書館<rt>としょかん</rt></ruby> library<br><ruby>大使館<rt>たいしかん</rt></ruby> embassy<br><ruby>美術館<rt>びじゅつかん</rt></ruby> art museum	kanji-n4	Japanese::Kanji::N4::Tier4
+旅	たび / リョ<br><ruby>旅行<rt>りょこう</rt></ruby> travel	kanji-n4	Japanese::Kanji::N4::Tier4
+験	ケン、ゲン<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>経験<rt>けいけん</rt></ruby> experience	kanji-n4	Japanese::Kanji::N4::Tier4
+写	うつ.す / シャ<br><ruby>写真<rt>しゃしん</rt></ruby> photo	kanji-n4	Japanese::Kanji::N4::Tier4
+去	さ.る / キョ、コ<br><ruby>去年<rt>きょねん</rt></ruby> last year	kanji-n4	Japanese::Kanji::N4::Tier4
+研	と.ぐ / ケン<br><ruby>研究します<rt>けんきゅうします</rt></ruby> to research<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab	kanji-n4	Japanese::Kanji::N4::Tier4
+飲	の.む / イン<br><ruby>飲みます<rt>のみます</rt></ruby> to drink<br><ruby>飲み物<rt>のみもの</rt></ruby> drink	kanji-n4	Japanese::Kanji::N4::Tier4
+肉	ニク<br><ruby>肉<rt>にく</rt></ruby> meat<br><ruby>肉屋<rt>にくや</rt></ruby> butcher	kanji-n4	Japanese::Kanji::N4::Tier4
+服	フク<br><ruby>服<rt>ふく</rt></ruby> clothes<br><ruby>洋服<rt>ようふく</rt></ruby> (Western-style) clothes<br><ruby>服屋<rt>ふくや</rt></ruby> clothing store	kanji-n4	Japanese::Kanji::N4::Tier4
+銀	ギン<br><ruby>銀行<rt>ぎんこう</rt></ruby> bank	kanji-n4	Japanese::Kanji::N4::Tier4
+茶	チャ、サ<br><ruby>お茶<rt>おちゃ</rt></ruby> tea<br><ruby>紅茶<rt>こうちゃ</rt></ruby> black tea<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe	kanji-n4	Japanese::Kanji::N4::Tier4
+究	きわ.める / キュウ<br><ruby>研究<rt>けんきゅう</rt></ruby> research	kanji-n4	Japanese::Kanji::N4::Tier4
+洋	ヨウ<br><ruby>洋服<rt>ようふく</rt></ruby> Western clothes<br><ruby>西洋<rt>せいよう</rt></ruby> the West	kanji-n4	Japanese::Kanji::N4::Tier4
+兄	あに / キョウ、ケイ<br><ruby>お兄さん<rt>おにいさん</rt></ruby> older brother	kanji-n4	Japanese::Kanji::N4::Tier4
+秋	あき / シュウ<br><ruby>秋<rt>あき</rt></ruby> autumn (season)	kanji-n4	Japanese::Kanji::N4::Tier4
+堂	ドウ<br><ruby>食堂<rt>しょくどう</rt></ruby> dining hall/cafeteria	kanji-n4	Japanese::Kanji::N4::Tier4
+週	シュウ<br><ruby>今週<rt>こんしゅう</rt></ruby> this week<br><ruby>来週<rt>らいしゅう</rt></ruby> next week<br><ruby>先週<rt>せんしゅう</rt></ruby> last week<br><ruby>週末<rt>しゅうまつ</rt></ruby> weekend	kanji-n4	Japanese::Kanji::N4::Tier4
+習	なら.う / シュウ<br><ruby>習います<rt>ならいます</rt></ruby> to learn<br><ruby>練習します<rt>れんしゅうします</rt></ruby> to practice	kanji-n4	Japanese::Kanji::N4::Tier4
+試	こころ.みる、ため.す / シ<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>試します<rt>ためします</rt></ruby> to try (something)	kanji-n4	Japanese::Kanji::N4::Tier4
+夏	なつ / カ、ゲ<br><ruby>夏<rt>なつ</rt></ruby> summer<br><ruby>夏休み<rt>なつやすみ</rt></ruby> summer vacation	kanji-n4	Japanese::Kanji::N4::Tier4
+弟	おとうと / テイ、ダイ<br><ruby>弟<rt>おとうと</rt></ruby> younger brother	kanji-n4	Japanese::Kanji::N4::Tier4
+鳥	とり / チョウ<br><ruby>鳥<rt>とり</rt></ruby> bird<br><ruby>焼き鳥<rt>やきとり</rt></ruby> grilled chicken skewers	kanji-n4	Japanese::Kanji::N4::Tier4
+犬	いぬ / ケン<br><ruby>犬<rt>いぬ</rt></ruby> dog	kanji-n4	Japanese::Kanji::N4::Tier4
+夕	ゆう / セキ<br><ruby>夕方<rt>ゆうがた</rt></ruby> evening<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner	kanji-n4	Japanese::Kanji::N4::Tier4
+魚	さかな、うお / ギョ<br><ruby>魚<rt>さかな</rt></ruby> fish<br><ruby>魚屋<rt>さかなや</rt></ruby> fish shop	kanji-n4	Japanese::Kanji::N4::Tier4
+借	か.りる / シャク<br><ruby>借ります<rt>かります</rt></ruby> to borrow	kanji-n4	Japanese::Kanji::N4::Tier4
+飯	めし / ハン<br><ruby>ご飯<rt>ごはん</rt></ruby> rice/meal<br><ruby>朝ご飯<rt>あさごはん</rt></ruby> breakfast<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner	kanji-n4	Japanese::Kanji::N4::Tier4
+駅	エキ<br><ruby>駅<rt>えき</rt></ruby> (train) station	kanji-n4	Japanese::Kanji::N4::Tier4
+昼	ひる / チュウ<br><ruby>昼<rt>ひる</rt></ruby> noon/daytime<br><ruby>昼ご飯<rt>ひるごはん</rt></ruby> lunch<br><ruby>昼休み<rt>ひるやすみ</rt></ruby> lunch break	kanji-n4	Japanese::Kanji::N4::Tier4
+冬	ふゆ / トウ<br><ruby>冬<rt>ふゆ</rt></ruby> winter	kanji-n4	Japanese::Kanji::N4::Tier4
+姉	あね / シ<br><ruby>姉<rt>あね</rt></ruby> older sister	kanji-n4	Japanese::Kanji::N4::Tier4
+曜	ヨウ<br><ruby>曜日<rt>ようび</rt></ruby> day of the week<br><ruby>何曜日<rt>なんようび</rt></ruby> what day of the week	kanji-n4	Japanese::Kanji::N4::Tier4
+漢	カン<br><ruby>漢字<rt>かんじ</rt></ruby> kanji (Chinese character)	kanji-n4	Japanese::Kanji::N4::Tier4
+牛	うし / ギュウ<br><ruby>牛肉<rt>ぎゅうにく</rt></ruby> beef<br><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> milk	kanji-n4	Japanese::Kanji::N4::Tier4
+妹	いもうと / マイ<br><ruby>妹<rt>いもうと</rt></ruby> younger sister	kanji-n4	Japanese::Kanji::N4::Tier4
+貸	か.す / タイ<br><ruby>貸します<rt>かします</rt></ruby> to lend	kanji-n4	Japanese::Kanji::N4::Tier4
+勉	ベン<br><ruby>勉強します<rt>べんきょうします</rt></ruby> to study	kanji-n4	Japanese::Kanji::N4::Tier4
+私	わたし, I	vocab-family	Japanese::Vocabulary::Family
+あなた	あなた, You	vocab-family	Japanese::Vocabulary::Family
+彼	かれ, He	vocab-family	Japanese::Vocabulary::Family
+彼女	かのじょ, She	vocab-family	Japanese::Vocabulary::Family
+人	ひと, Person	vocab-family	Japanese::Vocabulary::Family
+あの人(方)	あのひと(かた), That person over there	vocab-family	Japanese::Vocabulary::Family
+この人(方)	このひと(かた), This person	vocab-family	Japanese::Vocabulary::Family
+その人(方)	そのひと(かた), That person	vocab-family	Japanese::Vocabulary::Family
+大人	おとな, Adult	vocab-family	Japanese::Vocabulary::Family
+男の人(方)	おとこのひと(かた), Man (Gentleman)	vocab-family	Japanese::Vocabulary::Family
+女の人(方)	おんなのひと(かた), Woman (Lady)	vocab-family	Japanese::Vocabulary::Family
+子供	こども, Child	vocab-family	Japanese::Vocabulary::Family
+男の子	おとこのこ, Boy	vocab-family	Japanese::Vocabulary::Family
+女の子	おんなのこ, Girl	vocab-family	Japanese::Vocabulary::Family
+家族	かぞく, Family	vocab-family	Japanese::Vocabulary::Family
+父	ちち, My father	vocab-family	Japanese::Vocabulary::Family
+お父さん	おとうさん, Other's father	vocab-family	Japanese::Vocabulary::Family
+母	はは, My mother	vocab-family	Japanese::Vocabulary::Family
+お母さん	おかあさん, Other's mother	vocab-family	Japanese::Vocabulary::Family
+兄	あに, My older brother	vocab-family	Japanese::Vocabulary::Family
+お兄さん	おにいさん, Other's older brother	vocab-family	Japanese::Vocabulary::Family
+姉	あね, My older sister	vocab-family	Japanese::Vocabulary::Family
+お姉さん	おねえさん, Other's older sister	vocab-family	Japanese::Vocabulary::Family
+弟	おとうと, My younger brother	vocab-family	Japanese::Vocabulary::Family
+弟さん	おとうとさん, Other's younger brother	vocab-family	Japanese::Vocabulary::Family
+妹	いもうと, My younger sister	vocab-family	Japanese::Vocabulary::Family
+妹さん	いもうとさん, Other's younger sister	vocab-family	Japanese::Vocabulary::Family
+祖父	そふ, My grandfather	vocab-family	Japanese::Vocabulary::Family
+お爺さん	おじいさん, Other's grandfather	vocab-family	Japanese::Vocabulary::Family
+祖母	そぼ, My grandmother	vocab-family	Japanese::Vocabulary::Family
+お婆さん	おばあさん, Other's grandmother	vocab-family	Japanese::Vocabulary::Family
+叔父	おじ, My uncle	vocab-family	Japanese::Vocabulary::Family
+叔父さん	おじさん, Other's uncle	vocab-family	Japanese::Vocabulary::Family
+叔母	おば, My aunt	vocab-family	Japanese::Vocabulary::Family
+叔母さん	おばさん, Other's aunt	vocab-family	Japanese::Vocabulary::Family
+従兄弟・従姉妹	いとこ, Cousin	vocab-family	Japanese::Vocabulary::Family
+姪	めい, My niece	vocab-family	Japanese::Vocabulary::Family
+姪御さん	めいごさん, Other's niece	vocab-family	Japanese::Vocabulary::Family
+甥	おい, My nephew	vocab-family	Japanese::Vocabulary::Family
+甥御さん	おいごさん, Other's nephew	vocab-family	Japanese::Vocabulary::Family
+夫	おっと, My husband	vocab-family	Japanese::Vocabulary::Family
+ご主人	ごしゅじん, Other's husband	vocab-family	Japanese::Vocabulary::Family
+妻	つま, My wife	vocab-family	Japanese::Vocabulary::Family
+奥さん	おくさん, Other's wife	vocab-family	Japanese::Vocabulary::Family
+息子	むすこ, My son	vocab-family	Japanese::Vocabulary::Family
+息子さん	むすこさん, Other's son	vocab-family	Japanese::Vocabulary::Family
+娘	むすめ, My daughter	vocab-family	Japanese::Vocabulary::Family
+娘さん	むすめさん, Other's daughter	vocab-family	Japanese::Vocabulary::Family
+東	ひがし, East	vocab-direction	Japanese::Vocabulary::Direction
+西	にし, West	vocab-direction	Japanese::Vocabulary::Direction
+南	みなみ, South	vocab-direction	Japanese::Vocabulary::Direction
+北	きた, North	vocab-direction	Japanese::Vocabulary::Direction
+近い	ちかい, near	vocab-direction	Japanese::Vocabulary::Direction
+遠い	とおい, far	vocab-direction	Japanese::Vocabulary::Direction
+上	うえ, above / on	vocab-direction	Japanese::Vocabulary::Direction
+下	した, under / below	vocab-direction	Japanese::Vocabulary::Direction
+中	なか, inside	vocab-direction	Japanese::Vocabulary::Direction
+外	そと, outside	vocab-direction	Japanese::Vocabulary::Direction
+真ん中	まんなか, middle	vocab-direction	Japanese::Vocabulary::Direction
+内側	うちがわ, inner	vocab-direction	Japanese::Vocabulary::Direction
+外側	そとがわ, outer	vocab-direction	Japanese::Vocabulary::Direction
+周り	まわり, around	vocab-direction	Japanese::Vocabulary::Direction
+前	まえ, in front of	vocab-direction	Japanese::Vocabulary::Direction
+後ろ	うしろ, behind	vocab-direction	Japanese::Vocabulary::Direction
+右	みぎ, right	vocab-direction	Japanese::Vocabulary::Direction
+左	ひだり, left	vocab-direction	Japanese::Vocabulary::Direction
+隣	となり, next to;「隣」＝2つのものや人が、同じカテゴリーで隣り合っているときに使う (Used when two people or things are in the same category and are next to each other.)	vocab-direction	Japanese::Vocabulary::Direction
+横	よこ, beside;「横」＝左側または右側の位置 (The position on the left or right side.)	vocab-direction	Japanese::Vocabulary::Direction
+間	あいだ, between	vocab-direction	Japanese::Vocabulary::Direction
+そば	そば, near / close by;「そば」＝何かや誰かの近くの場所、方向は関係ない (A place close to something or someone. The direction does not matter.)	vocab-direction	Japanese::Vocabulary::Direction
+ここ	ここ, here	vocab-direction	Japanese::Vocabulary::Direction
+そこ	そこ, there	vocab-direction	Japanese::Vocabulary::Direction
+あそこ	あそこ, over there	vocab-direction	Japanese::Vocabulary::Direction
+どこ	どこ, where	vocab-direction	Japanese::Vocabulary::Direction
+市役所	しやくしょ, City hall	vocab-places	Japanese::Vocabulary::Places
+警察署	けいさつしょ, Police station	vocab-places	Japanese::Vocabulary::Places
+交番	こうばん, Police box	vocab-places	Japanese::Vocabulary::Places
+消防署	しょうぼうしょ, Fire station	vocab-places	Japanese::Vocabulary::Places
+大使館	たいしかん, embassy	vocab-places	Japanese::Vocabulary::Places
+領事館	りょうじかん, Consulate	vocab-places	Japanese::Vocabulary::Places
+裁判所	さいばんしょ, Courthouse	vocab-places	Japanese::Vocabulary::Places
+教会	きょうかい, church	vocab-places	Japanese::Vocabulary::Places
+工場	こうじょう, Factory	vocab-places	Japanese::Vocabulary::Places
+ガソリンスタンド	がそりんすたんど, Gas station	vocab-places	Japanese::Vocabulary::Places
+美容院	びよういん, Hair salon	vocab-places	Japanese::Vocabulary::Places
+歯科医院	しかいいん, Dental clinic (also 歯医者さん)	vocab-places	Japanese::Vocabulary::Places
+コインランドリー	こいんらんどりー, self-service laundry	vocab-places	Japanese::Vocabulary::Places
+クリーニング屋	くりーにんぐや, Dry cleaner	vocab-places	Japanese::Vocabulary::Places
+病院	びょういん, Hospital	vocab-places	Japanese::Vocabulary::Places
+薬局	やっきょく, Pharmacy (also 薬屋)	vocab-places	Japanese::Vocabulary::Places
+郵便局	ゆうびんきょく, Post office	vocab-places	Japanese::Vocabulary::Places
+銀行	ぎんこう, Bank	vocab-places	Japanese::Vocabulary::Places
+学校	がっこう, School	vocab-places	Japanese::Vocabulary::Places
+パン屋	ぱんや, Bakery	vocab-places	Japanese::Vocabulary::Places
+花屋	はなや, Flower shop	vocab-places	Japanese::Vocabulary::Places
+スーパー	すーぱー, Supermarket	vocab-places	Japanese::Vocabulary::Places
+本屋	ほんや, Bookstore	vocab-places	Japanese::Vocabulary::Places
+魚屋	さかなや, Fish shop	vocab-places	Japanese::Vocabulary::Places
+肉屋	にくや, Butcher	vocab-places	Japanese::Vocabulary::Places
+八百屋	やおや, Greengrocer	vocab-places	Japanese::Vocabulary::Places
+ケーキ屋	けーきや, Cake shop	vocab-places	Japanese::Vocabulary::Places
+喫茶店	きっさてん, Cafe	vocab-places	Japanese::Vocabulary::Places
+文房具屋	ぶんぼうぐや, Stationary store	vocab-places	Japanese::Vocabulary::Places
+靴屋	くつや, Shoe store	vocab-places	Japanese::Vocabulary::Places
+服屋	ふくや, Clothing store	vocab-places	Japanese::Vocabulary::Places
+居酒屋	いざかや, Izakaya (Japanese bar)	vocab-places	Japanese::Vocabulary::Places
+百貨店	ひゃっかてん, Department store	vocab-places	Japanese::Vocabulary::Places
+不動産屋	ふどうさんや, Real estate agency	vocab-places	Japanese::Vocabulary::Places
+100円ショップ	100えんしょっぷ, 100 yen shop	vocab-places	Japanese::Vocabulary::Places
+酒屋	さかや, Liquor store	vocab-places	Japanese::Vocabulary::Places
+リサイクルショップ	りさいくるしょっぷ, Secondhand shop	vocab-places	Japanese::Vocabulary::Places
+眼鏡屋	めがねや, Optician	vocab-places	Japanese::Vocabulary::Places
+家電量販店	かでんりょうはんてん, Electronics store	vocab-places	Japanese::Vocabulary::Places
+ホームセンター	ほーむせんたー, Home improvement store	vocab-places	Japanese::Vocabulary::Places
+ショッピングセンター	しょっぴんぐせんたー, Shopping mall	vocab-places	Japanese::Vocabulary::Places
+図書館	としょかん, Library	vocab-places	Japanese::Vocabulary::Places
+コンビニ	こんびに, Convenience store	vocab-places	Japanese::Vocabulary::Places
+レストラン	れすとらん, Restaurant	vocab-places	Japanese::Vocabulary::Places
+反対	はんたい, opposite	grammar	Japanese::Grammar-Notes
+時間が経つ	じかんがたつ, time passes / time goes by	grammar	Japanese::Grammar-Notes
+付ける	つける, to add	grammar	Japanese::Grammar-Notes
+状態	じょうたい, state/condition	grammar	Japanese::Grammar-Notes
+挿す	さす, to insert / plug in (antonym: 抜く)	grammar	Japanese::Grammar-Notes
+抜く	ぬく, to pull out / unplug (antonym: 挿す)	grammar	Japanese::Grammar-Notes
+入れる	いれる, to put in (antonym: 出す)	grammar	Japanese::Grammar-Notes
+出す	だす, to take out / put out (antonym: 入れる)	grammar	Japanese::Grammar-Notes
+戻す	もどす, to put back / return something	grammar	Japanese::Grammar-Notes
+事故	じこ, accident	grammar	Japanese::Grammar-Notes
+ぶつかる	ぶつかる, to collide / crash into	grammar	Japanese::Grammar-Notes
+地震	じしん, earthquake	grammar	Japanese::Grammar-Notes
+お祭り	おまつり, festival	grammar	Japanese::Grammar-Notes
+選ぶ	えらぶ, to choose	grammar	Japanese::Grammar-Notes
+飽きる	あきる, to get bored / tired of	grammar	Japanese::Grammar-Notes
+止む	やむ, (rain/snow) to stop	grammar	Japanese::Grammar-Notes
+職場	しょくば, workplace	grammar	Japanese::Grammar-Notes
+販売	はんばい, sales	grammar	Japanese::Grammar-Notes
+上司	じょうし, boss / superior	grammar	Japanese::Grammar-Notes
+豪華	ごうか, gorgeous / luxurious	grammar	Japanese::Grammar-Notes
+力持ち	ちからもち, strong person	grammar	Japanese::Grammar-Notes
+最近	さいきん, recently	grammar	Japanese::Grammar-Notes
+学割	がくわり, student discount	grammar	Japanese::Grammar-Notes
+価格	かかく, price	grammar	Japanese::Grammar-Notes
+映画館	えいがかん, movie theater	grammar	Japanese::Grammar-Notes
+台風	たいふう, typhoon	grammar	Japanese::Grammar-Notes
+炎症	えんしょう, inflammation	grammar	Japanese::Grammar-Notes
+充実	じゅうじつ, fulfilling / a sense of fulfillment	grammar	Japanese::Grammar-Notes
+入学	にゅうがく, school enrollment	grammar	Japanese::Grammar-Notes
+寮	りょう, dormitory	grammar	Japanese::Grammar-Notes
+山頂	さんちょう, mountain summit	grammar	Japanese::Grammar-Notes
+距離	きょり, distance	grammar	Japanese::Grammar-Notes
+追加	ついか, addition	grammar	Japanese::Grammar-Notes
+体調	たいちょう, physical condition	grammar	Japanese::Grammar-Notes
+引き出し	ひきだし, drawer	grammar	Japanese::Grammar-Notes
+品詞	ひんし, part of speech	grammar	Japanese::Grammar-Notes
+名詞	めいし, noun	grammar	Japanese::Grammar-Notes
+動詞	どうし, verb	grammar	Japanese::Grammar-Notes
+形容詞	けいようし, adjective	grammar	Japanese::Grammar-Notes
+助詞	じょし, particle	grammar	Japanese::Grammar-Notes
+副詞	ふくし, adverb	grammar	Japanese::Grammar-Notes
+疑問詞	ぎもんし, interrogative word	grammar	Japanese::Grammar-Notes
+活用	かつよう, conjugation	grammar	Japanese::Grammar-Notes
+肯定	こうてい, affirmative	grammar	Japanese::Grammar-Notes
+否定	ひてい, negative	grammar	Japanese::Grammar-Notes
+〜ままにする／〜ままにしておく	to leave (something) unchanged / keep it as is;  状態を変えないで続けるという意味; 例: 窓を開けたままにする＝keep the window open／ペンを出したままにする＝didn't put it back where it was	grammar	Japanese::Grammar-Notes
+〜ですが	but / however (＝でも・けど・けれども — states something opposite of the previous content); 例: 体調が悪かったですが、良くなりました／日本語は難しいですが、楽しいです	grammar	Japanese::Grammar-Notes
+〜かもしれない	might be / maybe (not clearly decided); 例: もし明日大雨だったら図書館に行かないかもしれない／もし台風だったら家で本を読むかもしれない	grammar	Japanese::Grammar-Notes
+〜たことがある	have done ~ (experience); 例: 福岡に行ったことがあります	grammar	Japanese::Grammar-Notes
+〜しか＋negative	only ~ (nothing more than); 例: 13時半までしかいませんでした	grammar	Japanese::Grammar-Notes
+〜ている vs 〜た	ongoing/resulting state vs. completed action; 例: 事故が起きていました(state after it happened) vs 事故が起きました(it happened)／朝ごはんを食べていました(was in the middle of eating) vs 食べました(ate, completed)	grammar	Japanese::Grammar-Notes
+良い の読み方	いい・よい・りょう — three readings of 良い, antonym: 悪い	grammar	Japanese::Grammar-Notes
+ぜんぜん大丈夫	＝ぜんぜん問題ない, totally fine / no problem at all	grammar	Japanese::Grammar-Notes
