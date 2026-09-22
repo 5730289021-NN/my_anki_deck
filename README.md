@@ -15,14 +15,16 @@ This regenerates every derived file and produces one `Composite.txt`.
 Then in Anki:
 
 1. **File → Import...** and select `Composite.txt`.
-2. Set **Note type** to `Basic`.
-3. Set **Field separator** to `Tab`.
-4. Map the columns: `Front` → Front, `Back` → Back, `Tags` → Tags, `Deck` → Deck.
-5. Import — cards land pre-sorted into decks like `Japanese::Kanji::N5::Tier1`.
+2. Anki reads the file's own header lines (`#tags column:3`, `#deck column:4`)
+   and auto-routes each row's tags/deck — just confirm **Note type** is
+   `Basic` and import.
+3. Cards land pre-sorted into decks like `Japanese::Kanji::N5::Tier1`.
 
-Requires Anki 2.1.50+ for the per-column Deck mapping (see
-[Card format](#card-format) below). Study Tier 1 of any category first —
-everything is ordered from most to least commonly used.
+Requires **Anki 2.1.54+** for deck-column auto-routing (see
+[Card format](#card-format) below) — on older Anki, everything is dumped
+into one deck you pick manually, since it can't read those two header
+lines. Study Tier 1 of any category first — everything is ordered from
+most to least commonly used.
 
 ## Folder structure
 
@@ -107,12 +109,14 @@ reordered).
 - The verb and adjective source files (`VerbG*.txt`, `Adjective-*.txt`) put
   each conjugated form on its own line (`<br>`-separated) instead of comma
   separated, so the back of the card reads as a clean list.
-- `Composite.txt` adds two extra columns, `Tags` and `Deck`, so importing it
-  once routes every card into its correct sub-deck (e.g.
-  `Japanese::Kanji::N4::Tier2`) instead of dumping everything into one deck.
-  This needs a reasonably recent Anki (2.1.50+) to map a column to "Deck"
-  during import — older Anki will just import everything into whichever
-  single deck you pick.
+- `Composite.txt` adds two extra columns, `Tags` and `Deck`, plus the header
+  directives `#tags column:3` and `#deck column:4` (not just a `#columns`
+  label — Anki won't infer routing from a column merely being *named*
+  "Deck"). Together these make importing it once route every card into its
+  correct sub-deck (e.g. `Japanese::Kanji::N4::Tier2`) instead of dumping
+  everything into one deck. This needs **Anki 2.1.54+**; older Anki ignores
+  those two header lines and imports everything into whichever single deck
+  you pick.
 
 ## Frequency ordering
 

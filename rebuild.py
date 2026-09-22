@@ -45,7 +45,17 @@ SOURCES = [
 ]
 
 OUTPUT_PATH = os.path.join(ROOT_DIR, "Composite.txt")
-HEADER = ["#separator:tab", "#html:true", "#columns:Front\tBack\tTags\tDeck"]
+# Columns are Front, Back, Tags, Deck (in that order). The "#tags column" and
+# "#deck column" directives are what actually make Anki auto-route each row
+# into its tags/deck on import (requires Anki 2.1.54+) -- just naming a
+# column "Deck" in #columns is not enough, Anki won't infer that on its own.
+HEADER = [
+    "#separator:tab",
+    "#html:true",
+    "#columns:Front\tBack\tTags\tDeck",
+    "#tags column:3",
+    "#deck column:4",
+]
 
 
 def run_sub_rebuilds():
