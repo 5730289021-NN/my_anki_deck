@@ -1,0 +1,47 @@
+#separator:tab
+#html:false
+#columns:Front	Back
+市役所	しやくしょ, City hall
+警察署	けいさつしょ, Police station
+交番	こうばん, Police box
+消防署	しょうぼうしょ, Fire station
+大使館	たいしかん, embassy
+領事館	りょうじかん, Consulate
+裁判所	さいばんしょ, Courthouse
+教会	きょうかい, church
+工場	こうじょう, Factory
+ガソリンスタンド	がそりんすたんど, Gas station
+美容院	びよういん, Hair salon
+歯科医院	しかいいん, Dental clinic (also 歯医者さん)
+コインランドリー	こいんらんどりー, self-service laundry
+クリーニング屋	くりーにんぐや, Dry cleaner
+病院	びょういん, Hospital
+薬局	やっきょく, Pharmacy (also 薬屋)
+郵便局	ゆうびんきょく, Post office
+銀行	ぎんこう, Bank
+学校	がっこう, School
+パン屋	ぱんや, Bakery
+花屋	はなや, Flower shop
+スーパー	すーぱー, Supermarket
+本屋	ほんや, Bookstore
+魚屋	さかなや, Fish shop
+肉屋	にくや, Butcher
+八百屋	やおや, Greengrocer
+ケーキ屋	けーきや, Cake shop
+喫茶店	きっさてん, Cafe
+文房具屋	ぶんぼうぐや, Stationary store
+靴屋	くつや, Shoe store
+服屋	ふくや, Clothing store
+居酒屋	いざかや, Izakaya (Japanese bar)
+百貨店	ひゃっかてん, Department store
+不動産屋	ふどうさんや, Real estate agency
+100円ショップ	100えんしょっぷ, 100 yen shop
+酒屋	さかや, Liquor store
+リサイクルショップ	りさいくるしょっぷ, Secondhand shop
+眼鏡屋	めがねや, Optician
+家電量販店	かでんりょうはんてん, Electronics store
+ホームセンター	ほーむせんたー, Home improvement store
+ショッピングセンター	しょっぴんぐせんたー, Shopping mall
+図書館	としょかん, Library
+コンビニ	こんびに, Convenience store
+レストラン	れすとらん, Restaurant

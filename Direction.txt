@@ -1,0 +1,29 @@
+#separator:tab
+#html:false
+#columns:Front	Back
+東	ひがし, East
+西	にし, West
+南	みなみ, South
+北	きた, North
+近い	ちかい, near
+遠い	とおい, far
+上	うえ, above / on
+下	した, under / below
+中	なか, inside
+外	そと, outside
+真ん中	まんなか, middle
+内側	うちがわ, inner
+外側	そとがわ, outer
+周り	まわり, around
+前	まえ, in front of
+後ろ	うしろ, behind
+右	みぎ, right
+左	ひだり, left
+隣	となり, next to;「隣」＝2つのものや人が、同じカテゴリーで隣り合っているときに使う (Used when two people or things are in the same category and are next to each other.)
+横	よこ, beside;「横」＝左側または右側の位置 (The position on the left or right side.)
+間	あいだ, between
+そば	そば, near / close by;「そば」＝何かや誰かの近くの場所、方向は関係ない (A place close to something or someone. The direction does not matter.)
+ここ	ここ, here
+そこ	そこ, there
+あそこ	あそこ, over there
+どこ	どこ, where

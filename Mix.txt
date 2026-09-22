@@ -1,0 +1,56 @@
+#separator:tab
+#html:false
+#columns:Front	Back
+反対	はんたい, opposite
+時間が経つ	じかんがたつ, time passes / time goes by
+付ける	つける, to add
+状態	じょうたい, state/condition
+挿す	さす, to insert / plug in (antonym: 抜く)
+抜く	ぬく, to pull out / unplug (antonym: 挿す)
+入れる	いれる, to put in (antonym: 出す)
+出す	だす, to take out / put out (antonym: 入れる)
+戻す	もどす, to put back / return something
+事故	じこ, accident
+ぶつかる	ぶつかる, to collide / crash into
+地震	じしん, earthquake
+お祭り	おまつり, festival
+選ぶ	えらぶ, to choose
+飽きる	あきる, to get bored / tired of
+止む	やむ, (rain/snow) to stop
+職場	しょくば, workplace
+販売	はんばい, sales
+上司	じょうし, boss / superior
+豪華	ごうか, gorgeous / luxurious
+力持ち	ちからもち, strong person
+最近	さいきん, recently
+学割	がくわり, student discount
+価格	かかく, price
+映画館	えいがかん, movie theater
+台風	たいふう, typhoon
+炎症	えんしょう, inflammation
+充実	じゅうじつ, fulfilling / a sense of fulfillment
+入学	にゅうがく, school enrollment
+寮	りょう, dormitory
+山頂	さんちょう, mountain summit
+距離	きょり, distance
+追加	ついか, addition
+体調	たいちょう, physical condition
+引き出し	ひきだし, drawer
+品詞	ひんし, part of speech
+名詞	めいし, noun
+動詞	どうし, verb
+形容詞	けいようし, adjective
+助詞	じょし, particle
+副詞	ふくし, adverb
+疑問詞	ぎもんし, interrogative word
+活用	かつよう, conjugation
+肯定	こうてい, affirmative
+否定	ひてい, negative
+〜ままにする／〜ままにしておく	to leave (something) unchanged / keep it as is;  状態を変えないで続けるという意味; 例: 窓を開けたままにする＝keep the window open／ペンを出したままにする＝didn't put it back where it was
+〜ですが	but / however (＝でも・けど・けれども — states something opposite of the previous content); 例: 体調が悪かったですが、良くなりました／日本語は難しいですが、楽しいです
+〜かもしれない	might be / maybe (not clearly decided); 例: もし明日大雨だったら図書館に行かないかもしれない／もし台風だったら家で本を読むかもしれない
+〜たことがある	have done ~ (experience); 例: 福岡に行ったことがあります
+〜しか＋negative	only ~ (nothing more than); 例: 13時半までしかいませんでした
+〜ている vs 〜た	ongoing/resulting state vs. completed action; 例: 事故が起きていました(state after it happened) vs 事故が起きました(it happened)／朝ごはんを食べていました(was in the middle of eating) vs 食べました(ate, completed)
+良い の読み方	いい・よい・りょう — three readings of 良い, antonym: 悪い
+ぜんぜん大丈夫	＝ぜんぜん問題ない, totally fine / no problem at all

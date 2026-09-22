@@ -1,0 +1,51 @@
+#separator:tab
+#html:false
+#columns:Front	Back
+私	わたし, I
+あなた	あなた, You
+彼	かれ, He
+彼女	かのじょ, She
+人	ひと, Person
+あの人(方)	あのひと(かた), That person over there
+この人(方)	このひと(かた), This person
+その人(方)	そのひと(かた), That person
+大人	おとな, Adult
+男の人(方)	おとこのひと(かた), Man (Gentleman)
+女の人(方)	おんなのひと(かた), Woman (Lady)
+子供	こども, Child
+男の子	おとこのこ, Boy
+女の子	おんなのこ, Girl
+家族	かぞく, Family
+父	ちち, My father
+お父さん	おとうさん, Other's father
+母	はは, My mother
+お母さん	おかあさん, Other's mother
+兄	あに, My older brother
+お兄さん	おにいさん, Other's older brother
+姉	あね, My older sister
+お姉さん	おねえさん, Other's older sister
+弟	おとうと, My younger brother
+弟さん	おとうとさん, Other's younger brother
+妹	いもうと, My younger sister
+妹さん	いもうとさん, Other's younger sister
+祖父	そふ, My grandfather
+お爺さん	おじいさん, Other's grandfather
+祖母	そぼ, My grandmother
+お婆さん	おばあさん, Other's grandmother
+叔父	おじ, My uncle
+叔父さん	おじさん, Other's uncle
+叔母	おば, My aunt
+叔母さん	おばさん, Other's aunt
+従兄弟・従姉妹	いとこ, Cousin
+姪	めい, My niece
+姪御さん	めいごさん, Other's niece
+甥	おい, My nephew
+甥御さん	おいごさん, Other's nephew
+夫	おっと, My husband
+ご主人	ごしゅじん, Other's husband
+妻	つま, My wife
+奥さん	おくさん, Other's wife
+息子	むすこ, My son
+息子さん	むすこさん, Other's son
+娘	むすめ, My daughter
+娘さん	むすめさん, Other's daughter
