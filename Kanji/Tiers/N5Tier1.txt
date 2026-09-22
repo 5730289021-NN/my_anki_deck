@@ -1,0 +1,43 @@
+#separator:tab
+#html:true
+#columns:Front	Back
+人	ひと / ジン、ニン<br><ruby>日本人<rt>にほんじん</rt></ruby> Japanese person<br><ruby>外国人<rt>がいこくじん</rt></ruby> foreigner<br><ruby>一人<rt>ひとり</rt></ruby> one person/alone<br><ruby>人<rt>ひと</rt></ruby> person
+一	ひと.つ / イチ、イツ<br><ruby>一<rt>いち</rt></ruby> one<br><ruby>一人<rt>ひとり</rt></ruby> one person<br><ruby>一月<rt>いちがつ</rt></ruby> January<br><ruby>一時<rt>いちじ</rt></ruby> one o'clock
+日	ひ、-び、-か / ニチ、ジツ<br><ruby>日曜日<rt>にちようび</rt></ruby> Sunday<br><ruby>今日<rt>きょう</rt></ruby> today<br><ruby>誕生日<rt>たんじょうび</rt></ruby> birthday<br><ruby>毎日<rt>まいにち</rt></ruby> every day
+大	おお.きい、おお- / ダイ、タイ<br><ruby>大きい<rt>おおきい</rt></ruby> big<br><ruby>大学<rt>だいがく</rt></ruby> university<br><ruby>大丈夫<rt>だいじょうぶ</rt></ruby> fine/ok<br><ruby>大好き<rt>だいすき</rt></ruby> love/like a lot
+年	とし / ネン<br><ruby>今年<rt>ことし</rt></ruby> this year<br><ruby>来年<rt>らいねん</rt></ruby> next year<br><ruby>去年<rt>きょねん</rt></ruby> last year<br><ruby>年<rt>とし</rt></ruby> year/age
+出	で.る、だ.す / シュツ、スイ<br><ruby>出ます<rt>でます</rt></ruby> to leave/go out<br><ruby>出口<rt>でぐち</rt></ruby> exit<br><ruby>出張<rt>しゅっちょう</rt></ruby> business trip<br><ruby>思い出す<rt>おもいだす</rt></ruby> to remember
+本	もと / ホン<br><ruby>本<rt>ほん</rt></ruby> book<br><ruby>日本<rt>にほん</rt></ruby> Japan<br><ruby>本当<rt>ほんとう</rt></ruby> really/true<br><ruby>本屋<rt>ほんや</rt></ruby> bookstore
+中	なか / チュウ<br><ruby>中<rt>なか</rt></ruby> inside<br><ruby>中国<rt>ちゅうごく</rt></ruby> China<br><ruby>中学校<rt>ちゅうがっこう</rt></ruby> middle school<br><ruby>一日中<rt>いちにちじゅう</rt></ruby> all day
+子	こ / シ、ス<br><ruby>子供<rt>こども</rt></ruby> child<br><ruby>女の子<rt>おんなのこ</rt></ruby> girl<br><ruby>男の子<rt>おとこのこ</rt></ruby> boy<br><ruby>息子<rt>むすこ</rt></ruby> son
+見	み.る、み.える / ケン<br><ruby>見ます<rt>みます</rt></ruby> to see/watch<br><ruby>見せます<rt>みせます</rt></ruby> to show<br><ruby>花見<rt>はなみ</rt></ruby> flower viewing<br><ruby>見える<rt>みえる</rt></ruby> to be visible
+国	くに / コク<br><ruby>外国<rt>がいこく</rt></ruby> foreign country<br><ruby>国<rt>くに</rt></ruby> country<br><ruby>中国<rt>ちゅうごく</rt></ruby> China<br><ruby>外国人<rt>がいこくじん</rt></ruby> foreigner
+上	うえ、あ.げる、あ.がる、のぼ.る / ジョウ<br><ruby>上<rt>うえ</rt></ruby> above/on<br><ruby>上手<rt>じょうず</rt></ruby> good at<br><ruby>上がる<rt>あがる</rt></ruby> to rise<br><ruby>屋上<rt>おくじょう</rt></ruby> rooftop
+分	わ.ける、わ.かる / ブン、フン、ブ<br><ruby>自分<rt>じぶん</rt></ruby> oneself<br><ruby>半分<rt>はんぶん</rt></ruby> half<br><ruby>十分<rt>じゅっぷん／じゅうぶん</rt></ruby> ten minutes / enough<br><ruby>分かります<rt>わかります</rt></ruby> to understand
+生	い.きる、う.まれる、は.える / セイ、ショウ<br><ruby>学生<rt>がくせい</rt></ruby> student<br><ruby>先生<rt>せんせい</rt></ruby> teacher<br><ruby>誕生日<rt>たんじょうび</rt></ruby> birthday<br><ruby>生まれます<rt>うまれます</rt></ruby> to be born
+行	い.く、おこな.う / コウ、ギョウ、アン<br><ruby>行きます<rt>いきます</rt></ruby> to go<br><ruby>旅行<rt>りょこう</rt></ruby> travel<br><ruby>銀行<rt>ぎんこう</rt></ruby> bank<br><ruby>行く<rt>いく</rt></ruby> to go
+二	ふた、ふた.つ / ニ<br><ruby>二人<rt>ふたり</rt></ruby> two people<br><ruby>二<rt>に</rt></ruby> two<br><ruby>二月<rt>にがつ</rt></ruby> February<br><ruby>二階<rt>にかい</rt></ruby> second floor
+間	あいだ、ま / カン、ケン<br><ruby>時間<rt>じかん</rt></ruby> time<br><ruby>間<rt>あいだ</rt></ruby> between<br><ruby>一週間<rt>いっしゅうかん</rt></ruby> one week<br><ruby>人間<rt>にんげん</rt></ruby> human being
+時	とき / ジ<br><ruby>時間<rt>じかん</rt></ruby> time<br><ruby>何時<rt>なんじ</rt></ruby> what time<br><ruby>時々<rt>ときどき</rt></ruby> sometimes<br><ruby>一時<rt>いちじ</rt></ruby> one o'clock
+気	キ、ケ<br><ruby>元気<rt>げんき</rt></ruby> energetic<br><ruby>天気<rt>てんき</rt></ruby> weather<br><ruby>気をつけます<rt>きをつけます</rt></ruby> to watch out<br><ruby>病気<rt>びょうき</rt></ruby> sickness
+十	とお、と / ジュウ、ジッ<br><ruby>十<rt>じゅう</rt></ruby> ten<br><ruby>十日<rt>とおか</rt></ruby> the 10th day/ten days<br><ruby>十分<rt>じゅうぶん</rt></ruby> enough<br><ruby>三十<rt>さんじゅう</rt></ruby> thirty
+女	おんな、め / ジョ、ニョ<br><ruby>女の子<rt>おんなのこ</rt></ruby> girl<br><ruby>女の人<rt>おんなのひと</rt></ruby> woman<br><ruby>彼女<rt>かのじょ</rt></ruby> she/girlfriend<br><ruby>女性<rt>じょせい</rt></ruby> female/woman
+三	み、みっ.つ / サン<br><ruby>三人<rt>さんにん</rt></ruby> three people<br><ruby>三<rt>さん</rt></ruby> three<br><ruby>三月<rt>さんがつ</rt></ruby> March<br><ruby>三時<rt>さんじ</rt></ruby> three o'clock
+前	まえ / ゼン<br><ruby>名前<rt>なまえ</rt></ruby> name<br><ruby>前<rt>まえ</rt></ruby> before/in front of<br><ruby>午前<rt>ごぜん</rt></ruby> morning/AM<br><ruby>この前<rt>このまえ</rt></ruby> the other day
+入	い.る、はい.る / ニュウ<br><ruby>入ります<rt>はいります</rt></ruby> to enter<br><ruby>入り口<rt>いりぐち</rt></ruby> entrance<br><ruby>入れます<rt>いれます</rt></ruby> to put in<br><ruby>入学<rt>にゅうがく</rt></ruby> school enrollment
+小	ちい.さい、こ- / ショウ<br><ruby>小さい<rt>ちいさい</rt></ruby> small<br><ruby>小学校<rt>しょうがっこう</rt></ruby> elementary school<br><ruby>小説<rt>しょうせつ</rt></ruby> novel<br><ruby>小さな<rt>ちいさな</rt></ruby> small (attributive)
+後	あと、うし.ろ、のち / ゴ、コウ<br><ruby>後ろ<rt>うしろ</rt></ruby> behind<br><ruby>午後<rt>ごご</rt></ruby> afternoon<br><ruby>後で<rt>あとで</rt></ruby> later<br><ruby>最後<rt>さいご</rt></ruby> the last/final
+長	なが.い / チョウ<br><ruby>長い<rt>ながい</rt></ruby> long<br><ruby>社長<rt>しゃちょう</rt></ruby> company president<br><ruby>校長<rt>こうちょう</rt></ruby> principal<br><ruby>長さ<rt>ながさ</rt></ruby> length
+下	した、さ.げる、くだ.る / カ、ゲ<br><ruby>下<rt>した</rt></ruby> under/below<br><ruby>下手<rt>へた</rt></ruby> not good at<br><ruby>地下<rt>ちか</rt></ruby> basement<br><ruby>下さい<rt>ください</rt></ruby> please give me
+学	まな.ぶ / ガク<br><ruby>学校<rt>がっこう</rt></ruby> school<br><ruby>学生<rt>がくせい</rt></ruby> student<br><ruby>大学<rt>だいがく</rt></ruby> university<br><ruby>留学<rt>りゅうがく</rt></ruby> studying abroad
+月	つき / ゲツ、ガツ<br><ruby>今月<rt>こんげつ</rt></ruby> this month<br><ruby>一月<rt>いちがつ</rt></ruby> January<br><ruby>月曜日<rt>げつようび</rt></ruby> Monday<br><ruby>来月<rt>らいげつ</rt></ruby> next month
+何	なに、なん / カ<br><ruby>何<rt>なに／なん</rt></ruby> what<br><ruby>何時<rt>なんじ</rt></ruby> what time<br><ruby>何か<rt>なにか</rt></ruby> something<br><ruby>何人<rt>なんにん</rt></ruby> how many people
+来	く.る、きた.る / ライ<br><ruby>来ます<rt>きます</rt></ruby> to come<br><ruby>来年<rt>らいねん</rt></ruby> next year<br><ruby>来月<rt>らいげつ</rt></ruby> next month<br><ruby>未来<rt>みらい</rt></ruby> future
+話	はな.す、はなし / ワ<br><ruby>電話<rt>でんわ</rt></ruby> telephone<br><ruby>話します<rt>はなします</rt></ruby> to speak<br><ruby>会話<rt>かいわ</rt></ruby> conversation<br><ruby>昔話<rt>むかしばなし</rt></ruby> old tale
+山	やま / サン<br><ruby>山<rt>やま</rt></ruby> mountain<br><ruby>富士山<rt>ふじさん</rt></ruby> Mt. Fuji<br><ruby>登山<rt>とざん</rt></ruby> mountain climbing<br><ruby>火山<rt>かざん</rt></ruby> volcano
+高	たか.い / コウ<br><ruby>高い<rt>たかい</rt></ruby> high/expensive<br><ruby>高校<rt>こうこう</rt></ruby> high school<br><ruby>高校生<rt>こうこうせい</rt></ruby> high school student<br><ruby>背が高い<rt>せがたかい</rt></ruby> tall
+今	いま / コン、キン<br><ruby>今日<rt>きょう</rt></ruby> today<br><ruby>今<rt>いま</rt></ruby> now<br><ruby>今年<rt>ことし</rt></ruby> this year<br><ruby>今週<rt>こんしゅう</rt></ruby> this week
+書	か.く / ショ<br><ruby>辞書<rt>じしょ</rt></ruby> dictionary<br><ruby>書きます<rt>かきます</rt></ruby> to write<br><ruby>図書館<rt>としょかん</rt></ruby> library<br><ruby>教科書<rt>きょうかしょ</rt></ruby> textbook
+五	いつ.つ / ゴ<br><ruby>五人<rt>ごにん</rt></ruby> five people<br><ruby>五<rt>ご</rt></ruby> five<br><ruby>五月<rt>ごがつ</rt></ruby> May<br><ruby>五時<rt>ごじ</rt></ruby> five o'clock
+名	な / メイ、ミョウ<br><ruby>有名<rt>ゆうめい</rt></ruby> famous<br><ruby>名前<rt>なまえ</rt></ruby> name<br><ruby>名字<rt>みょうじ</rt></ruby> surname<br><ruby>名刺<rt>めいし</rt></ruby> business card
+金	かね / キン、コン<br><ruby>お金<rt>おかね</rt></ruby> money<br><ruby>金曜日<rt>きんようび</rt></ruby> Friday<br><ruby>金<rt>きん</rt></ruby> gold<br><ruby>料金<rt>りょうきん</rt></ruby> fee/charge

@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#columns:Front	Back
+運	はこ.ぶ / ウン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>運動<rt>うんどう</rt></ruby> exercise<br><ruby>運<rt>うん</rt></ruby> luck<br><ruby>運ぶ<rt>はこぶ</rt></ruby> to carry
+料	リョウ<br><ruby>料理<rt>りょうり</rt></ruby> cooking<br><ruby>料金<rt>りょうきん</rt></ruby> fee<br><ruby>材料<rt>ざいりょう</rt></ruby> ingredients<br><ruby>無料<rt>むりょう</rt></ruby> free of charge
+楽	たの.しい / ガク、ラク<br><ruby>楽しい<rt>たのしい</rt></ruby> fun<br><ruby>音楽<rt>おんがく</rt></ruby> music<br><ruby>楽<rt>らく</rt></ruby> comfortable/easy
+色	いろ / シキ、ショク<br><ruby>色<rt>いろ</rt></ruby> color<br><ruby>色々<rt>いろいろ</rt></ruby> various<br><ruby>景色<rt>けしき</rt></ruby> scenery
+帰	かえ.る / キ<br><ruby>帰ります<rt>かえります</rt></ruby> to go back<br><ruby>帰国<rt>きこく</rt></ruby> returning to one's home country
+歩	ある.く、あゆ.む / ホ、ブ<br><ruby>歩きます<rt>あるきます</rt></ruby> to walk<br><ruby>散歩<rt>さんぽ</rt></ruby> walk/stroll
+悪	わる.い / アク、オ<br><ruby>悪い<rt>わるい</rt></ruby> bad<br><ruby>気分が悪い<rt>きぶんがわるい</rt></ruby> feel bad
+広	ひろ.い / コウ<br><ruby>広い<rt>ひろい</rt></ruby> wide<br><ruby>広場<rt>ひろば</rt></ruby> plaza/open square
+店	みせ / テン<br><ruby>店<rt>みせ</rt></ruby> shop<br><ruby>店員<rt>てんいん</rt></ruby> store clerk<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe<br><ruby>百貨店<rt>ひゃっかてん</rt></ruby> department store
+町	まち / チョウ<br><ruby>町<rt>まち</rt></ruby> town
+住	す.む / ジュウ<br><ruby>住みます<rt>すみます</rt></ruby> to live<br><ruby>住所<rt>じゅうしょ</rt></ruby> address
+売	う.る / バイ<br><ruby>売ります<rt>うります</rt></ruby> to sell<br><ruby>販売<rt>はんばい</rt></ruby> sales<br><ruby>売り場<rt>うりば</rt></ruby> sales floor/counter
+待	ま.つ / タイ<br><ruby>待ちます<rt>まちます</rt></ruby> to wait<br><ruby>期待<rt>きたい</rt></ruby> expectation
+古	ふる.い / コ<br><ruby>古い<rt>ふるい</rt></ruby> old<br><ruby>中古<rt>ちゅうこ</rt></ruby> secondhand
+始	はじ.める、はじ.まる / シ<br><ruby>始めます<rt>はじめます</rt></ruby> to start<br><ruby>始まります<rt>はじまります</rt></ruby> to begin (itself)<br><ruby>始め<rt>はじめ</rt></ruby> beginning
+終	お.わる / シュウ<br><ruby>終わります<rt>おわります</rt></ruby> to finish<br><ruby>最終<rt>さいしゅう</rt></ruby> final/last
+計	はか.る / ケイ<br><ruby>時計<rt>とけい</rt></ruby> clock/watch<br><ruby>計画<rt>けいかく</rt></ruby> plan<br><ruby>会計<rt>かいけい</rt></ruby> bill/accounting
+院	イン<br><ruby>病院<rt>びょういん</rt></ruby> hospital<br><ruby>美容院<rt>びよういん</rt></ruby> hair salon<br><ruby>大学院<rt>だいがくいん</rt></ruby> graduate school
+送	おく.る / ソウ<br><ruby>送ります<rt>おくります</rt></ruby> to send
+族	ゾク<br><ruby>家族<rt>かぞく</rt></ruby> family
+映	うつ.る、は.える / エイ<br><ruby>映画<rt>えいが</rt></ruby> movie<br><ruby>映る<rt>うつる</rt></ruby> to be reflected
+買	か.う / バイ<br><ruby>買います<rt>かいます</rt></ruby> to buy<br><ruby>買い物<rt>かいもの</rt></ruby> shopping
+病	や.む、やまい / ビョウ、ヘイ<br><ruby>病気<rt>びょうき</rt></ruby> sickness<br><ruby>病院<rt>びょういん</rt></ruby> hospital
+早	はや.い / ソウ、サッ<br><ruby>早い<rt>はやい</rt></ruby> fast/early<br><ruby>早く<rt>はやく</rt></ruby> quickly/early<br><ruby>早起き<rt>はやおき</rt></ruby> early rising
+質	シツ、シチ<br><ruby>質問<rt>しつもん</rt></ruby> question<br><ruby>品質<rt>ひんしつ</rt></ruby> quality
+台	ダイ、タイ<br><ruby>台所<rt>だいどころ</rt></ruby> kitchen<br><ruby>台風<rt>たいふう</rt></ruby> typhoon<br><ruby>一台<rt>いちだい</rt></ruby> one (counter for machines)
+室	むろ / シツ<br><ruby>教室<rt>きょうしつ</rt></ruby> classroom<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab<br><ruby>図書室<rt>としょしつ</rt></ruby> library room
+可	カ<br><ruby>可能<rt>かのう</rt></ruby> possible
+建	た.てる / ケン、コン<br><ruby>建物<rt>たてもの</rt></ruby> building<br><ruby>建てます<rt>たてます</rt></ruby> to build
+転	ころ.がる、ころ.ぶ / テン<br><ruby>運転します<rt>うんてんします</rt></ruby> to drive<br><ruby>自転車<rt>じてんしゃ</rt></ruby> bicycle<br><ruby>転校<rt>てんこう</rt></ruby> transferring school
+医	イ<br><ruby>医者<rt>いしゃ</rt></ruby> doctor<br><ruby>医学<rt>いがく</rt></ruby> medical science
+止	と.まる、と.める / シ<br><ruby>止めます<rt>とめます</rt></ruby> to stop (something)<br><ruby>止まります<rt>とまります</rt></ruby> to stop (itself)<br><ruby>中止<rt>ちゅうし</rt></ruby> cancellation
+字	あざ / ジ<br><ruby>漢字<rt>かんじ</rt></ruby> kanji<br><ruby>字<rt>じ</rt></ruby> character/letter<br><ruby>数字<rt>すうじ</rt></ruby> number/numeral
+工	コウ、ク<br><ruby>工場<rt>こうじょう</rt></ruby> factory<br><ruby>大工<rt>だいく</rt></ruby> carpenter
+急	いそ.ぐ / キュウ<br><ruby>急ぎます<rt>いそぎます</rt></ruby> to hurry<br><ruby>急に<rt>きゅうに</rt></ruby> suddenly<br><ruby>特急<rt>とっきゅう</rt></ruby> express (train)
+図	はか.る / ズ、ト<br><ruby>地図<rt>ちず</rt></ruby> map<br><ruby>図書館<rt>としょかん</rt></ruby> library
+黒	くろ、くろ.い / コク<br><ruby>黒い<rt>くろい</rt></ruby> black<br><ruby>黒板<rt>こくばん</rt></ruby> blackboard
+花	はな / カ<br><ruby>花<rt>はな</rt></ruby> flower<br><ruby>花見<rt>はなみ</rt></ruby> flower viewing<br><ruby>花火<rt>はなび</rt></ruby> fireworks
+英	エイ<br><ruby>英語<rt>えいご</rt></ruby> English language
+走	はし.る / ソウ<br><ruby>走ります<rt>はしります</rt></ruby> to run
+青	あお、あお.い / セイ、ショウ<br><ruby>青い<rt>あおい</rt></ruby> blue
+答	こた.える / トウ<br><ruby>答え<rt>こたえ</rt></ruby> answer<br><ruby>答えます<rt>こたえます</rt></ruby> to answer

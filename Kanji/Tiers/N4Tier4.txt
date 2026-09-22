@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#columns:Front	Back
+紙	かみ / シ<br><ruby>紙<rt>かみ</rt></ruby> paper<br><ruby>手紙<rt>てがみ</rt></ruby> letter
+歌	うた、うた.う / カ<br><ruby>歌<rt>うた</rt></ruby> song<br><ruby>歌います<rt>うたいます</rt></ruby> to sing
+注	そそ.ぐ / チュウ<br><ruby>注意<rt>ちゅうい</rt></ruby> caution<br><ruby>注文<rt>ちゅうもん</rt></ruby> order (request)
+赤	あか、あか.い / セキ、シャク<br><ruby>赤い<rt>あかい</rt></ruby> red<br><ruby>赤ちゃん<rt>あかちゃん</rt></ruby> baby
+春	はる / シュン<br><ruby>春<rt>はる</rt></ruby> spring (season)
+館	やかた / カン<br><ruby>図書館<rt>としょかん</rt></ruby> library<br><ruby>大使館<rt>たいしかん</rt></ruby> embassy<br><ruby>美術館<rt>びじゅつかん</rt></ruby> art museum
+旅	たび / リョ<br><ruby>旅行<rt>りょこう</rt></ruby> travel
+験	ケン、ゲン<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>経験<rt>けいけん</rt></ruby> experience
+写	うつ.す / シャ<br><ruby>写真<rt>しゃしん</rt></ruby> photo
+去	さ.る / キョ、コ<br><ruby>去年<rt>きょねん</rt></ruby> last year
+研	と.ぐ / ケン<br><ruby>研究します<rt>けんきゅうします</rt></ruby> to research<br><ruby>研究室<rt>けんきゅうしつ</rt></ruby> research lab
+飲	の.む / イン<br><ruby>飲みます<rt>のみます</rt></ruby> to drink<br><ruby>飲み物<rt>のみもの</rt></ruby> drink
+肉	ニク<br><ruby>肉<rt>にく</rt></ruby> meat<br><ruby>肉屋<rt>にくや</rt></ruby> butcher
+服	フク<br><ruby>服<rt>ふく</rt></ruby> clothes<br><ruby>洋服<rt>ようふく</rt></ruby> (Western-style) clothes<br><ruby>服屋<rt>ふくや</rt></ruby> clothing store
+銀	ギン<br><ruby>銀行<rt>ぎんこう</rt></ruby> bank
+茶	チャ、サ<br><ruby>お茶<rt>おちゃ</rt></ruby> tea<br><ruby>紅茶<rt>こうちゃ</rt></ruby> black tea<br><ruby>喫茶店<rt>きっさてん</rt></ruby> cafe
+究	きわ.める / キュウ<br><ruby>研究<rt>けんきゅう</rt></ruby> research
+洋	ヨウ<br><ruby>洋服<rt>ようふく</rt></ruby> Western clothes<br><ruby>西洋<rt>せいよう</rt></ruby> the West
+兄	あに / キョウ、ケイ<br><ruby>お兄さん<rt>おにいさん</rt></ruby> older brother
+秋	あき / シュウ<br><ruby>秋<rt>あき</rt></ruby> autumn (season)
+堂	ドウ<br><ruby>食堂<rt>しょくどう</rt></ruby> dining hall/cafeteria
+週	シュウ<br><ruby>今週<rt>こんしゅう</rt></ruby> this week<br><ruby>来週<rt>らいしゅう</rt></ruby> next week<br><ruby>先週<rt>せんしゅう</rt></ruby> last week<br><ruby>週末<rt>しゅうまつ</rt></ruby> weekend
+習	なら.う / シュウ<br><ruby>習います<rt>ならいます</rt></ruby> to learn<br><ruby>練習します<rt>れんしゅうします</rt></ruby> to practice
+試	こころ.みる、ため.す / シ<br><ruby>試験<rt>しけん</rt></ruby> exam<br><ruby>試します<rt>ためします</rt></ruby> to try (something)
+夏	なつ / カ、ゲ<br><ruby>夏<rt>なつ</rt></ruby> summer<br><ruby>夏休み<rt>なつやすみ</rt></ruby> summer vacation
+弟	おとうと / テイ、ダイ<br><ruby>弟<rt>おとうと</rt></ruby> younger brother
+鳥	とり / チョウ<br><ruby>鳥<rt>とり</rt></ruby> bird<br><ruby>焼き鳥<rt>やきとり</rt></ruby> grilled chicken skewers
+犬	いぬ / ケン<br><ruby>犬<rt>いぬ</rt></ruby> dog
+夕	ゆう / セキ<br><ruby>夕方<rt>ゆうがた</rt></ruby> evening<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner
+魚	さかな、うお / ギョ<br><ruby>魚<rt>さかな</rt></ruby> fish<br><ruby>魚屋<rt>さかなや</rt></ruby> fish shop
+借	か.りる / シャク<br><ruby>借ります<rt>かります</rt></ruby> to borrow
+飯	めし / ハン<br><ruby>ご飯<rt>ごはん</rt></ruby> rice/meal<br><ruby>朝ご飯<rt>あさごはん</rt></ruby> breakfast<br><ruby>夕飯<rt>ゆうはん</rt></ruby> dinner
+駅	エキ<br><ruby>駅<rt>えき</rt></ruby> (train) station
+昼	ひる / チュウ<br><ruby>昼<rt>ひる</rt></ruby> noon/daytime<br><ruby>昼ご飯<rt>ひるごはん</rt></ruby> lunch<br><ruby>昼休み<rt>ひるやすみ</rt></ruby> lunch break
+冬	ふゆ / トウ<br><ruby>冬<rt>ふゆ</rt></ruby> winter
+姉	あね / シ<br><ruby>姉<rt>あね</rt></ruby> older sister
+曜	ヨウ<br><ruby>曜日<rt>ようび</rt></ruby> day of the week<br><ruby>何曜日<rt>なんようび</rt></ruby> what day of the week
+漢	カン<br><ruby>漢字<rt>かんじ</rt></ruby> kanji (Chinese character)
+牛	うし / ギュウ<br><ruby>牛肉<rt>ぎゅうにく</rt></ruby> beef<br><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> milk
+妹	いもうと / マイ<br><ruby>妹<rt>いもうと</rt></ruby> younger sister
+貸	か.す / タイ<br><ruby>貸します<rt>かします</rt></ruby> to lend
+勉	ベン<br><ruby>勉強します<rt>べんきょうします</rt></ruby> to study
